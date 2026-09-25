@@ -1,0 +1,748 @@
+{
+  "updatedAt": "2026-09-25",
+  "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
+  "projects": [
+    {
+      "id": "exhibition-building-1",
+      "name": "常州比亚迪全品牌旗舰店",
+      "englishName": "Changzhou BYD Full-Brand Flagship Store",
+      "year": "2024–present",
+      "date": "2024年3月 – 现在",
+      "location": "Zhonglou District, Changzhou City, Jiangsu Province, China",
+      "category": "展陈与汽车",
+      "role": "Lead Architect",
+      "originalDescription": "The project is located in Zhonglou District, Changzhou City, Jiangsu Province. Developed by BYD Group, it has a total construction area of approximately 27,000 square meters with a planned investment of 300 million yuan. It will be the first flagship store in Jiangsu Province that integrates all BYD brands with the highest standards, combining functions such as automobile knowledge promotion, brand history exhibition, corporate culture display, technology experience, car exhibition, sales, and maintenance. The project is currently under construction and is expected to be completed by the end of 2025.",
+      "keywords": [
+        "展陈与汽车",
+        "常州",
+        "Architectural Scheme Design",
+        "Lead Architect",
+        "BYD",
+        "Automotive Flagship Store"
+      ],
+      "image": "assets/projects/Exhibition-Building-1.jpg",
+      "sourceFile": "Exhibition Building-1.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E5%B8%B8%E5%B7%9E%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E5%93%81%E7%89%8C%E6%97%97%E8%88%B0%E5%BA%97-changzhou-byd-full-brand-flagship-store-%E5%9B%BD%E7%A5%A5-%E5%90%95-loi5e/"
+    },
+    {
+      "id": "industrial-park-1",
+      "name": "济南智慧瓴智造科技城",
+      "englishName": "Jinan Zhihuiling Intelligent Manufacturing Technology City",
+      "year": "2019–2021",
+      "date": "2019年3月 – 2021年4月",
+      "location": "Licheng District, Jinan, Shandong Province, China",
+      "category": "产业园区",
+      "role": "Lead Architect",
+      "originalDescription": "Zhihuilíng Intelligent Manufacturing Technology City is located in Licheng District, Jinan, and developed by Shandong Zhihui Industrial Technology Co., Ltd. The project includes multi-storey factories (500-12,000㎡) and high-rise factories (300-1,200㎡). As an industrial park integrating production, R&D and office functions, it takes intelligent manufacturing, biomedicine and other industries as its leading sectors. The first phase, with a construction area of 190,000㎡, has been completed; the second phase, covering 210,000㎡ in construction area, has part of its structure capped.",
+      "keywords": [
+        "产业园区",
+        "济南",
+        "建筑师",
+        "建筑制图",
+        "建筑信息模型",
+        "AutoCAD"
+      ],
+      "image": "assets/projects/Industrial-Park-1.jpg",
+      "sourceFile": "Industrial Park-1.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E6%B5%8E%E5%8D%97%E6%99%BA%E6%85%A7%E7%93%B4%E6%99%BA%E9%80%A0%E7%A7%91%E6%8A%80%E5%9F%8E-jinan-zhihuiling-intelligent-manufacturing-%E5%9B%BD%E7%A5%A5-%E5%90%95-wuhre/"
+    },
+    {
+      "id": "exhibition-building-3",
+      "name": "The Eco Leaves Project at Singapore’s Gardens by the Bay",
+      "englishName": "Eco Leaves · Gardens by the Bay",
+      "year": "2025–present",
+      "date": "2025年6月 – 现在",
+      "location": "Gardens by the Bay, Singapore",
+      "category": "展陈与汽车",
+      "role": "BIM Modeling and Rendering Services",
+      "originalDescription": "The project is situated in Gardens by the Bay, Singapore, covering a construction area of around 4,000 square meters. It is an exhibition building that combines exhibition functions with water purification and environmental protection services.​",
+      "keywords": [
+        "展陈与汽车",
+        "新加坡",
+        "Concept Design",
+        "Architectural Scheme Design",
+        "BIM Modelling",
+        "Rendering"
+      ],
+      "image": "assets/projects/Exhibition-Building-3.jpg",
+      "sourceFile": "Exhibition Building-3.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/eco-leaves-project-singapores-gardens-bay-%E5%9B%BD%E7%A5%A5-%E5%90%95-zbsme/"
+    },
+    {
+      "id": "school-1",
+      "name": "重庆彭水县实验小学项目",
+      "englishName": "Chongqing Pengshui County Experimental Primary School Project",
+      "year": "2023–present",
+      "date": "2023年6月 – 现在",
+      "location": "Pengshui County, Chongqing, China",
+      "category": "教育建筑",
+      "role": "Lead Architect",
+      "originalDescription": "This project is located in Pengshui County, Chongqing. It is developed and approved by the Education Commission of Pengshui County, with a total construction area of approximately 60,000 square meters. It is a primary school architectural design integrating various functions such as classrooms, offices, canteens, sports centers, swimming pools, and parking lots. The site has been leveled and is currently under construction.",
+      "keywords": [
+        "教育建筑",
+        "重庆",
+        "Architectural Scheme Design",
+        "Lead Architect",
+        "Primary School",
+        "Education Campus"
+      ],
+      "image": "assets/projects/School-1.jpg",
+      "sourceFile": "School-1.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8E%BF%E5%AE%9E%E9%AA%8C%E5%B0%8F%E5%AD%A6%E9%A1%B9%E7%9B%AE-chongqing-pengshui-county-experimental-primary-%E5%9B%BD%E7%A5%A5-%E5%90%95-4uexe/"
+    },
+    {
+      "id": "residence-3",
+      "name": "ANG MO KIO HDB project in Singapore",
+      "englishName": "Ang Mo Kio HDB",
+      "year": "2024",
+      "date": "2024年5月 – 2024年8月",
+      "location": "Ang Mo Kio, Singapore",
+      "category": "居住与酒店",
+      "role": "BIM Consulting Services",
+      "originalDescription": "The project is located in the Ang Mo Kio area of Singapore, with a total construction area of approximately 60,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase.",
+      "keywords": [
+        "居住与酒店",
+        "新加坡",
+        "BIM Consulting Services",
+        "BIM Modelling",
+        "建筑制图",
+        "PreDC"
+      ],
+      "image": "assets/projects/Residence-3.jpg",
+      "sourceFile": "Residence-3.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/ang-mo-kio-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-jbdqe/"
+    },
+    {
+      "id": "residence-2",
+      "name": "YiShun HDB project in Singapore",
+      "englishName": "Yishun HDB",
+      "year": "2024",
+      "date": "2024年5月 – 2024年8月",
+      "location": "Yishun, Singapore",
+      "category": "居住与酒店",
+      "role": "BIM Consulting Services",
+      "originalDescription": "The project is located in the Yishun area of Singapore, with a total construction area of approximately 90,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase.",
+      "keywords": [
+        "居住与酒店",
+        "新加坡",
+        "BIM Consulting Services",
+        "BIM Modelling",
+        "建筑制图",
+        "PreDC"
+      ],
+      "image": "assets/projects/Residence-2.jpg",
+      "sourceFile": "Residence-2.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/yishun-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-xbvbe/"
+    },
+    {
+      "id": "industrial-park-2",
+      "name": "盟固利动力电池制造项目",
+      "englishName": "Mengguli Power Battery Manufacturing Project",
+      "year": "2021",
+      "date": "2021年10月 – 2021年12月",
+      "location": "Yubei District, Chongqing, China",
+      "category": "产业园区",
+      "role": "Lead Architect",
+      "originalDescription": "This project is located in Yubei District, Chongqing, about 4 kilometers away from the airport. Developed by Mengguli Group, it has a total construction area of approximately 340,000 square meters. It is a comprehensive factory planning and design integrating various formats such as battery production and storage workshops, commercial services, and residential buildings for park life.",
+      "keywords": [
+        "产业园区",
+        "重庆",
+        "Concept Design",
+        "BIM Modelling",
+        "建筑制图",
+        "建筑信息模型"
+      ],
+      "image": "assets/projects/Industrial-Park-2.jpg",
+      "sourceFile": "Industrial Park-2.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E7%9B%9F%E5%9B%BA%E5%88%A9%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E5%88%B6%E9%80%A0%E9%A1%B9%E7%9B%AE-mengguli-power-battery-manufacturing-project-%E5%9B%BD%E7%A5%A5-%E5%90%95-0g8ye/"
+    },
+    {
+      "id": "office-4",
+      "name": "上海江桥综合体项目",
+      "englishName": "Shanghai Jiangqiao Complex Project",
+      "year": "",
+      "date": "",
+      "location": "上海",
+      "category": "办公建筑",
+      "role": "Lead Architect",
+      "originalDescription": "This project is located in Jiangqiao, Jiading District, Shanghai. It is an 89,000-square-meter comprehensive commercial landmark integrating office, hotel and commercial functions.",
+      "keywords": [
+        "办公建筑",
+        "上海"
+      ],
+      "image": "assets/projects/Office-4.jpg",
+      "sourceFile": "Office-4.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "office-6",
+      "name": "北京绿地中心ABC座",
+      "englishName": "Blocks A/B/C of Beijing Greenland Center",
+      "year": "",
+      "date": "",
+      "location": "北京",
+      "category": "办公建筑",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "Blocks A, B and C of Beijing Greenland Center (excluding the super high-rise part) are located in Chaoyang District. Developed by Greenland Group, they are comprehensive office buildings mainly focusing on Grade A office spaces and business services, with a total construction area of approximately 180,000 square meters. The buildings have been completed and put into operation.",
+      "keywords": [
+        "办公建筑",
+        "北京"
+      ],
+      "image": "assets/projects/Office-6.jpg",
+      "sourceFile": "Office-6.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "office-3",
+      "name": "南昌绿地朝阳中心",
+      "englishName": "Nanchang Greenland Chaoyang Center",
+      "year": "",
+      "date": "",
+      "location": "南昌",
+      "category": "办公建筑",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "A 160,000-square-meter comprehensive commercial project developed by Greenland Group, located in Chaoyang District, Nanchang. It is positioned as a landmark building integrating 216-meter super high\u0002rise offices, apartments and commerce, and the project has been completed.",
+      "keywords": [
+        "办公建筑",
+        "南昌"
+      ],
+      "image": "assets/projects/Office-3.jpg",
+      "sourceFile": "Office-3.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "office-2",
+      "name": "合肥高速中央广场",
+      "englishName": "Hefei Gaosu Central Plaza",
+      "year": "",
+      "date": "",
+      "location": "合肥",
+      "category": "办公建筑",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "Gaosu Central Plaza is a comprehensive commercial and residential project located in Binhu New Area, Hefei. Developed by Anhui Expressway Real Estate Co., Ltd., it was completed in 2019. The design scope of this project covers the commercial and office sections.",
+      "keywords": [
+        "办公建筑",
+        "合肥"
+      ],
+      "image": "assets/projects/Office-2.jpg",
+      "sourceFile": "Office-2.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "office-5",
+      "name": "国家技术转移郑州中心",
+      "englishName": "Zhengzhou National Technology Transfer Center",
+      "year": "",
+      "date": "",
+      "location": "郑州",
+      "category": "办公建筑",
+      "role": "Lead Architect",
+      "originalDescription": "The total construction area of the project is approximately 200,000 square meters. It is a comprehensive building integrating multiple functions such as office, conference, exhibition and leisure",
+      "keywords": [
+        "办公建筑",
+        "郑州"
+      ],
+      "image": "assets/projects/Office-5.jpg",
+      "sourceFile": "Office-5.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "office-7",
+      "name": "武汉奥山余家头概念设计",
+      "englishName": "Concept Design of Wuhan Aoshan Yujiatou",
+      "year": "",
+      "date": "",
+      "location": "武汉",
+      "category": "办公建筑",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "The project is located in the Yujiatou area of Wuhan. Developed by Aoshan Group, it is a comprehensive office building with a total construction area of approximately 80,000 square meters, mainly focusing on Grade A office spaces and business services.",
+      "keywords": [
+        "办公建筑",
+        "武汉"
+      ],
+      "image": "assets/projects/Office-7.jpg",
+      "sourceFile": "Office-7.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "office-1",
+      "name": "虹桥世界中心",
+      "englishName": "LM Hongqiao World Center",
+      "year": "",
+      "date": "",
+      "location": "上海",
+      "category": "办公建筑",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "Hongqiao World Centre lies in the Hongqiao Business District that is the pivot of Shanghai, In response to the clover leaf concept of NECC, the buildings are organized coherently to direct circulations, presenting an analogy of sunflower. The center of flower is aligned with its counterpart of NECC, attaining the most identifiable building clusters.",
+      "keywords": [
+        "办公建筑",
+        "上海"
+      ],
+      "image": "assets/projects/Office-1.jpg",
+      "sourceFile": "Office-1.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "office-8",
+      "name": "青岛海尔公交TOD项目",
+      "englishName": "Qingdao Haier Public Transport TOD Project",
+      "year": "",
+      "date": "",
+      "location": "青岛",
+      "category": "办公建筑",
+      "role": "Lead Architect",
+      "originalDescription": "The project is located on Shenyang Road, Shibei District, Qingdao. It is jointly developed by Haier Group and Qingdao Public Transport Group, with a total construction area of approximately 120,000 square meters. It features a comprehensive planning and design integrating high-end offices, business centers and boutique residences.",
+      "keywords": [
+        "办公建筑",
+        "青岛"
+      ],
+      "image": "assets/projects/Office-8.jpg",
+      "sourceFile": "Office-8.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "shopping-mall-1",
+      "name": "上海1788广场立面改造",
+      "englishName": "Facade Renovation of Shanghai 1788 Plaza",
+      "year": "",
+      "date": "",
+      "location": "上海",
+      "category": "商业与综合体",
+      "role": "Lead Architect",
+      "originalDescription": "This project is located at No. 1788 Nanjing West Road, Shanghai, including a Grade A office building and supporting commercial facilities. With the renovation of the building's exterior as the core, innovative designs are adopted to reshape the building's image, so as to adapt to urban aesthetics and development needs.",
+      "keywords": [
+        "商业与综合体",
+        "上海"
+      ],
+      "image": "assets/projects/Shopping-mall-1.jpg",
+      "sourceFile": "Shopping mall-1.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "shopping-mall-3",
+      "name": "石家庄保利广场",
+      "englishName": "Shijiazhuang Poly Plaza",
+      "year": "",
+      "date": "",
+      "location": "石家庄",
+      "category": "商业与综合体",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "Shijiazhuang Poly Plaza is located at the intersection of Tiyu Street and Fengshou Road in Chang'an District, Shijiazhuang City. Developed by Poly Group, it has a shopping center area of approximately 80,000 square meters. It is a commercial complex integrating multiple functions such as retail, catering and entertainment, and has been completed and put into operation.",
+      "keywords": [
+        "商业与综合体",
+        "石家庄"
+      ],
+      "image": "assets/projects/Shopping-mall-3.jpg",
+      "sourceFile": "Shopping mall-3.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "shopping-mall-2",
+      "name": "荆门万达广场",
+      "englishName": "Jingmen Wanda Plaza",
+      "year": "",
+      "date": "",
+      "location": "荆门",
+      "category": "商业与综合体",
+      "role": "Lead Architect",
+      "originalDescription": "Jingmen Wanda Plaza is located in Duodao District, Jingmen City. Developed by Wanda Group, it has a total construction area of 730,000 square meters, with the shopping center area covering 145,000 square meters. It is an urban complex integrating multiple functions such as shopping, catering, culture, entertainment, business and leisure. The project has been completed and put up for sale.",
+      "keywords": [
+        "商业与综合体",
+        "荆门"
+      ],
+      "image": "assets/projects/Shopping-mall-2.jpg",
+      "sourceFile": "Shopping mall-2.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "shopping-mall-4",
+      "name": "西宁香格里拉商业中心",
+      "englishName": "Xining Shangri-La Commercial Center",
+      "year": "",
+      "date": "",
+      "location": "西宁",
+      "category": "商业与综合体",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "Xining Shangri-La Commercial Center in Qinghai is located at No. 8 Shangri-La Avenue, Chengzhong District. It is developed by Xining Weiye Real Estate Development Co., Ltd. With a total construction area of approximately 200,000 square meters and a shopping center area of about 100,000 square meters, it is a large-scale urban complex integrating leisure, entertainment, catering and shopping, and has been opened for operation.",
+      "keywords": [
+        "商业与综合体",
+        "西宁"
+      ],
+      "image": "assets/projects/Shopping-mall-4.jpg",
+      "sourceFile": "Shopping mall-4.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "shopping-mall-6",
+      "name": "郑州国际酒店用品博览中心项目",
+      "englishName": "Zhengzhou International Hotel Supplies Expo Center Project",
+      "year": "",
+      "date": "",
+      "location": "郑州",
+      "category": "商业与综合体",
+      "role": "Lead Architect",
+      "originalDescription": "The total construction area of the project is approximately 120,000 square meters. It is a commercial complex integrating multiple functions such as shopping, catering, entertainment and leisure",
+      "keywords": [
+        "商业与综合体",
+        "郑州"
+      ],
+      "image": "assets/projects/Shopping-mall-6.jpg",
+      "sourceFile": "Shopping mall-6.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "l-6",
+      "name": "郑州豫发锦荣商贸城立面改造",
+      "englishName": "Facade Renovation of Zhengzhou Yufa Jinrong Trade City",
+      "year": "",
+      "date": "",
+      "location": "郑州",
+      "category": "商业与综合体",
+      "role": "Lead Architect",
+      "originalDescription": "The project is located near Zhengzhou Railway Station.This is the design project with the fastest implementation speed that I've ever handled — I completed the SketchUp modeling, exported the drawings, and integrated them into the document for submission within a day. Then, just three months later, I received the client's message saying \"it's built\". It's simply incredible, haha!",
+      "keywords": [
+        "商业与综合体",
+        "郑州"
+      ],
+      "image": "assets/projects/L-6.jpg",
+      "sourceFile": "L-6.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "shopping-mall-5",
+      "name": "郑州豫发锦荣悦汇城",
+      "englishName": "Zhengzhou Yufa Jinrong Yuehui Mall",
+      "year": "",
+      "date": "",
+      "location": "郑州",
+      "category": "商业与综合体",
+      "role": "Lead Architect",
+      "originalDescription": "Zhengzhou Yufa Jinrong Yuehui Mall is located in the Zhengzhou Airport Economy Zone. Developed by Yufa Group, it has a total construction area of approximately 300,000 square meters, with the shopping center itself covering 100,000 square meters. It is a commercial complex integrating multiple functions such as shopping, catering, entertainment, and leisure, and has already opened for operation.",
+      "keywords": [
+        "商业与综合体",
+        "郑州"
+      ],
+      "image": "assets/projects/Shopping-mall-5.jpg",
+      "sourceFile": "Shopping mall-5.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "shopping-mall-7",
+      "name": "重庆三洞桥park",
+      "englishName": "Chongqing Sandongqiao Park",
+      "year": "",
+      "date": "",
+      "location": "重庆",
+      "category": "商业与综合体",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "Chongqing Sandongqiao Park is located on North Binjiang First Road, Jiangbei District. Developed and constructed by Chongqing Jiangbeizui Central Business District Investment Group Co., Ltd., it has a total construction area of approximately 48,000 square meters. It is a cultural and tourism block integrating the protection of historical relics with commercial operations, incorporating cultural display, catering and leisure, as well as sightseeing and experience. At present, it has been completed and opened to the public.",
+      "keywords": [
+        "商业与综合体",
+        "重庆"
+      ],
+      "image": "assets/projects/Shopping-mall-7.jpg",
+      "sourceFile": "Shopping mall-7.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "shopping-mall-8",
+      "name": "重庆武隆新欧鹏教育城",
+      "englishName": "Chongqing Wulong Xinoupeng Education City",
+      "year": "2021",
+      "date": "2021年9月 – 2021年11月",
+      "location": "Wulong, Chongqing, China",
+      "category": "商业与综合体",
+      "role": "Lead Architect",
+      "originalDescription": "The project is located in Wulong, Chongqing, developed by Xinoupeng Group. With a total construction area of approximately 120,000 square meters, it features a comprehensive planning and design integrating various formats such as a commercial mall, an education center, and residential buildings.",
+      "keywords": [
+        "商业与综合体",
+        "重庆",
+        "Concept Design",
+        "BIM Modelling",
+        "建筑师",
+        "建筑制图"
+      ],
+      "image": "assets/projects/Shopping-mall-8.jpg",
+      "sourceFile": "Shopping mall-8.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E6%AD%A6%E9%9A%86%E6%96%B0%E6%AC%A7%E9%B9%8F%E6%95%99%E8%82%B2%E5%9F%8E-chongqing-wulong-xinoupeng-education-city-%E5%9B%BD%E7%A5%A5-%E5%90%95-izsae/"
+    },
+    {
+      "id": "master-plan-2",
+      "name": "保利合肥老火车站地块概念规划",
+      "englishName": "Poly Real Estate's Conceptual Planning for Hefei Old Railway Station Plot",
+      "year": "",
+      "date": "",
+      "location": "合肥",
+      "category": "城市规划",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "The project is located in the area of Hefei Old Railway Station and developed by Poly Group, with a total construction area of approximately 1.29 million square meters. It is a comprehensive planning and design mainly consisting of high-end offices, business centers, boutique residences and hotels.",
+      "keywords": [
+        "城市规划",
+        "合肥"
+      ],
+      "image": "assets/projects/Master-Plan-2.jpg",
+      "sourceFile": "Master Plan-2.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "master-plan-4",
+      "name": "昆明国际花都概念设计",
+      "englishName": "Kunming International Flower Metropolis",
+      "year": "",
+      "date": "",
+      "location": "昆明",
+      "category": "城市规划",
+      "role": "Lead Architect",
+      "originalDescription": "The project is located in Yiliang County, Kunming, and is developed by Red Star Macalline. It has a floor area ratio (FAR) of approximately 780,000 square meters, featuring a comprehensive planning and design integrating multiple formats such as landmark towers, commercial facilities, exhibition spaces, and residential buildings.",
+      "keywords": [
+        "城市规划",
+        "昆明"
+      ],
+      "image": "assets/projects/Master-Plan-4.jpg",
+      "sourceFile": "Master Plan-4.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "master-plan-5",
+      "name": "淮安大运河概念设计",
+      "englishName": "Conceptual Design of Huai'an Grand Canal",
+      "year": "2021",
+      "date": "2021年7月 – 2021年12月",
+      "location": "Huai'an City, Jiangsu Province, China",
+      "category": "城市规划",
+      "role": "Lead Architect",
+      "originalDescription": "The project is located near the administrative and cultural center of Huai'an City, Jiangsu Province. Developed by Red Star Macalline, it has a total construction area of approximately 960,000 square meters. It features a comprehensive planning and design integrating multiple formats such as commerce, exhibitions, sports centers and residences.",
+      "keywords": [
+        "城市规划",
+        "淮安",
+        "Concept Design",
+        "AutoCAD",
+        "Architectural Scheme Design",
+        "Lead Architect"
+      ],
+      "image": "assets/projects/Master-Plan-5.jpg",
+      "sourceFile": "Master Plan-5.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E6%B7%AE%E5%AE%89%E5%A4%A7%E8%BF%90%E6%B2%B3%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1-conceptual-design-huaian-grand-canal-%E5%9B%BD%E7%A5%A5-%E5%90%95-zzfce/"
+    },
+    {
+      "id": "master-plan-1",
+      "name": "郑州永威双鹤湖概念设计",
+      "englishName": "Zhengzhou Yongwei Shuanghe Lake",
+      "year": "",
+      "date": "",
+      "location": "郑州",
+      "category": "城市规划",
+      "role": "Lead Architect",
+      "originalDescription": "The project is located in the Shuanghe Lake Area of Zhengzhou Airport Economic Zone, adjacent to the Central Landscape Axis. Developed by Yongwei Group, it has a total construction area of approximately 700,000 square meters. It is a comprehensive planning and design mainly consisting of high-end offices, business services, boutique residences, schools and neighborhood centers.",
+      "keywords": [
+        "城市规划",
+        "郑州"
+      ],
+      "image": "assets/projects/Master-Plan-1.jpg",
+      "sourceFile": "Master Plan-1.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "master-plan-3",
+      "name": "重庆璧山爱琴海TOD项目",
+      "englishName": "Chongqing Bishan Aegean Sea TOD Project",
+      "year": "",
+      "date": "",
+      "location": "重庆",
+      "category": "城市规划",
+      "role": "Lead Architect",
+      "originalDescription": "The Chongqing Bishan Aegean Sea TOD Project is located in the core area of the Bishan section of the Science City. Jointly developed by Red Star Macalline and Sunac, it has a total investment of over 8 billion yuan and a floor area ratio (FAR) construction area of approximately 1.08 million square meters, including a 248,000-square-meter urban complex. Integrating 3 rail transit lines, it combines multiple formats such as commerce, office and residential. As the first TOD complex in the Science City, its shopping park has been capped.",
+      "keywords": [
+        "城市规划",
+        "重庆"
+      ],
+      "image": "assets/projects/Master-Plan-3.jpg",
+      "sourceFile": "Master Plan-3.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "residence-1",
+      "name": "上海保利云上住宅项目",
+      "englishName": "Shanghai Poly Cloud Residence Project",
+      "year": "",
+      "date": "",
+      "location": "上海",
+      "category": "居住与酒店",
+      "role": "Lead Architect",
+      "originalDescription": "A 100,000-square-meter residential development under Poly Group, located in the core area of Jiangqiao Town, Jiading District, Shanghai, is positioned as a high-end residential building. It has been completed and put up for sale.",
+      "keywords": [
+        "居住与酒店",
+        "上海"
+      ],
+      "image": "assets/projects/Residence-1.jpg",
+      "sourceFile": "Residence-1.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "hotel-apartment-1",
+      "name": "绍兴苏宁希尔顿酒店",
+      "englishName": "Shaoxing Suning Hilton Hotel",
+      "year": "",
+      "date": "",
+      "location": "绍兴",
+      "category": "居住与酒店",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "A 38,000-square-meter hotel under Hilton Group, located in Shaoxing, Zhejiang Province, is positioned as a landmark building integrating high-end hotel services, business conferences and office functions. The project has been completed.",
+      "keywords": [
+        "居住与酒店",
+        "绍兴"
+      ],
+      "image": "assets/projects/Hotel-Apartment-1.jpg",
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "hotel-apartment-2",
+      "name": "西安莱安领域项目",
+      "englishName": "Xi'an Lai'an Lingyu Project",
+      "year": "",
+      "date": "",
+      "location": "西安",
+      "category": "居住与酒店",
+      "role": "Lead Architect",
+      "originalDescription": "A 90,000-square-meter comprehensive commercial apartment project developed by Lai'an Group, located in Chang'an District, Xi'an. It is a comprehensive commercial building integrating apartments and commerce. The project is under phased construction, with the first phase completed.",
+      "keywords": [
+        "居住与酒店",
+        "西安"
+      ],
+      "image": "assets/projects/Hotel-Apartment-2.jpg",
+      "sourceFile": "Hotel&Apartment-2.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "residence-4",
+      "name": "重庆彭水县别墅设计",
+      "englishName": "Chongqing Pengshui Villa Design",
+      "year": "",
+      "date": "",
+      "location": "重庆",
+      "category": "居住与酒店",
+      "role": "Lead Architect",
+      "originalDescription": "The villa, spanning 550 square meters, is located in Pengshui County, Chongqing City. The ground floor primarily serves as public space, while the second floor is mainly dedicated to living quarters.",
+      "keywords": [
+        "居住与酒店",
+        "重庆"
+      ],
+      "image": "assets/projects/Residence-4.jpg",
+      "sourceFile": "Residence-4.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "exhibition-building-2",
+      "name": "合肥比亚迪全品牌旗舰店概念设计",
+      "englishName": "Hefei BYD Full-Brand Flagship Store",
+      "year": "2024",
+      "date": "2024年8月 – 2024年10月",
+      "location": "Shushan District, Hefei, Anhui Province, China",
+      "category": "展陈与汽车",
+      "role": "Lead Architect",
+      "originalDescription": "BYD Hefei Di Space is located in Shushan District, Hefei. Built by BYD Group, it has a total construction area of approximately 25,000 square meters. As the first \"Di Space\" in the Yangtze River Delta, it will display the entire range of vehicle models and integrate automobile knowledge lectures, brand history, corporate culture, technology experience, automobile exhibition and sales. Currently under construction, it is expected to be completed in the second half of 2026.",
+      "keywords": [
+        "展陈与汽车",
+        "合肥",
+        "Concept Design",
+        "Architectural Scheme Design",
+        "BIM Modelling",
+        "Lead Architect"
+      ],
+      "image": "assets/projects/Exhibition-Building-2.jpg",
+      "sourceFile": "Exhibition Building-2.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E5%90%88%E8%82%A5%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E5%93%81%E7%89%8C%E6%97%97%E8%88%B0%E5%BA%97%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1-hefei-byd-full-brand-flagship-store-%E5%9B%BD%E7%A5%A5-%E5%90%95-x9o0e/"
+    },
+    {
+      "id": "school-2",
+      "name": "合肥骆岗花园学校",
+      "englishName": "Hefei Luogang Garden School",
+      "year": "",
+      "date": "",
+      "location": "合肥",
+      "category": "教育建筑",
+      "role": "Lead Architect",
+      "originalDescription": "The project is situated in the Luogang Garden Area of Hefei, encompassing a 30-class junior high school (with a construction area of 26,900 square meters), a neighborhood center (9,676 square meters), and a park (5,562 square meters). It is designed to provide high-standard supporting facilities for the resettlement community and enhance residents' sense of well-being.",
+      "keywords": [
+        "教育建筑",
+        "合肥"
+      ],
+      "image": "assets/projects/School-2.jpg",
+      "sourceFile": "School-2.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "school-5",
+      "name": "惠州泰丰千花岛幼儿园",
+      "englishName": "Huizhou Taifeng Qianhuadao Kindergarten",
+      "year": "",
+      "date": "",
+      "location": "惠州",
+      "category": "教育建筑",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "The Huizhou Taifeng Qianhua Island Kindergarten, nestled within the Qianhua Island Real Estate Development in Huizhou, has been meticulously constructed and is now fully operational. Tailored to accommodate 12 classes, the kindergarten spans a land area of 5,709 square meters, with a total built-up area of 3,734 square meters. Additionally, it boasts a lush green area of 1,750.00 square meters. This educational establishment is dedicated to offering top-tier preschool education amenities for the residents of Qianhua Island and the neighboring regions.",
+      "keywords": [
+        "教育建筑",
+        "惠州"
+      ],
+      "image": "assets/projects/School-5.jpg",
+      "sourceFile": "School-5.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "school-3",
+      "name": "秦皇岛远洋未来海岸国际学校",
+      "englishName": "Qinhuangdao Ocean Future Coast International School",
+      "year": "",
+      "date": "",
+      "location": "秦皇岛",
+      "category": "教育建筑",
+      "role": "Lead Architect",
+      "originalDescription": "The project is located in the Future Coast Area of Qinhuangdao. It involves plots C1 - 3 - 01, C1 - 3 - 02, and C1 - 4 - 02, with a total land area of 64,685 ㎡. It incorporates functions such as a plastic sports field, school sections (junior & senior high school, primary school), administrative offices, etc. The total construction area is 35,306 ㎡ and the plot ratio is 0.5. It is planned to provide educational facilities including teaching buildings for junior & senior high school and primary school, aiming to offer high - quality educational space.",
+      "keywords": [
+        "教育建筑",
+        "秦皇岛"
+      ],
+      "image": "assets/projects/School-3.jpg",
+      "sourceFile": "School-3.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "school-4",
+      "name": "郑州伊河路小学",
+      "englishName": "Zhengzhou Yihe Road Primary School",
+      "year": "",
+      "date": "",
+      "location": "郑州",
+      "category": "教育建筑",
+      "role": "Lead Architect",
+      "originalDescription": "The project is situated in the Yihe Road Street area of Zhengzhou. It involves a plot related to Zhengzhou Yihe Road Primary School, with a total land area of 25,902 ㎡. It incorporates a 30 - class primary school (with a construction area of 17,040 ㎡; the above - ground floor area is 31,945 ㎡ and the underground floor area is 14,099 ㎡) and supporting facilities such as a sports field. it is intended to provide a high - standard educational environment for the area and enhance the local educational support capacity.",
+      "keywords": [
+        "教育建筑",
+        "郑州"
+      ],
+      "image": "assets/projects/School-4.jpg",
+      "sourceFile": "School-4.pdf",
+      "linkedinUrl": ""
+    },
+    {
+      "id": "school-6",
+      "name": "重庆长寿幼儿园",
+      "englishName": "Changshou Kindergarten in Chongqing",
+      "year": "",
+      "date": "",
+      "location": "重庆",
+      "category": "教育建筑",
+      "role": "Lead Architect",
+      "originalDescription": "The Chongqing Changshou Kindergarten is located in Changshou District, Chongqing. Designed for 18 classes, it covers a land area of 12,027 square meters, with a total construction area of 9,298 square meters (8,548 square meters above ground and 750 square meters underground). Equipped with outdoor activity areas and public buildings, It aims to provide a high-quality preschool education environment for local children.",
+      "keywords": [
+        "教育建筑",
+        "重庆"
+      ],
+      "image": "assets/projects/School-6.jpg",
+      "sourceFile": "School-6.pdf",
+      "linkedinUrl": ""
+    }
+  ]
+}
