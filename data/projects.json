@@ -22,7 +22,40 @@
       ],
       "image": "assets/projects/Exhibition-Building-1.jpg",
       "sourceFile": "Exhibition Building-1.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E5%B8%B8%E5%B7%9E%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E5%93%81%E7%89%8C%E6%97%97%E8%88%B0%E5%BA%97-changzhou-byd-full-brand-flagship-store-%E5%9B%BD%E7%A5%A5-%E5%90%95-loi5e/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E5%B8%B8%E5%B7%9E%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E5%93%81%E7%89%8C%E6%97%97%E8%88%B0%E5%BA%97-changzhou-byd-full-brand-flagship-store-%E5%9B%BD%E7%A5%A5-%E5%90%95-loi5e/",
+      "translations": {
+        "zh": {
+          "name": "常州比亚迪全品牌旗舰店",
+          "location": "中国 · 江苏省常州市钟楼区",
+          "description": "项目位于江苏省常州市钟楼区，由比亚迪集团开发，总建筑面积约 27,000 平方米，计划投资 3 亿元。它将成为江苏省首个以最高标准整合比亚迪全部品牌的旗舰店，集汽车知识推广、品牌历史展示、企业文化展示、科技体验、汽车展示、销售与维修保养于一体。原始资料记载：项目正在建设中，预计于 2025 年底完成。"
+        },
+        "en": {
+          "location": "Zhonglou District, Changzhou City, Jiangsu Province, China"
+        }
+      },
+      "gallery": [
+        {
+          "image": "assets/projects/changzhou-byd-detail-03.jpg",
+          "caption": {
+            "zh": "常州比亚迪 / 建筑效果图",
+            "en": "Changzhou BYD / Architectural rendering"
+          }
+        },
+        {
+          "image": "assets/projects/changzhou-byd-detail-02.jpg",
+          "caption": {
+            "zh": "常州比亚迪 / 总平面图",
+            "en": "Changzhou BYD / Site plan"
+          }
+        },
+        {
+          "image": "assets/projects/changzhou-byd-detail-01.jpg",
+          "caption": {
+            "zh": "常州比亚迪 / 原始项目资料图",
+            "en": "Changzhou BYD / Original project image"
+          }
+        }
+      ]
     },
     {
       "id": "industrial-park-1",
@@ -44,7 +77,17 @@
       ],
       "image": "assets/projects/Industrial-Park-1.jpg",
       "sourceFile": "Industrial Park-1.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E6%B5%8E%E5%8D%97%E6%99%BA%E6%85%A7%E7%93%B4%E6%99%BA%E9%80%A0%E7%A7%91%E6%8A%80%E5%9F%8E-jinan-zhihuiling-intelligent-manufacturing-%E5%9B%BD%E7%A5%A5-%E5%90%95-wuhre/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E6%B5%8E%E5%8D%97%E6%99%BA%E6%85%A7%E7%93%B4%E6%99%BA%E9%80%A0%E7%A7%91%E6%8A%80%E5%9F%8E-jinan-zhihuiling-intelligent-manufacturing-%E5%9B%BD%E7%A5%A5-%E5%90%95-wuhre/",
+      "translations": {
+        "zh": {
+          "name": "济南智慧瓴智造科技城",
+          "location": "中国 · 山东省济南市历城区",
+          "description": "智慧瓴智造科技城位于济南市历城区，由山东智慧产业科技有限公司开发。项目包括多层厂房（500–12,000 ㎡）及高层厂房（300–1,200 ㎡），是集生产、研发与办公功能于一体的产业园区，以智能制造、生物医药等产业为主导。原始资料记载：一期建筑面积 190,000 ㎡，已经完成；二期建筑面积 210,000 ㎡，部分结构已封顶。"
+        },
+        "en": {
+          "location": "Licheng District, Jinan, Shandong Province, China"
+        }
+      }
     },
     {
       "id": "exhibition-building-3",
@@ -66,7 +109,17 @@
       ],
       "image": "assets/projects/Exhibition-Building-3.jpg",
       "sourceFile": "Exhibition Building-3.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/eco-leaves-project-singapores-gardens-bay-%E5%9B%BD%E7%A5%A5-%E5%90%95-zbsme/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/eco-leaves-project-singapores-gardens-bay-%E5%9B%BD%E7%A5%A5-%E5%90%95-zbsme/",
+      "translations": {
+        "zh": {
+          "name": "新加坡滨海湾花园 Eco Leaves 展馆",
+          "location": "新加坡 · 滨海湾花园",
+          "description": "项目位于新加坡滨海湾花园，建筑面积约 4,000 平方米。它是一座将展览功能与水净化、环境保护服务相结合的展览建筑。"
+        },
+        "en": {
+          "location": "Gardens by the Bay, Singapore"
+        }
+      }
     },
     {
       "id": "school-1",
@@ -88,7 +141,17 @@
       ],
       "image": "assets/projects/School-1.jpg",
       "sourceFile": "School-1.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8E%BF%E5%AE%9E%E9%AA%8C%E5%B0%8F%E5%AD%A6%E9%A1%B9%E7%9B%AE-chongqing-pengshui-county-experimental-primary-%E5%9B%BD%E7%A5%A5-%E5%90%95-4uexe/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8E%BF%E5%AE%9E%E9%AA%8C%E5%B0%8F%E5%AD%A6%E9%A1%B9%E7%9B%AE-chongqing-pengshui-county-experimental-primary-%E5%9B%BD%E7%A5%A5-%E5%90%95-4uexe/",
+      "translations": {
+        "zh": {
+          "name": "重庆彭水县实验小学项目",
+          "location": "中国 · 重庆市彭水县",
+          "description": "项目位于中国重庆市彭水县，由彭水县教育委员会开发并审批，总建筑面积约 60,000 平方米。小学建筑设计集教室、办公、食堂、体育中心、游泳池及停车场等功能于一体。原始资料记载：场地已平整，项目正在建设中。"
+        },
+        "en": {
+          "location": "Pengshui County, Chongqing, China"
+        }
+      }
     },
     {
       "id": "residence-3",
@@ -110,7 +173,17 @@
       ],
       "image": "assets/projects/Residence-3.jpg",
       "sourceFile": "Residence-3.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/ang-mo-kio-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-jbdqe/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/ang-mo-kio-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-jbdqe/",
+      "translations": {
+        "zh": {
+          "name": "新加坡 Ang Mo Kio HDB 住宅项目",
+          "location": "新加坡 · Ang Mo Kio",
+          "description": "项目位于新加坡 Ang Mo Kio 地区，总建筑面积约 60,000 平方米，整合公共住房、多层停车楼与配套服务。原始资料记载：项目处于设计阶段。"
+        },
+        "en": {
+          "location": "Ang Mo Kio, Singapore"
+        }
+      }
     },
     {
       "id": "residence-2",
@@ -132,7 +205,17 @@
       ],
       "image": "assets/projects/Residence-2.jpg",
       "sourceFile": "Residence-2.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/yishun-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-xbvbe/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/yishun-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-xbvbe/",
+      "translations": {
+        "zh": {
+          "name": "新加坡 Yishun HDB 住宅项目",
+          "location": "新加坡 · Yishun",
+          "description": "项目位于新加坡 Yishun 地区，总建筑面积约 90,000 平方米，整合公共住房、多层停车楼与配套服务。原始资料记载：项目处于设计阶段。"
+        },
+        "en": {
+          "location": "Yishun, Singapore"
+        }
+      }
     },
     {
       "id": "industrial-park-2",
@@ -154,7 +237,17 @@
       ],
       "image": "assets/projects/Industrial-Park-2.jpg",
       "sourceFile": "Industrial Park-2.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E7%9B%9F%E5%9B%BA%E5%88%A9%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E5%88%B6%E9%80%A0%E9%A1%B9%E7%9B%AE-mengguli-power-battery-manufacturing-project-%E5%9B%BD%E7%A5%A5-%E5%90%95-0g8ye/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E7%9B%9F%E5%9B%BA%E5%88%A9%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E5%88%B6%E9%80%A0%E9%A1%B9%E7%9B%AE-mengguli-power-battery-manufacturing-project-%E5%9B%BD%E7%A5%A5-%E5%90%95-0g8ye/",
+      "translations": {
+        "zh": {
+          "name": "盟固利动力电池制造项目",
+          "location": "中国 · 重庆市渝北区",
+          "description": "项目位于中国重庆市渝北区，距机场约 4 公里，由盟固利集团开发，总建筑面积约 340,000 平方米。总体厂区规划与设计整合了电池生产及仓储车间、商业服务、园区生活配套住宅等多种业态。"
+        },
+        "en": {
+          "location": "Yubei District, Chongqing, China"
+        }
+      }
     },
     {
       "id": "office-4",
@@ -172,7 +265,17 @@
       ],
       "image": "assets/projects/Office-4.jpg",
       "sourceFile": "Office-4.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "上海江桥综合体项目",
+          "location": "上海",
+          "description": "项目位于上海市嘉定区江桥，是一处建筑面积 89,000 平方米、集办公、酒店与商业功能于一体的综合商业地标。"
+        },
+        "en": {
+          "location": "Shanghai"
+        }
+      }
     },
     {
       "id": "office-6",
@@ -190,7 +293,17 @@
       ],
       "image": "assets/projects/Office-6.jpg",
       "sourceFile": "Office-6.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "北京绿地中心ABC座",
+          "location": "北京",
+          "description": "北京绿地中心 A、B、C 座（不含超高层部分）位于朝阳区，由绿地集团开发，是以甲级办公与商务服务为主的综合办公建筑，总建筑面积约 180,000 平方米。原始资料记载：建筑已完成并投入运营。"
+        },
+        "en": {
+          "location": "Beijing"
+        }
+      }
     },
     {
       "id": "office-3",
@@ -208,7 +321,17 @@
       ],
       "image": "assets/projects/Office-3.jpg",
       "sourceFile": "Office-3.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "南昌绿地朝阳中心",
+          "location": "南昌",
+          "description": "项目位于南昌市朝阳区，由绿地集团开发，建筑面积约 160,000 平方米。项目定位为集 216 米超高层办公、公寓与商业于一体的地标建筑。原始资料记载：项目已经完成。"
+        },
+        "en": {
+          "location": "Nanchang"
+        }
+      }
     },
     {
       "id": "office-2",
@@ -226,7 +349,17 @@
       ],
       "image": "assets/projects/Office-2.jpg",
       "sourceFile": "Office-2.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "合肥高速中央广场",
+          "location": "合肥",
+          "description": "高速中央广场是位于合肥滨湖新区的商住综合项目，由安徽高速公路房地产有限公司开发，2019 年完成。本项目的设计范围涵盖商业与办公部分。"
+        },
+        "en": {
+          "location": "Hefei"
+        }
+      }
     },
     {
       "id": "office-5",
@@ -244,7 +377,17 @@
       ],
       "image": "assets/projects/Office-5.jpg",
       "sourceFile": "Office-5.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "国家技术转移郑州中心",
+          "location": "郑州",
+          "description": "项目总建筑面积约 200,000 平方米，是集办公、会议、展览与休闲等多种功能于一体的综合建筑。"
+        },
+        "en": {
+          "location": "Zhengzhou"
+        }
+      }
     },
     {
       "id": "office-7",
@@ -262,7 +405,17 @@
       ],
       "image": "assets/projects/Office-7.jpg",
       "sourceFile": "Office-7.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "武汉奥山余家头概念设计",
+          "location": "武汉",
+          "description": "项目位于武汉余家头地区，由奥山集团开发，总建筑面积约 80,000 平方米，是以甲级办公与商务服务为主的综合办公建筑。"
+        },
+        "en": {
+          "location": "Wuhan"
+        }
+      }
     },
     {
       "id": "office-1",
@@ -280,7 +433,17 @@
       ],
       "image": "assets/projects/Office-1.jpg",
       "sourceFile": "Office-1.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "虹桥世界中心",
+          "location": "上海",
+          "description": "虹桥世界中心位于上海枢纽地带的虹桥商务区。设计回应国家会展中心（NECC）的四叶草理念，以连贯的建筑组织引导流线，形成向日葵般的布局。花心与国家会展中心的中心相对应，形成具有高度辨识度的建筑群。"
+        },
+        "en": {
+          "location": "Shanghai"
+        }
+      }
     },
     {
       "id": "office-8",
@@ -298,7 +461,17 @@
       ],
       "image": "assets/projects/Office-8.jpg",
       "sourceFile": "Office-8.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "青岛海尔公交TOD项目",
+          "location": "青岛",
+          "description": "项目位于青岛市市北区沈阳路，由海尔集团与青岛公交集团联合开发，总建筑面积约 120,000 平方米。综合规划与设计整合了高端办公、商务中心与精品住宅。"
+        },
+        "en": {
+          "location": "Qingdao"
+        }
+      }
     },
     {
       "id": "shopping-mall-1",
@@ -316,7 +489,17 @@
       ],
       "image": "assets/projects/Shopping-mall-1.jpg",
       "sourceFile": "Shopping mall-1.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "上海1788广场立面改造",
+          "location": "上海",
+          "description": "项目位于上海市南京西路 1788 号，包含一座甲级办公楼与配套商业设施。以建筑外立面改造为核心，通过创新设计重塑建筑形象，使其适应城市审美与发展需求。"
+        },
+        "en": {
+          "location": "Shanghai"
+        }
+      }
     },
     {
       "id": "shopping-mall-3",
@@ -334,7 +517,17 @@
       ],
       "image": "assets/projects/Shopping-mall-3.jpg",
       "sourceFile": "Shopping mall-3.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "石家庄保利广场",
+          "location": "石家庄",
+          "description": "石家庄保利广场位于石家庄市长安区体育大街与丰收路交会处，由保利集团开发，购物中心面积约 80,000 平方米，是集零售、餐饮与娱乐等多种功能于一体的商业综合体。原始资料记载：项目已完成并投入运营。"
+        },
+        "en": {
+          "location": "Shijiazhuang"
+        }
+      }
     },
     {
       "id": "shopping-mall-2",
@@ -352,7 +545,17 @@
       ],
       "image": "assets/projects/Shopping-mall-2.jpg",
       "sourceFile": "Shopping mall-2.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "荆门万达广场",
+          "location": "荆门",
+          "description": "荆门万达广场位于荆门市掇刀区，由万达集团开发，总建筑面积 730,000 平方米，其中购物中心面积为 145,000 平方米。它是集购物、餐饮、文化、娱乐、商务与休闲等功能于一体的城市综合体。原始资料记载：项目已完成并投入销售。"
+        },
+        "en": {
+          "location": "Jingmen"
+        }
+      }
     },
     {
       "id": "shopping-mall-4",
@@ -370,7 +573,17 @@
       ],
       "image": "assets/projects/Shopping-mall-4.jpg",
       "sourceFile": "Shopping mall-4.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "西宁香格里拉商业中心",
+          "location": "西宁",
+          "description": "青海西宁香格里拉商业中心位于城中区香格里拉大道 8 号，由西宁伟业房地产开发有限公司开发，总建筑面积约 200,000 平方米，购物中心面积约 100,000 平方米。它是集休闲、娱乐、餐饮与购物于一体的大型城市综合体。原始资料记载：项目已开业运营。"
+        },
+        "en": {
+          "location": "Xining"
+        }
+      }
     },
     {
       "id": "shopping-mall-6",
@@ -388,7 +601,17 @@
       ],
       "image": "assets/projects/Shopping-mall-6.jpg",
       "sourceFile": "Shopping mall-6.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "郑州国际酒店用品博览中心项目",
+          "location": "郑州",
+          "description": "项目总建筑面积约 120,000 平方米，是集购物、餐饮、娱乐与休闲等多种功能于一体的商业综合体。"
+        },
+        "en": {
+          "location": "Zhengzhou"
+        }
+      }
     },
     {
       "id": "l-6",
@@ -406,7 +629,17 @@
       ],
       "image": "assets/projects/L-6.jpg",
       "sourceFile": "L-6.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "郑州豫发锦荣商贸城立面改造",
+          "location": "郑州",
+          "description": "项目位于郑州火车站附近。这是我经手过的实施速度最快的设计项目：我在一天之内完成了 SketchUp 建模、导出图纸，并整合成提交文本。仅仅三个月后，我就收到客户发来的消息：“建好了。”简直难以置信，哈哈！"
+        },
+        "en": {
+          "location": "Zhengzhou"
+        }
+      }
     },
     {
       "id": "shopping-mall-5",
@@ -424,7 +657,17 @@
       ],
       "image": "assets/projects/Shopping-mall-5.jpg",
       "sourceFile": "Shopping mall-5.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "郑州豫发锦荣悦汇城",
+          "location": "郑州",
+          "description": "郑州豫发锦荣悦汇城位于郑州航空港经济区，由豫发集团开发，总建筑面积约 300,000 平方米，其中购物中心面积 100,000 平方米。它是集购物、餐饮、娱乐与休闲等多种功能于一体的商业综合体。原始资料记载：项目已开业运营。"
+        },
+        "en": {
+          "location": "Zhengzhou"
+        }
+      }
     },
     {
       "id": "shopping-mall-7",
@@ -442,7 +685,17 @@
       ],
       "image": "assets/projects/Shopping-mall-7.jpg",
       "sourceFile": "Shopping mall-7.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "重庆三洞桥park",
+          "location": "重庆",
+          "description": "重庆三洞桥 park 位于江北区北滨一路，由重庆江北嘴中央商务区投资集团有限公司开发建设，总建筑面积约 48,000 平方米。它是一处将历史遗迹保护与商业运营相结合的文旅街区，融合文化展示、餐饮休闲、观光与体验。原始资料记载：项目已完成并向公众开放。"
+        },
+        "en": {
+          "location": "Chongqing"
+        }
+      }
     },
     {
       "id": "shopping-mall-8",
@@ -464,7 +717,17 @@
       ],
       "image": "assets/projects/Shopping-mall-8.jpg",
       "sourceFile": "Shopping mall-8.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E6%AD%A6%E9%9A%86%E6%96%B0%E6%AC%A7%E9%B9%8F%E6%95%99%E8%82%B2%E5%9F%8E-chongqing-wulong-xinoupeng-education-city-%E5%9B%BD%E7%A5%A5-%E5%90%95-izsae/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E6%AD%A6%E9%9A%86%E6%96%B0%E6%AC%A7%E9%B9%8F%E6%95%99%E8%82%B2%E5%9F%8E-chongqing-wulong-xinoupeng-education-city-%E5%9B%BD%E7%A5%A5-%E5%90%95-izsae/",
+      "translations": {
+        "zh": {
+          "name": "重庆武隆新欧鹏教育城",
+          "location": "中国 · 重庆市武隆区",
+          "description": "项目位于重庆武隆，由新欧鹏集团开发，总建筑面积约 120,000 平方米。总体规划与设计整合了商业购物中心、教育中心及住宅等多种业态。"
+        },
+        "en": {
+          "location": "Wulong, Chongqing, China"
+        }
+      }
     },
     {
       "id": "master-plan-2",
@@ -482,7 +745,17 @@
       ],
       "image": "assets/projects/Master-Plan-2.jpg",
       "sourceFile": "Master Plan-2.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "保利合肥老火车站地块概念规划",
+          "location": "合肥",
+          "description": "项目位于合肥老火车站地区，由保利集团开发，总建筑面积约 1,290,000 平方米，是以高端办公、商务中心、精品住宅与酒店为主要内容的综合规划与设计。"
+        },
+        "en": {
+          "location": "Hefei"
+        }
+      }
     },
     {
       "id": "master-plan-4",
@@ -500,7 +773,17 @@
       ],
       "image": "assets/projects/Master-Plan-4.jpg",
       "sourceFile": "Master Plan-4.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "昆明国际花都概念设计",
+          "location": "昆明",
+          "description": "项目位于昆明市宜良县，由红星美凯龙开发。原文将约 780,000 平方米记在“floor area ratio (FAR)”字段中。总体规划与设计整合了地标塔楼、商业设施、展览空间与住宅等多种业态。"
+        },
+        "en": {
+          "location": "Kunming"
+        }
+      }
     },
     {
       "id": "master-plan-5",
@@ -522,7 +805,17 @@
       ],
       "image": "assets/projects/Master-Plan-5.jpg",
       "sourceFile": "Master Plan-5.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E6%B7%AE%E5%AE%89%E5%A4%A7%E8%BF%90%E6%B2%B3%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1-conceptual-design-huaian-grand-canal-%E5%9B%BD%E7%A5%A5-%E5%90%95-zzfce/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E6%B7%AE%E5%AE%89%E5%A4%A7%E8%BF%90%E6%B2%B3%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1-conceptual-design-huaian-grand-canal-%E5%9B%BD%E7%A5%A5-%E5%90%95-zzfce/",
+      "translations": {
+        "zh": {
+          "name": "淮安大运河概念设计",
+          "location": "中国 · 江苏省淮安市",
+          "description": "项目位于江苏省淮安市行政与文化中心附近，由红星美凯龙开发，总建筑面积约 960,000 平方米。总体规划与设计整合了商业、展览、体育中心与住宅等多种业态。"
+        },
+        "en": {
+          "location": "Huai'an City, Jiangsu Province, China"
+        }
+      }
     },
     {
       "id": "master-plan-1",
@@ -540,7 +833,17 @@
       ],
       "image": "assets/projects/Master-Plan-1.jpg",
       "sourceFile": "Master Plan-1.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "郑州永威双鹤湖概念设计",
+          "location": "郑州",
+          "description": "项目位于郑州航空港经济区双鹤湖片区，紧邻中央景观轴线，由永威集团开发，总建筑面积约 700,000 平方米。总体规划与设计以高端办公、商务服务、精品住宅、学校及邻里中心为主要内容。"
+        },
+        "en": {
+          "location": "Zhengzhou"
+        }
+      }
     },
     {
       "id": "master-plan-3",
@@ -558,7 +861,17 @@
       ],
       "image": "assets/projects/Master-Plan-3.jpg",
       "sourceFile": "Master Plan-3.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "重庆璧山爱琴海TOD项目",
+          "location": "重庆",
+          "description": "重庆璧山爱琴海 TOD 项目位于科学城璧山片区核心区域，由红星美凯龙与融创联合开发，总投资超过 80 亿元，计容建筑面积约 1,080,000 平方米，其中包含 248,000 平方米的城市综合体。项目整合 3 条轨道交通线路，融合商业、办公与住宅等多种业态。作为科学城首个 TOD 综合体，原始资料记载其购物公园已封顶。"
+        },
+        "en": {
+          "location": "Chongqing"
+        }
+      }
     },
     {
       "id": "residence-1",
@@ -576,7 +889,17 @@
       ],
       "image": "assets/projects/Residence-1.jpg",
       "sourceFile": "Residence-1.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "上海保利云上住宅项目",
+          "location": "上海",
+          "description": "项目位于上海市嘉定区江桥镇核心地带，由保利集团开发，建筑面积约 100,000 平方米，定位为高端住宅。原始资料记载：项目已完成并投入销售。"
+        },
+        "en": {
+          "location": "Shanghai"
+        }
+      }
     },
     {
       "id": "hotel-apartment-1",
@@ -594,7 +917,17 @@
       ],
       "image": "assets/projects/Hotel-Apartment-1.jpg",
       "sourceFile": "Hotel&Apartment-1.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "绍兴苏宁希尔顿酒店",
+          "location": "绍兴",
+          "description": "项目位于浙江省绍兴市，是希尔顿集团旗下建筑面积约 38,000 平方米的酒店，定位为整合高端酒店服务、商务会议与办公功能的地标建筑。原始资料记载：项目已经完成。"
+        },
+        "en": {
+          "location": "Shaoxing"
+        }
+      }
     },
     {
       "id": "hotel-apartment-2",
@@ -612,7 +945,17 @@
       ],
       "image": "assets/projects/Hotel-Apartment-2.jpg",
       "sourceFile": "Hotel&Apartment-2.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "西安莱安领域项目",
+          "location": "西安",
+          "description": "项目位于西安市长安区，由莱安集团开发，建筑面积约 90,000 平方米，是集公寓与商业于一体的综合商业建筑。原始资料记载：项目分期建设，一期已经完成。"
+        },
+        "en": {
+          "location": "Xi’an"
+        }
+      }
     },
     {
       "id": "residence-4",
@@ -630,7 +973,17 @@
       ],
       "image": "assets/projects/Residence-4.jpg",
       "sourceFile": "Residence-4.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "重庆彭水县别墅设计",
+          "location": "重庆",
+          "description": "别墅位于重庆市彭水县，面积 550 平方米。首层主要为公共空间，二层主要为居住空间。"
+        },
+        "en": {
+          "location": "Chongqing"
+        }
+      }
     },
     {
       "id": "exhibition-building-2",
@@ -652,7 +1005,17 @@
       ],
       "image": "assets/projects/Exhibition-Building-2.jpg",
       "sourceFile": "Exhibition Building-2.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E5%90%88%E8%82%A5%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E5%93%81%E7%89%8C%E6%97%97%E8%88%B0%E5%BA%97%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1-hefei-byd-full-brand-flagship-store-%E5%9B%BD%E7%A5%A5-%E5%90%95-x9o0e/"
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E5%90%88%E8%82%A5%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E5%93%81%E7%89%8C%E6%97%97%E8%88%B0%E5%BA%97%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1-hefei-byd-full-brand-flagship-store-%E5%9B%BD%E7%A5%A5-%E5%90%95-x9o0e/",
+      "translations": {
+        "zh": {
+          "name": "合肥比亚迪全品牌旗舰店概念设计",
+          "location": "中国 · 安徽省合肥市蜀山区",
+          "description": "比亚迪合肥迪空间位于合肥市蜀山区，由比亚迪集团建设，总建筑面积约 25,000 平方米。作为长三角首个“迪空间”，它将展示全部车型，并整合汽车知识讲座、品牌历史、企业文化、科技体验、汽车展示与销售。原始资料记载：项目正在建设中，预计于 2026 年下半年完成。"
+        },
+        "en": {
+          "location": "Shushan District, Hefei, Anhui Province, China"
+        }
+      }
     },
     {
       "id": "school-2",
@@ -670,7 +1033,17 @@
       ],
       "image": "assets/projects/School-2.jpg",
       "sourceFile": "School-2.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "合肥骆岗花园学校",
+          "location": "合肥",
+          "description": "项目位于合肥骆岗花园片区，包含一所 30 班初级中学（建筑面积 26,900 平方米）、邻里中心（9,676 平方米）及公园（5,562 平方米）。设计旨在为安置社区提供高标准配套设施，提升居民的幸福感。"
+        },
+        "en": {
+          "location": "Hefei"
+        }
+      }
     },
     {
       "id": "school-5",
@@ -688,7 +1061,17 @@
       ],
       "image": "assets/projects/School-5.jpg",
       "sourceFile": "School-5.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "惠州泰丰千花岛幼儿园",
+          "location": "惠州",
+          "description": "惠州泰丰千花岛幼儿园位于惠州千花岛房地产开发项目中。原始资料记载：幼儿园已完成建设并全面运营。项目设计为 12 个班，用地面积 5,709 平方米，总建筑面积 3,734 平方米，绿地面积 1,750.00 平方米，致力于为千花岛及周边地区居民提供高品质学前教育设施。"
+        },
+        "en": {
+          "location": "Huizhou"
+        }
+      }
     },
     {
       "id": "school-3",
@@ -706,7 +1089,17 @@
       ],
       "image": "assets/projects/School-3.jpg",
       "sourceFile": "School-3.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "秦皇岛远洋未来海岸国际学校",
+          "location": "秦皇岛",
+          "description": "项目位于秦皇岛未来海岸片区，涉及 C1-3-01、C1-3-02 及 C1-4-02 地块，总用地面积 64,685 ㎡，涵盖塑胶运动场、学校（初高中及小学）、行政办公等功能。总建筑面积 35,306 ㎡，容积率 0.5。规划配建初高中与小学教学楼等教育设施，以提供高品质教育空间。"
+        },
+        "en": {
+          "location": "Qinhuangdao"
+        }
+      }
     },
     {
       "id": "school-4",
@@ -724,7 +1117,17 @@
       ],
       "image": "assets/projects/School-4.jpg",
       "sourceFile": "School-4.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "郑州伊河路小学",
+          "location": "郑州",
+          "description": "项目位于郑州市伊河路街道片区，涉及郑州伊河路小学相关地块，总用地面积 25,902 ㎡。原始资料记载：包含一所 30 班小学，建筑面积 17,040 ㎡；地上建筑面积 31,945 ㎡，地下建筑面积 14,099 ㎡，以及运动场等配套设施。项目旨在提供高标准教育环境，提升当地教育配套能力。上述不同面积口径按原文保留。"
+        },
+        "en": {
+          "location": "Zhengzhou"
+        }
+      }
     },
     {
       "id": "school-6",
@@ -742,7 +1145,184 @@
       ],
       "image": "assets/projects/School-6.jpg",
       "sourceFile": "School-6.pdf",
-      "linkedinUrl": ""
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "重庆长寿幼儿园",
+          "location": "重庆",
+          "description": "重庆长寿幼儿园位于重庆市长寿区，设计为 18 个班，用地面积 12,027 平方米，总建筑面积 9,298 平方米（地上 8,548 平方米，地下 750 平方米）。项目配备室外活动场地与公共建筑，旨在为当地儿童提供高品质学前教育环境。"
+        },
+        "en": {
+          "location": "Chongqing"
+        }
+      }
     }
-  ]
+  ],
+  "presentationUpdatedAt": "2026-10-06",
+  "thumbnailAtlas": {
+    "image": "assets/archive-atlas.webp",
+    "columns": 5,
+    "rows": 8,
+    "projects": {
+      "exhibition-building-1": {
+        "index": 0,
+        "image": "assets/projects/Exhibition-Building-1.jpg"
+      },
+      "industrial-park-1": {
+        "index": 1,
+        "image": "assets/projects/Industrial-Park-1.jpg"
+      },
+      "exhibition-building-3": {
+        "index": 2,
+        "image": "assets/projects/Exhibition-Building-3.jpg"
+      },
+      "school-1": {
+        "index": 3,
+        "image": "assets/projects/School-1.jpg"
+      },
+      "residence-3": {
+        "index": 4,
+        "image": "assets/projects/Residence-3.jpg"
+      },
+      "residence-2": {
+        "index": 5,
+        "image": "assets/projects/Residence-2.jpg"
+      },
+      "industrial-park-2": {
+        "index": 6,
+        "image": "assets/projects/Industrial-Park-2.jpg"
+      },
+      "office-4": {
+        "index": 7,
+        "image": "assets/projects/Office-4.jpg"
+      },
+      "office-6": {
+        "index": 8,
+        "image": "assets/projects/Office-6.jpg"
+      },
+      "office-3": {
+        "index": 9,
+        "image": "assets/projects/Office-3.jpg"
+      },
+      "office-2": {
+        "index": 10,
+        "image": "assets/projects/Office-2.jpg"
+      },
+      "office-5": {
+        "index": 11,
+        "image": "assets/projects/Office-5.jpg"
+      },
+      "office-7": {
+        "index": 12,
+        "image": "assets/projects/Office-7.jpg"
+      },
+      "office-1": {
+        "index": 13,
+        "image": "assets/projects/Office-1.jpg"
+      },
+      "office-8": {
+        "index": 14,
+        "image": "assets/projects/Office-8.jpg"
+      },
+      "shopping-mall-1": {
+        "index": 15,
+        "image": "assets/projects/Shopping-mall-1.jpg"
+      },
+      "shopping-mall-3": {
+        "index": 16,
+        "image": "assets/projects/Shopping-mall-3.jpg"
+      },
+      "shopping-mall-2": {
+        "index": 17,
+        "image": "assets/projects/Shopping-mall-2.jpg"
+      },
+      "shopping-mall-4": {
+        "index": 18,
+        "image": "assets/projects/Shopping-mall-4.jpg"
+      },
+      "shopping-mall-6": {
+        "index": 19,
+        "image": "assets/projects/Shopping-mall-6.jpg"
+      },
+      "l-6": {
+        "index": 20,
+        "image": "assets/projects/L-6.jpg"
+      },
+      "shopping-mall-5": {
+        "index": 21,
+        "image": "assets/projects/Shopping-mall-5.jpg"
+      },
+      "shopping-mall-7": {
+        "index": 22,
+        "image": "assets/projects/Shopping-mall-7.jpg"
+      },
+      "shopping-mall-8": {
+        "index": 23,
+        "image": "assets/projects/Shopping-mall-8.jpg"
+      },
+      "master-plan-2": {
+        "index": 24,
+        "image": "assets/projects/Master-Plan-2.jpg"
+      },
+      "master-plan-4": {
+        "index": 25,
+        "image": "assets/projects/Master-Plan-4.jpg"
+      },
+      "master-plan-5": {
+        "index": 26,
+        "image": "assets/projects/Master-Plan-5.jpg"
+      },
+      "master-plan-1": {
+        "index": 27,
+        "image": "assets/projects/Master-Plan-1.jpg"
+      },
+      "master-plan-3": {
+        "index": 28,
+        "image": "assets/projects/Master-Plan-3.jpg"
+      },
+      "residence-1": {
+        "index": 29,
+        "image": "assets/projects/Residence-1.jpg"
+      },
+      "hotel-apartment-1": {
+        "index": 30,
+        "image": "assets/projects/Hotel-Apartment-1.jpg"
+      },
+      "hotel-apartment-2": {
+        "index": 31,
+        "image": "assets/projects/Hotel-Apartment-2.jpg"
+      },
+      "residence-4": {
+        "index": 32,
+        "image": "assets/projects/Residence-4.jpg"
+      },
+      "exhibition-building-2": {
+        "index": 33,
+        "image": "assets/projects/Exhibition-Building-2.jpg"
+      },
+      "school-2": {
+        "index": 34,
+        "image": "assets/projects/School-2.jpg"
+      },
+      "school-5": {
+        "index": 35,
+        "image": "assets/projects/School-5.jpg"
+      },
+      "school-3": {
+        "index": 36,
+        "image": "assets/projects/School-3.jpg"
+      },
+      "school-4": {
+        "index": 37,
+        "image": "assets/projects/School-4.jpg"
+      },
+      "school-6": {
+        "index": 38,
+        "image": "assets/projects/School-6.jpg"
+      }
+    }
+  },
+  "optimizedImages": {
+    "assets/projects/Exhibition-Building-1.jpg": "assets/media/Exhibition-Building-1.webp"
+  }
 }
