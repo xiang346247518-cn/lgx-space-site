@@ -1,378 +1,56 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#070909">
-  <meta name="description" content="吕国祥的建筑作品与空间研究。浏览建筑、商业、教育、住宅、产业园区及新加坡 BIM 项目。">
-  <title>吕国祥 LGX — Architecture / Space / Digital</title>
-  <style>
-    :root{--bg:#080a09;--panel:#111512;--panel2:#171c18;--fg:#f1f3ec;--muted:#9ba59b;--line:rgba(241,243,236,.18);--accent:#dbff63}
-    *{box-sizing:border-box}
-    html{scroll-behavior:smooth}
-    body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,"PingFang SC","Microsoft YaHei",Arial,sans-serif;overflow-x:hidden}
-    body.dialog-open{overflow:hidden}
-    button,input{font:inherit}
-    button{cursor:pointer}
-    a{color:inherit;text-decoration:none}
-    img{display:block;width:100%;height:100%;object-fit:cover}
-    :focus-visible{outline:2px solid var(--accent);outline-offset:4px}
-    .skip{position:absolute;left:16px;top:-70px;z-index:100;padding:10px;background:var(--accent);color:#101410}
-    .skip:focus{top:10px}
-    .top{height:68px;position:fixed;z-index:30;inset:0 0 auto;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:0 5vw;background:rgba(8,10,9,.84);backdrop-filter:blur(18px);border-bottom:1px solid var(--line)}
-    .logo{font-weight:750;letter-spacing:.2em;font-size:17px}
-    .desktop-nav{display:flex;gap:30px}
-    .desktop-nav a{font-size:11px;letter-spacing:.16em;color:#c0c9bd;transition:color .2s}
-    .desktop-nav a:hover{color:var(--accent)}
-    .top-right{font-size:10px;letter-spacing:.14em;color:var(--muted)}
-    .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--accent);box-shadow:0 0 14px var(--accent);margin-right:10px}
-    .menu-toggle{display:none;border:1px solid var(--line);background:transparent;color:var(--fg);padding:10px 12px;font-size:11px;letter-spacing:.1em}
-    .mobile-nav{display:none}
-    section{padding:110px 5vw;scroll-margin-top:68px}
-    .hero{min-height:100svh;position:relative;display:flex;align-items:flex-end;overflow:hidden;padding-top:130px;padding-bottom:65px}
-    .hero-bg{position:absolute;inset:68px 0 0}
-    .hero-bg img{filter:brightness(.53) saturate(.65);object-position:center 55%}
-    .hero-bg::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(5,8,6,.9),rgba(5,8,6,.53) 47%,rgba(5,8,6,.18)),linear-gradient(0deg,rgba(5,8,6,.9),transparent 47%)}
-    .hero-copy{position:relative;z-index:1;width:100%}
-    .eyebrow{font-size:11px;letter-spacing:.22em;color:var(--accent);text-transform:uppercase}
-    .hero h1{margin:30px 0 32px;font-size:clamp(65px,11vw,180px);line-height:.83;letter-spacing:-.082em;font-weight:520}
-    .hero-bottom{display:flex;justify-content:space-between;align-items:end;gap:24px;padding-top:19px;border-top:1px solid rgba(255,255,255,.43)}
-    .hero-bottom strong{font-size:clamp(19px,2vw,31px);font-weight:400;letter-spacing:-.02em}
-    .hero-bottom a{font-size:11px;letter-spacing:.13em;color:#c8d4c7;white-space:nowrap}
-    .section-head{display:grid;grid-template-columns:72px 1fr auto;align-items:end;padding-bottom:17px;margin-bottom:34px;border-bottom:1px solid var(--line)}
-    .section-head span{font-size:10px;letter-spacing:.16em;color:var(--muted)}
-    .section-head h2{font-weight:500;font-size:13px;letter-spacing:.18em;margin:0}
-    .featured{display:grid;grid-template-columns:1.32fr .68fr;gap:20px}
-    .feature-image{position:relative;min-height:550px;background:var(--panel);border:0;padding:0;overflow:hidden;text-align:left;color:var(--fg)}
-    .feature-image img{transition:transform .6s;filter:saturate(.65)}
-    .feature-image:hover img{transform:scale(1.025)}
-    .corner{position:absolute;top:20px;left:20px;background:rgba(7,10,8,.75);backdrop-filter:blur(10px);font-size:10px;padding:10px 12px;letter-spacing:.16em}
-    .feature-copy{display:flex;flex-direction:column;justify-content:end;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:20px 2vw 26px}
-    .feature-copy .eyebrow{margin-bottom:auto}
-    .feature-copy h3{font-weight:460;letter-spacing:-.05em;line-height:1.05;font-size:clamp(35px,4.2vw,67px);margin:28px 0}
-    .feature-copy p{color:#bbc5ba;font-size:15px;line-height:1.8;max-width:460px}
-    .feature-meta{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:23px 0 26px;padding-top:18px;border-top:1px solid var(--line);font-size:11px;color:var(--muted);letter-spacing:.08em}
-    .text-link{width:max-content;background:none;color:var(--accent);border:none;padding:0;font-size:11px;letter-spacing:.16em}
-    .work-tools{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:24px;margin-top:78px;padding-bottom:18px;border-bottom:1px solid var(--line)}
-    .work-tools h3{font-size:24px;font-weight:450;letter-spacing:-.02em;margin:0}
-    .search{background:var(--panel);border:1px solid var(--line);padding:12px 14px;color:var(--fg);width:min(100%,280px)}
-    .search::placeholder{color:#859086}
-    .filters{display:flex;gap:7px;flex-wrap:wrap;margin:20px 0 22px}
-    .filters button{border:1px solid var(--line);background:transparent;color:#c7cec4;padding:10px 13px;font-size:12px;border-radius:100px}
-    .filters button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#17200b}
-    .result-count{color:var(--muted);font-size:11px;letter-spacing:.05em;min-height:20px}
-    .projects-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:35px 18px;margin-top:16px}
-    .project{border-top:1px solid var(--line);padding-top:12px}
-    .project button{border:0;background:none;color:var(--fg);padding:0;width:100%;text-align:left}
-    .project .image{display:block;height:300px;background:var(--panel);overflow:hidden}
-    .project img{transition:transform .5s,filter .5s;filter:saturate(.7)}
-    .project button:hover img{transform:scale(1.04);filter:saturate(1)}
-    .project-info{display:flex;justify-content:space-between;gap:16px;padding:15px 0 0;line-height:1.5}
-    .project-info strong{font-size:16px;font-weight:450}
-    .project-info small{font-size:10px;color:var(--muted);text-align:right;white-space:nowrap;line-height:1.6}
-    .project-en{margin-top:6px;color:var(--muted);font-size:11px;line-height:1.45;min-height:32px}
-    .no-results{padding:60px 0;color:var(--muted)}
-    .statement{background:#0d110e}
-    .statement-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:6vw}
-    .words{font-size:clamp(45px,7vw,110px);line-height:1;letter-spacing:-.065em}
-    .words div{padding:10px 0;border-bottom:1px solid var(--line)}
-    .words div:nth-child(2){padding-left:5vw;color:#bbc7b9}
-    .words div:nth-child(3){padding-left:12vw;color:#94a18e}
-    .words div:nth-child(4){padding-left:3vw}
-    .think-side{position:sticky;top:100px;align-self:start}
-    .think-photo{height:410px;overflow:hidden}
-    .think-photo img{filter:saturate(.55)}
-    .think-side p{font-size:18px;line-height:1.8;color:#c3cec1;max-width:480px}
-    .case{background:#080a09}
-    .case-title{display:grid;grid-template-columns:1.05fr .95fr;gap:7vw;align-items:end;margin-bottom:50px}
-    .case-title h3{font-size:clamp(42px,6vw,88px);line-height:.95;letter-spacing:-.065em;font-weight:450;margin:0}
-    .case-title p{font-size:16px;line-height:1.8;color:#b7c3b5}
-    .case-gallery{display:grid;grid-template-columns:1.25fr .75fr;gap:16px}
-    .case-main{height:620px;overflow:hidden}
-    .case-stack{display:grid;grid-template-rows:1fr 1fr;gap:16px;min-height:0}
-    .case-stack .pic{overflow:hidden;min-height:0}
-    .case-gallery img{filter:saturate(.8)}
-    .case-note{color:var(--muted);font-size:12px;line-height:1.7;margin:22px 0 0}
-    .lab-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line)}
-    .lab-card{min-height:320px;background:var(--bg);padding:25px;display:flex;flex-direction:column}
-    .lab-no{font-size:10px;letter-spacing:.16em;color:var(--muted)}
-    .lab-card h3{font-size:34px;font-weight:450;line-height:1.05;letter-spacing:-.04em;margin:auto 0 16px}
-    .lab-card p{font-size:14px;line-height:1.7;color:var(--muted);max-width:300px;margin:0}
-    .about-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:6vw}
-    .about-photo{height:520px;overflow:hidden}
-    .about-photo img{filter:saturate(.5)}
-    .about-copy h3{font-size:clamp(52px,7vw,110px);line-height:.9;letter-spacing:-.07em;font-weight:450;margin:0}
-    .about-copy p{font-size:17px;color:#b7c3b5;line-height:1.85;max-width:680px;margin:30px 0}
-    .about-copy .eyebrow{margin-top:20px}
-    footer{padding:28px 5vw 45px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:20px;color:var(--muted);font-size:11px;letter-spacing:.08em}
-    dialog{border:1px solid rgba(255,255,255,.2);background:#111712;color:var(--fg);padding:0;width:min(1050px,calc(100vw - 32px));max-height:min(90vh,1100px);overflow:auto;box-shadow:0 30px 80px #000b}
-    dialog::backdrop{background:rgba(0,0,0,.83);backdrop-filter:blur(5px)}
-    .detail-top{position:sticky;top:0;z-index:2;display:flex;justify-content:space-between;align-items:center;gap:20px;background:#111712;padding:15px 25px;border-bottom:1px solid var(--line);font-size:10px;letter-spacing:.16em}
-    .detail-close{border:1px solid var(--line);background:transparent;color:var(--fg);font-size:19px;width:38px;height:38px}
-    .detail-cover{width:100%;height:min(48vh,510px)}
-    .detail-body{padding:34px clamp(22px,5vw,65px) 60px}
-    .detail-body h2{font-size:clamp(30px,5vw,60px);font-weight:480;letter-spacing:-.045em;line-height:1.08;margin:12px 0}
-    .detail-en{color:var(--muted);font-size:15px}
-    .detail-meta{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;margin:35px 0;padding:23px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-    .detail-meta dt{font-size:10px;letter-spacing:.12em;color:var(--muted);margin-bottom:8px}
-    .detail-meta dd{margin:0;font-size:14px;line-height:1.5}
-    .detail-intro{font-size:17px;line-height:1.85;max-width:800px;white-space:pre-line}
-    .detail-note{color:var(--muted);font-size:12px;line-height:1.7;margin-top:25px}
-    .detail-source{display:inline-block;margin-top:12px;color:var(--accent);font-size:12px}
-    @media(max-width:950px){
-      .top{padding:0 20px}.desktop-nav,.top-right{display:none}.menu-toggle{display:block}
-      .mobile-nav{position:fixed;inset:68px 0 auto;z-index:29;background:#101510;border-bottom:1px solid var(--line);padding:22px;display:none;flex-direction:column;gap:18px}
-      .mobile-nav.open{display:flex}.mobile-nav a{font-size:15px;letter-spacing:.08em;padding:10px 0}
-      section{padding:80px 20px}.hero{padding-top:120px}.hero h1{font-size:17vw}
-      .section-head{grid-template-columns:45px 1fr}.section-head span:last-child{display:none}
-      .featured,.statement-grid,.case-title,.case-gallery,.about-grid{grid-template-columns:1fr}
-      .feature-image{min-height:0;height:54vh}.feature-copy{min-height:330px;padding:24px 0}
-      .projects-grid,.lab-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
-      .think-side{position:static}.case-main{height:440px}.case-stack{grid-template-columns:1fr 1fr;grid-template-rows:220px}
-      .about-photo{height:390px}.detail-meta{grid-template-columns:1fr 1fr}
-    }
-    @media(max-width:600px){
-      .hero-bottom{align-items:flex-start;flex-direction:column}
-      .work-tools{align-items:stretch;flex-direction:column;margin-top:58px}
-      .search{width:100%}
-      .projects-grid,.lab-grid{grid-template-columns:1fr}
-      .project .image{height:260px}.project-en{min-height:0}
-      .case-stack{grid-template-columns:1fr;grid-template-rows:220px 220px}
-      .detail-cover{height:31vh}
-      footer{padding-left:20px;padding-right:20px;flex-direction:column}
-    }
-    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
-  </style>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f3f1eb">
+<meta name="description" content="吕国祥的建筑作品、空间观点与数字实践。空间是行为的容器。浏览中国与新加坡的建筑设计、BIM 与规划项目。">
+<meta property="og:type" content="website"><meta property="og:title" content="吕国祥 LGX — 空间是行为的容器"><meta property="og:description" content="建筑作品、空间观点与数字实践 / Architecture, space and digital practice."><meta property="og:image" content="https://xiang346247518-cn.github.io/lgx-space-site/assets/projects/Exhibition-Building-1.jpg">
+<link rel="canonical" href="https://xiang346247518-cn.github.io/lgx-space-site/"><link rel="icon" type="image/svg+xml" href="assets/identity.svg"><link rel="preload" href="assets/media/Exhibition-Building-1.webp" as="image" fetchpriority="high"><link rel="stylesheet" href="assets/site.css?v=20261006-2">
+<title>吕国祥 LGX — 空间是行为的容器</title>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"吕国祥","alternateName":"Lv Guoxiang","jobTitle":"Architect and BIM practitioner","url":"https://xiang346247518-cn.github.io/lgx-space-site/","sameAs":["https://www.linkedin.com/in/lvguoxiang/"]}</script>
 </head>
 <body>
-<a class="skip" href="#work">跳转到项目</a>
-<header class="top">
-  <a class="logo" href="#top" aria-label="LGX 首页">LGX</a>
-  <nav class="desktop-nav" aria-label="主导航">
-    <a href="#work">PROJECTS</a><a href="#thinking">THINKING</a><a href="#case">CASE</a><a href="#lab">LAB</a><a href="#about">ABOUT</a>
-  </nav>
-  <div class="top-right"><span class="dot"></span>ARCHITECTURE / SPACE / DIGITAL</div>
-  <button class="menu-toggle" type="button" aria-controls="mobile-nav" aria-expanded="false">MENU</button>
+<a class="skip-link" href="#work" data-i18n="skip">跳转到作品</a>
+<header class="site-header">
+ <a class="brand" href="#top" aria-label="LGX 首页" data-i18n-aria="home"><span class="brand-mark">LGX<span class="brand-dot">.</span></span><span class="brand-name" data-i18n="identity">吕国祥<br>建筑 / 空间 / 数字</span></a>
+ <nav class="desktop-nav" aria-label="主导航" data-i18n-aria="navigation"><a href="#work" data-i18n="navWork">作品</a><a href="#thinking" data-i18n="navThinking">观点</a><a href="#archive" data-i18n="navArchive">项目索引</a><a href="#about" data-i18n="navAbout">关于</a></nav>
+ <div class="header-actions"><div class="language-switch" role="group" aria-label="语言 / Language"><button type="button" data-lang="zh" aria-pressed="true" lang="zh-CN">中</button><span aria-hidden="true">/</span><button type="button" data-lang="en" aria-pressed="false" lang="en">EN</button></div><button class="menu-toggle" type="button" aria-controls="menu-dialog" aria-expanded="false" data-i18n-aria="openMenu" aria-label="打开菜单"><span></span><span></span><span class="sr-only" data-i18n="menu">菜单</span></button></div>
 </header>
-<nav class="mobile-nav" id="mobile-nav" aria-label="移动导航">
-  <a href="#work">PROJECTS</a><a href="#thinking">THINKING</a><a href="#case">CASE</a><a href="#lab">LAB</a><a href="#about">ABOUT</a>
-</nav>
 <main id="top">
-  <section class="hero">
-    <div class="hero-bg"><img src="assets/projects/Exhibition-Building-1.jpg" alt="常州比亚迪全品牌旗舰店建筑效果图" fetchpriority="high"></div>
-    <div class="hero-copy">
-      <div class="eyebrow">吕国祥 / ARCHITECT · SPACE THINKER</div>
-      <h1>SPACE<br>IS A SYSTEM.</h1>
-      <div class="hero-bottom"><strong>从建筑作品出发，研究空间如何承载行为与变化。</strong><a href="#work">探索项目 ↓</a></div>
-    </div>
-  </section>
-  <section id="work">
-    <div class="section-head"><span>01</span><h2>SELECTED PROJECTS / 项目作品</h2><span>ARCHITECTURE / BIM / PLANNING</span></div>
-    <div class="featured">
-      <button class="feature-image" type="button" data-project="exhibition-building-1" aria-label="查看常州比亚迪全品牌旗舰店项目">
-        <img src="assets/projects/Exhibition-Building-1.jpg" alt="常州比亚迪全品牌旗舰店建筑效果图">
-        <span class="corner">FEATURED PROJECT / 001</span>
-      </button>
-      <div class="feature-copy">
-        <div class="eyebrow">AUTOMOTIVE / EXHIBITION</div>
-        <h3>常州比亚迪<br>全品牌旗舰店</h3>
-        <p>一处集汽车知识、品牌历史、科技体验、展示销售与维保于一体的建筑。项目资料标注的总建筑面积约为 27,000 平方米。</p>
-        <div class="feature-meta"><span>约 27,000 ㎡</span><span>江苏 · 常州</span><span>主创建筑师</span><span>2024 起</span></div>
-        <button class="text-link" type="button" data-project="exhibition-building-1">查看项目详情 ↗</button>
-      </div>
-    </div>
-    <div class="work-tools">
-      <h3>项目资料库 <span id="total-count"></span></h3>
-      <label><span class="skip-label" style="display:none">搜索项目</span><input class="search" id="project-search" type="search" placeholder="搜索项目、城市、类型..." aria-label="搜索项目"></label>
-    </div>
-    <div class="filters" id="filters" role="group" aria-label="项目分类"></div>
-    <div class="result-count" id="result-count" aria-live="polite"></div>
-    <div class="projects-grid" id="projects-grid"></div>
-    <noscript><p>请启用 JavaScript 以浏览项目清单。</p></noscript>
-  </section>
-  <section class="statement" id="thinking">
-    <div class="section-head"><span>02</span><h2>THINKING / 空间观点</h2><span>SPACE AS A SYSTEM</span></div>
-    <div class="statement-grid">
-      <div class="words"><div>BEHAVIOUR</div><div>PERCEPTION</div><div>TIME</div><div>SPACE</div></div>
-      <div class="think-side">
-        <div class="think-photo"><img src="assets/projects/Master-Plan-4.jpg" alt="昆明国际花都概念设计效果图" loading="lazy"></div>
-        <p>建筑师的工作，不只是画出空间的形态。我也关注人的行为、感受与时间变化怎样影响空间。这里记录我的观察与仍在形成的判断。</p>
-      </div>
-    </div>
-  </section>
-  <section class="case" id="case">
-    <div class="section-head"><span>03</span><h2>CASE STUDY / 常州比亚迪</h2><span>DESIGN PROCESS</span></div>
-    <div class="case-title">
-      <h3>为变化<br>留下空间。</h3>
-      <p>当汽车产品比建筑更新得更快，展厅需要考虑未来展示、运营和改造的可能。下方图片来自项目 PDF；案例的进一步设计复盘会随着资料补充持续更新。</p>
-    </div>
-    <div class="case-gallery">
-      <div class="case-main"><img src="assets/projects/Exhibition-Building-1.jpg" alt="常州比亚迪全品牌旗舰店主效果图" loading="lazy"></div>
-      <div class="case-stack">
-        <div class="pic"><img src="assets/projects/changzhou-byd-detail-03.jpg" alt="常州比亚迪项目建筑效果图" loading="lazy"></div>
-        <div class="pic"><img src="assets/projects/changzhou-byd-detail-02.jpg" alt="常州比亚迪项目总平面图" loading="lazy"></div>
-      </div>
-    </div>
-    <p class="case-note">图纸及效果图均来自项目原始 PDF。项目介绍中的进度和预期完工时间是资料编制时的表述。</p>
-  </section>
-  <section id="lab">
-    <div class="section-head"><span>04</span><h2>SPACE LAB / 研究方向</h2><span>TOOLS / RESEARCH / AI</span></div>
-    <div class="lab-grid">
-      <div class="lab-card"><span class="lab-no">LAB / 01</span><h3>户型<br>急诊室</h3><p>用家庭生活周期和日常行为分析住宅中的真实问题。</p></div>
-      <div class="lab-card"><span class="lab-no">LAB / 02</span><h3>数字<br>住宅</h3><p>探索物理住宅与个人数字空间如何形成更紧密的对应关系。</p></div>
-      <div class="lab-card"><span class="lab-no">LAB / 03</span><h3>空间<br>系统</h3><p>持续整理空间观察、设计经验与可验证的方法。</p></div>
-    </div>
-  </section>
-  <section id="about">
-    <div class="section-head"><span>05</span><h2>ABOUT / 关于</h2><span>LV GUOXIANG</span></div>
-    <div class="about-grid">
-      <div class="about-photo"><img src="assets/projects/Office-8.jpg" alt="青岛海尔公交 TOD 项目效果图" loading="lazy"></div>
-      <div class="about-copy">
-        <h3>ARCHITECTURE.<br>THINKING.<br>DIGITAL.</h3>
-        <p>我是吕国祥，建筑师与 BIM 从业者。这里汇集建筑项目、空间研究与数字实践。作品记录我参与的设计，研究记录我如何理解空间。</p>
-        <div class="eyebrow">CHONGQING / SINGAPORE / BEYOND</div>
-      </div>
-    </div>
-  </section>
-</main>
-<footer><span>LGX © 2026 · 吕国祥</span><span>ARCHITECTURE / SPACE / DIGITAL</span><a href="#top">返回顶部 ↑</a></footer>
-<dialog id="project-dialog" aria-labelledby="detail-title">
-  <div class="detail-top"><span>LGX / PROJECT DETAILS</span><button class="detail-close" type="button" aria-label="关闭项目详情">×</button></div>
-  <img class="detail-cover" id="detail-cover" alt="">
-  <div class="detail-body">
-    <div class="eyebrow" id="detail-category"></div>
-    <h2 id="detail-title"></h2>
-    <div class="detail-en" id="detail-en"></div>
-    <dl class="detail-meta" id="detail-meta"></dl>
-    <p class="detail-intro" id="detail-intro"></p>
-    <p class="detail-note">项目介绍沿用上传 PDF 的原文，按网站排版合并了换行。未标年份的项目保留空值；资料中的项目进度以编制时为准。</p>
-    <a class="detail-source" id="detail-source" target="_blank" rel="noopener noreferrer" hidden>查看 LinkedIn 项目文章 ↗</a>
+ <section class="hero wrap" aria-labelledby="hero-title">
+  <div class="hero-overline"><span class="eyebrow" data-i18n="heroEyebrow">吕国祥 · 建筑师与空间观察者</span><span class="index-label" data-i18n="heroIndex">个人作品与持续的探索 / 2026</span></div>
+  <div class="hero-heading"><h1 id="hero-title" data-i18n="heroTitle">空间是<br><em>行为</em>的容器<span class="punctuation">。</span></h1><div class="hero-symbol" aria-hidden="true"><svg viewBox="0 0 280 230" fill="none"><g stroke="currentColor" stroke-width=".9"><path d="M140 18 251 81 251 149 140 213 29 149 29 81Z"/><path d="m29 81 111 64 111-64M140 145v68M140 18v127M29 149l111-64 111 64"/><path d="m61 64 111 64v67M92 45l111 64v67M29 105l111 64 111-64M29 127l111 64 111-64" opacity=".3"/></g><path class="symbol-path" d="M29 149 140 85 251 149" stroke="var(--accent)" stroke-width="2"/><circle cx="140" cy="85" r="4" fill="var(--accent)"/><circle cx="140" cy="85" r="13" stroke="var(--accent)" opacity=".4"/><text x="137" y="229" font-size="9" letter-spacing="3" text-anchor="middle" fill="currentColor">SPACE / CHANGE</text></svg></div></div>
+  <div class="hero-intro"><p data-i18n="heroIntro">从真实的建筑出发，<br>理解变化，为生活留出可能。</p><a class="arrow-link" href="#work"><span data-i18n="explore">探索作品</span><span aria-hidden="true">↙</span></a></div>
+  <a class="hero-picture image-link" href="#project/exhibition-building-1" data-project="exhibition-building-1" data-i18n-aria="bydLink" aria-label="浏览常州比亚迪项目"><img src="assets/media/Exhibition-Building-1.webp" data-fallback="assets/projects/Exhibition-Building-1.jpg" width="1600" height="1015" fetchpriority="high" decoding="async" alt="常州比亚迪全品牌旗舰店建筑效果图" data-i18n-alt="bydAlt"><span class="image-cross cross-a" aria-hidden="true"></span><span class="image-cross cross-b" aria-hidden="true"></span><span class="image-action" aria-hidden="true">↗</span><span class="hero-image-label" data-i18n="heroImageLabel">常州比亚迪全品牌旗舰店 / 建筑效果图</span></a>
+  <div class="hero-caption"><span data-i18n="heroCaption">精选 / 常州比亚迪全品牌旗舰店</span><span data-i18n="heroCaptionRight">中国 · 常州 / 主创建筑师</span></div>
+ </section>
+ <section class="work-section wrap section-space" id="work" aria-labelledby="work-title">
+  <div class="section-kicker"><span>01 /</span><span data-i18n="workKicker">精选作品</span><span class="section-end">ARCHITECTURE / BIM / PLANNING</span></div>
+  <div class="section-heading"><h2 id="work-title" data-i18n="workTitle">各有尺度，<br>共同关乎生活。</h2><div class="section-heading-aside"><p data-i18n="workIntro">从一座住宅到一片城市，<br>让空间回应它所承载的真实需求。</p><a class="small-link" href="#archive"><span data-i18n="allProjects">全部项目</span><span id="work-total">39</span><span aria-hidden="true">↗</span></a></div></div><div class="selected-grid" id="selected-grid"></div>
+ </section>
+ <section class="case-section section-space" id="case" aria-labelledby="case-title"><div class="wrap">
+  <div class="section-kicker"><span>02 /</span><span data-i18n="caseKicker">设计观察 · 常州比亚迪</span><span class="section-end" data-i18n="caseIndex">从需求到空间</span></div>
+  <div class="case-heading"><h2 id="case-title" data-i18n="caseTitle">汽车在变。<br>空间如何<em>持续成立</em>？</h2><div><p data-i18n="caseIntro">当产品更新比建筑更快，设计需要给展示、运营与未来改造留下余地。</p><a class="small-link" href="#project/exhibition-building-1" data-project="exhibition-building-1"><span data-i18n="readProject">阅读项目</span><span aria-hidden="true">↗</span></a></div></div>
+  <div class="case-layout"><div class="case-image-stack"><button class="case-image image-link" type="button" data-image="assets/projects/changzhou-byd-detail-03.jpg" data-image-fallback="assets/projects/changzhou-byd-detail-03.jpg" data-i18n-aria="enlargeByd" aria-label="放大建筑效果图"><img src="assets/projects/changzhou-byd-detail-03.jpg" data-fallback="assets/projects/changzhou-byd-detail-03.jpg" width="1600" height="1040" loading="lazy" decoding="async" alt="常州比亚迪建筑效果图" data-i18n-alt="bydDetailAlt"><span class="image-action" aria-hidden="true">+</span></button><div class="image-footnote"><span data-i18n="caseImageCaption">建筑退后一步，展示向前。</span><span>01 / 03</span></div><button class="case-plan image-link" type="button" data-image="assets/projects/changzhou-byd-detail-02.jpg" data-image-fallback="assets/projects/changzhou-byd-detail-02.jpg" data-i18n-aria="enlargePlan" aria-label="放大总平面图"><img src="assets/projects/changzhou-byd-detail-02.jpg" data-fallback="assets/projects/changzhou-byd-detail-02.jpg" width="1600" height="1100" loading="lazy" decoding="async" alt="常州比亚迪总平面图" data-i18n-alt="planAlt"><span class="image-action" aria-hidden="true">+</span></button></div>
+   <div class="case-principles"><details open><summary><span>01</span><h3 data-i18n="principle1Title">把城市界面留给展示</h3><span class="plus" aria-hidden="true">+</span></summary><p data-i18n="principle1Text">沿街的建筑面服务于展示与城市交流，车流和运营流线在总体布局中获得各自的位置。</p></details><details><summary><span>02</span><h3 data-i18n="principle2Title">为变化预留余地</h3><span class="plus" aria-hidden="true">+</span></summary><p data-i18n="principle2Text">考虑层高、空间拆分与合并的可能，让建筑能够适应未来的品牌展示和功能升级。</p></details><details><summary><span>03</span><h3 data-i18n="principle3Title">用需求校准投入</h3><span class="plus" aria-hidden="true">+</span></summary><p data-i18n="principle3Text">按实际使用需求组织空间、拆解投入，让设计判断与建设实施保持联系。</p></details><blockquote data-i18n="caseQuote">“不是为了被看见一次，<br>而是为了持续成立。”</blockquote><p class="source-note" data-i18n="caseNote">画面为项目原始资料中的效果图与图纸。</p></div>
   </div>
-</dialog>
-<script>
-(() => {
-  const grid=document.querySelector('#projects-grid');
-  const filters=document.querySelector('#filters');
-  const search=document.querySelector('#project-search');
-  const count=document.querySelector('#result-count');
-  const dialog=document.querySelector('#project-dialog');
-  const closeButton=dialog.querySelector('.detail-close');
-  const menu=document.querySelector('.menu-toggle');
-  const mobileNav=document.querySelector('.mobile-nav');
-  let projects=[];
-  let category='全部';
-  let lastTrigger=null;
-  const imagePath=(path)=>'./'+path;
-  const text=(tag,content,className)=>{
-    const el=document.createElement(tag);el.textContent=content||'';
-    if(className)el.className=className;
-    return el;
-  };
-  function openProject(project,trigger,updateUrl=true){
-    lastTrigger=trigger||document.activeElement;
-    document.querySelector('#detail-title').textContent=project.name;
-    document.querySelector('#detail-en').textContent=project.englishName;
-    document.querySelector('#detail-category').textContent=project.category;
-    document.querySelector('#detail-intro').textContent=project.originalDescription;
-    const cover=document.querySelector('#detail-cover');
-    cover.src=imagePath(project.image);cover.alt=project.name+'项目图片';
-    const meta=document.querySelector('#detail-meta');meta.replaceChildren();
-    [['年份',project.year?.replace('–present',' 起')||'未注明'],['地点',project.location],['项目类型',project.category],['角色',project.role]].forEach(([label,value])=>{
-      const wrapper=document.createElement('div');
-      wrapper.append(text('dt',label),text('dd',value));
-      meta.append(wrapper);
-    });
-    const source=document.querySelector('#detail-source');
-    source.hidden=!project.linkedinUrl;
-    if(project.linkedinUrl)source.href=project.linkedinUrl;
-    if(!dialog.open)dialog.showModal();
-    document.body.classList.add('dialog-open');
-    if(updateUrl){
-      const u=new URL(location.href);u.searchParams.set('project',project.id);
-      history.pushState({project:project.id},'',u);
-    }
-    closeButton.focus();
-  }
-  function closeProject(updateUrl=true){
-    if(dialog.open)dialog.close();
-    document.body.classList.remove('dialog-open');
-    if(updateUrl&&new URL(location.href).searchParams.has('project')){
-      const u=new URL(location.href);u.searchParams.delete('project');
-      history.pushState({},'',u);
-    }
-    lastTrigger?.focus?.();
-  }
-  function render(){
-    const query=search.value.trim().toLocaleLowerCase();
-    const visible=projects.filter(p=>(category==='全部'||p.category===category)&&
-      (!query||[p.name,p.englishName,p.location,p.category,p.role,...p.keywords].join(' ').toLocaleLowerCase().includes(query)));
-    grid.replaceChildren();
-    for(const project of visible){
-      const article=document.createElement('article');article.className='project';
-      const button=document.createElement('button');button.type='button';
-      button.setAttribute('aria-label','查看'+project.name+'项目详情');
-      const frame=text('span','','image');
-      const img=document.createElement('img');
-      img.src=imagePath(project.image);img.alt=project.name+'项目效果图';img.loading='lazy';
-      frame.append(img);
-      const info=text('span','','project-info');
-      info.append(text('strong',project.name),text('small',project.category+'\n'+(project.year?.replace('–present',' 起')||project.location)));
-      info.querySelector('small').style.whiteSpace='pre-line';
-      button.append(frame,info,text('div',project.englishName,'project-en'));
-      button.addEventListener('click',()=>openProject(project,button));
-      article.append(button);grid.append(article);
-    }
-    count.textContent=visible.length+' 个项目';
-    if(!visible.length)grid.append(text('p','没有找到匹配项目，请试试其他关键词。','no-results'));
-  }
-  function renderFilters(){
-    filters.replaceChildren();
-    const categories=['全部',...new Set(projects.map(p=>p.category))];
-    for(const value of categories){
-      const button=text('button',value+' '+(value==='全部'?projects.length:projects.filter(p=>p.category===value).length));
-      button.type='button';button.setAttribute('aria-pressed',String(category===value));
-      button.addEventListener('click',()=>{
-        category=value;
-        filters.querySelectorAll('button').forEach(el=>el.setAttribute('aria-pressed',String(el===button)));
-        render();
-      });
-      filters.append(button);
-    }
-  }
-  function applyRoute(){
-    const id=new URL(location.href).searchParams.get('project');
-    const project=projects.find(p=>p.id===id);
-    if(project&&!dialog.open)openProject(project,null,false);
-    else if(!project&&dialog.open)closeProject(false);
-  }
-  document.querySelectorAll('[data-project]').forEach(el=>el.addEventListener('click',()=>{
-    const project=projects.find(p=>p.id===el.dataset.project);
-    if(project)openProject(project,el);
-  }));
-  closeButton.addEventListener('click',()=>closeProject());
-  dialog.addEventListener('click',event=>{if(event.target===dialog)closeProject()});
-  dialog.addEventListener('cancel',event=>{event.preventDefault();closeProject()});
-  window.addEventListener('popstate',applyRoute);
-  menu.addEventListener('click',()=>{
-    const open=mobileNav.classList.toggle('open');
-    menu.setAttribute('aria-expanded',String(open));
-    menu.textContent=open?'CLOSE':'MENU';
-  });
-  mobileNav.querySelectorAll('a').forEach(el=>el.addEventListener('click',()=>{
-    mobileNav.classList.remove('open');menu.setAttribute('aria-expanded','false');menu.textContent='MENU';
-  }));
-  search.addEventListener('input',render);
-  fetch('./data/projects.json')
-    .then(r=>{if(!r.ok)throw Error('数据加载失败');return r.json()})
-    .then(data=>{
-      projects=data.projects;
-      document.querySelector('#total-count').textContent='/ '+projects.length;
-      renderFilters();render();applyRoute();
-    })
-    .catch(()=>{
-      count.textContent='项目资料暂时无法加载，请稍后刷新页面。';
-    });
-})();
-</script>
-</body>
-</html>
+ </div></section>
+ <section class="thinking-section wrap section-space" id="thinking" aria-labelledby="thinking-title">
+  <div class="section-kicker"><span>03 /</span><span data-i18n="thinkingKicker">空间观点</span><span class="section-end" data-i18n="thinkingIndex">观察 · 提问 · 验证</span></div>
+  <div class="thinking-layout"><div class="thinking-copy"><h2 id="thinking-title" data-i18n="thinkingTitle">先观察<em>变化</em>，<br>再组织空间。</h2><p class="thinking-intro" data-i18n="thinkingIntro">我说的“行为”，不仅是人的动作，也是更广义的变化过程。建筑设计，是为这些变化提供条件。</p><div class="concept-tabs" role="tablist" aria-label="空间观察" data-i18n-aria="conceptTabs"><button type="button" id="concept-behaviour" role="tab" aria-selected="true" aria-controls="concept-panel" tabindex="0" data-concept="behaviour" data-i18n="behaviour">行为</button><button type="button" id="concept-cycle" role="tab" aria-selected="false" aria-controls="concept-panel" tabindex="-1" data-concept="cycle" data-i18n="cycle">周期</button><button type="button" id="concept-possibility" role="tab" aria-selected="false" aria-controls="concept-panel" tabindex="-1" data-concept="possibility" data-i18n="possibility">可能性</button></div><div class="concept-panel" id="concept-panel" role="tabpanel" aria-labelledby="concept-behaviour" tabindex="0"><span class="eyebrow" id="concept-number">OBSERVATION / 01</span><h3 id="concept-title">从变化出发</h3><p id="concept-description">先观察空间里正在发生的事情，再理解需要什么条件。形态，是回应这些条件的结果。</p></div></div>
+   <div class="space-study" data-mode="behaviour" aria-hidden="true"><div class="study-corner">LGX / SPATIAL STUDY</div><svg class="space-diagram" viewBox="0 0 620 560" fill="none"><defs><pattern id="study-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="currentColor" opacity=".055"/></pattern></defs><rect width="620" height="560" fill="url(#study-grid)"/><g class="study-frame" stroke="currentColor"><path d="m310 70 218 126v239L310 561 92 435V196Z" transform="translate(0,-35)"/><path d="m92 196 218 125 218-125M310 321v240M310 70v251M92 435l218-126 218 126" transform="translate(0,-35)" stroke-width=".9" stroke-dasharray="4 6" opacity=".45"/></g><g class="study-planes" stroke="currentColor" stroke-width=".8" opacity=".22"><path d="m126 178 218 127v239M164 156l218 127v239M200 135l218 127v239M236 114l218 127v239M273 92l218 127v239M92 246l218 126 218-126M92 296l218 125 218-125M92 346l218 125 218-125M92 396l218 125 218-125" transform="translate(0,-35)"/></g><g class="study-orbits" stroke="var(--accent)" stroke-width="1.2"><ellipse cx="310" cy="285" rx="165" ry="93"/><ellipse cx="310" cy="285" rx="165" ry="93" transform="rotate(60 310 285)"/><ellipse cx="310" cy="285" rx="165" ry="93" transform="rotate(120 310 285)"/></g><g class="study-flow" stroke="var(--accent)" stroke-width="1.8"><path d="m92 400 109-63 109 63 109-63 109 63M310 400v-85l109-63"/><circle class="moving-point" cx="310" cy="400" r="5" fill="var(--accent)"/></g><g class="study-possibilities" stroke="var(--accent)"><path d="m310 285-170-90m170 90 162-89m-162 89v-169m0 169v178m0-178 170 93m-170-93-162 93"/><circle cx="140" cy="195" r="6"/><circle cx="472" cy="196" r="6"/><circle cx="310" cy="116" r="6"/><circle cx="310" cy="463" r="6"/><circle cx="480" cy="378" r="6"/><circle cx="148" cy="378" r="6"/><circle cx="310" cy="285" r="11" fill="var(--accent)"/></g></svg><div class="study-bottom"><span id="study-mode-label">01 / BEHAVIOUR</span><span data-i18n="studyLabel">空间观点的视觉表达</span></div></div>
+  </div>
+  <div class="research-lines" id="lab"><div><span>RESEARCH / 01</span><h3 data-i18n="lab1Title">户型急诊室</h3><p data-i18n="lab1Text">从家庭十年、二十年的生活变化，梳理真实的空间需求。</p></div><div><span>RESEARCH / 02</span><h3 data-i18n="lab2Title">数字住宅</h3><p data-i18n="lab2Text">探索物理住宅与个人数字空间之间的对应关系。</p></div><div><span>RESEARCH / 03</span><h3 data-i18n="lab3Title">空间与 AI</h3><p data-i18n="lab3Text">让观察、设计经验与数字工具，成为可以持续验证的方法。</p></div></div>
+ </section>
+ <section class="archive-section section-space" id="archive" aria-labelledby="archive-title"><div class="wrap">
+  <div class="section-kicker"><span>04 /</span><span data-i18n="archiveKicker">完整项目索引</span><span class="section-end" data-i18n="archiveIndex">建筑设计与数字实践</span></div><div class="archive-heading"><h2 id="archive-title" data-i18n="archiveTitle">作品档案<span class="accent-dot">.</span></h2><span class="archive-total" id="archive-total">39</span></div>
+  <div class="archive-toolbar"><div class="filters" id="filters" role="group" aria-label="项目分类" data-i18n-aria="filters"></div><div class="archive-controls"><label class="search-box"><svg width="17" height="17" viewBox="0 0 20 20" fill="none" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor"/><path d="m13 13 4 4" stroke="currentColor"/></svg><span class="sr-only" data-i18n="searchLabel">搜索项目</span><input id="project-search" type="search" placeholder="项目、城市或关键词" aria-label="搜索项目" data-i18n-aria="searchLabel" data-i18n-placeholder="searchPlaceholder"></label><div class="view-toggle" role="group" aria-label="浏览方式" data-i18n-aria="viewMode"><button type="button" data-view="list" aria-pressed="true" data-i18n-aria="listView" aria-label="列表视图"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true"><path d="M1 4h16M1 9h16M1 14h16" stroke="currentColor"/></svg></button><button type="button" data-view="grid" aria-pressed="false" data-i18n-aria="gridView" aria-label="网格视图"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true"><path d="M1 1h6v6H1zm10 0h6v6h-6zM1 11h6v6H1zm10 0h6v6h-6z" stroke="currentColor"/></svg></button></div></div></div>
+  <p class="archive-status" id="archive-status" role="status" aria-live="polite">正在读取项目…</p><div class="archive-list-head" aria-hidden="true"><span data-i18n="indexNo">编号</span><span data-i18n="projectName">项目</span><span data-i18n="type">类型</span><span data-i18n="location">地点</span><span data-i18n="year">年份</span><span>↗</span></div><div class="archive-results" id="archive-results" data-view="list"></div><div class="archive-pagination"><button type="button" id="load-more" class="pill-button" hidden><span data-i18n="loadMore">显示更多项目</span><span aria-hidden="true">+</span></button></div><noscript><p>请启用 JavaScript 浏览项目档案。Enable JavaScript to browse the archive.</p></noscript>
+ </div></section>
+ <section class="about-section wrap section-space" id="about" aria-labelledby="about-title"><div class="section-kicker"><span>05 /</span><span data-i18n="aboutKicker">关于吕国祥</span><span class="section-end">LV GUOXIANG</span></div><div class="about-layout"><div class="about-image"><img src="assets/projects/Office-8.jpg" data-fallback="assets/projects/Office-8.jpg" width="1600" height="1064" loading="lazy" decoding="async" alt="青岛海尔公交 TOD 建筑效果图" data-i18n-alt="aboutAlt"><span class="about-image-label" data-i18n="aboutImageLabel">青岛海尔公交 TOD / 建筑设计</span></div><div class="about-copy"><span class="eyebrow" data-i18n="aboutEyebrow">建筑师 / BIM 从业者 / 空间观察者</span><h2 id="about-title" data-i18n="aboutTitle">以建筑为起点，<br>看向更广的<em>空间</em>。</h2><p data-i18n="aboutText">我是吕国祥，来自重庆。我的工作跨越建筑设计、BIM 与数字实践，项目经历涉及中国与新加坡。这里既是一份作品集，也是持续生长的空间观察记录。</p><p data-i18n="aboutText2">我关注空间怎样承载行为、如何回应时间，以及它还能支持哪些尚未发生的生活。</p><dl class="about-facts"><div><dt data-i18n="practice">实践</dt><dd data-i18n="practiceValue">建筑设计 · BIM · 城市规划</dd></div><div><dt data-i18n="reach">项目地域</dt><dd data-i18n="reachValue">中国 · 新加坡</dd></div><div><dt data-i18n="approach">关注</dt><dd data-i18n="approachValue">行为 · 周期 · 空间的可能性</dd></div></dl></div></div></section>
+</main>
+<footer class="contact-section" id="contact"><div class="wrap"><div class="contact-top"><span class="eyebrow" data-i18n="contactKicker">新的对话，从这里开始。</span><a class="small-link" href="https://www.linkedin.com/in/lvguoxiang/" target="_blank" rel="noopener noreferrer"><span data-i18n="connect">在 LinkedIn 联系</span><span aria-hidden="true">↗</span></a></div><p class="contact-statement" data-i18n="contactTitle">让空间，<br>支持下一种<em>可能</em>。</p><div class="footer-base"><a class="brand-mark" href="#top" aria-label="LGX 首页" data-i18n-aria="home">LGX<span class="brand-dot">.</span></a><span data-i18n="copyright">© 2026 吕国祥 · 建筑 / 空间 / 数字</span><a class="back-top" href="#top"><span data-i18n="backTop">回到顶部</span><span aria-hidden="true">↑</span></a></div></div></footer>
+<dialog class="menu-dialog" id="menu-dialog" aria-label="导航菜单" data-i18n-aria="menu"><div class="menu-top"><span class="brand-mark">LGX.</span><button class="icon-button" type="button" data-close-menu data-i18n-aria="closeMenu" aria-label="关闭菜单">×</button></div><nav class="menu-links" aria-label="移动导航" data-i18n-aria="navigation"><a href="#work"><span>01</span><span data-i18n="navWork">作品</span><span>↗</span></a><a href="#thinking"><span>02</span><span data-i18n="navThinking">观点</span><span>↗</span></a><a href="#archive"><span>03</span><span data-i18n="navArchive">项目索引</span><span>↗</span></a><a href="#about"><span>04</span><span data-i18n="navAbout">关于</span><span>↗</span></a></nav><p data-i18n="menuNote">建筑是起点，空间是持续的探索。</p></dialog>
+<dialog class="project-dialog" id="project-dialog" aria-labelledby="detail-title"><header class="detail-header"><button class="back-project" type="button" data-close-project><span aria-hidden="true">←</span><span data-i18n="backWorks">返回作品</span></button><span class="detail-brand">LGX / <span data-i18n="projectDetail">项目档案</span></span><div class="language-switch" role="group" aria-label="语言 / Language"><button type="button" data-lang="zh" aria-pressed="true">中</button><span aria-hidden="true">/</span><button type="button" data-lang="en" aria-pressed="false">EN</button></div></header><div class="detail-content wrap"><div class="detail-eyebrow"><span id="detail-category"></span><span id="detail-index"></span></div><h2 id="detail-title"></h2><div class="detail-subtitle" id="detail-subtitle"></div><button class="detail-cover image-link" type="button" id="detail-cover-button" aria-label="放大项目图片"><img id="detail-cover" alt="" decoding="async"><span class="image-action" aria-hidden="true">+</span></button><div class="detail-information"><dl class="detail-meta" id="detail-meta"></dl><div class="detail-description"><span class="eyebrow" data-i18n="projectOverview">项目概述</span><p id="detail-description"></p><p class="source-note" data-i18n="sourceNote">项目进度与日期按原始资料编制时记录。</p><details class="original-text" id="original-text"><summary><span data-i18n="originalText">查看原始资料文字</span><span aria-hidden="true">+</span></summary><p id="detail-original" lang="en"></p></details><a id="detail-source" class="small-link" target="_blank" rel="noopener noreferrer" hidden><span data-i18n="linkedinArticle">阅读 LinkedIn 项目文章</span><span aria-hidden="true">↗</span></a></div></div><div class="detail-gallery" id="detail-gallery"></div><div class="detail-next"><span data-i18n="nextProject">下一个项目</span><button type="button" id="next-project"><span id="next-project-name"></span><span aria-hidden="true">↗</span></button></div></div></dialog>
+<dialog class="image-dialog" id="image-dialog" aria-label="项目大图" data-i18n-aria="imageViewer"><div class="image-viewer-bar"><span id="image-viewer-label"></span><button class="icon-button" type="button" id="close-image" data-i18n-aria="closeImage" aria-label="关闭大图">×</button></div><img id="viewer-image" alt=""><div class="image-viewer-controls"><button class="icon-button" type="button" id="previous-image" data-i18n-aria="previousImage" aria-label="上一张图片">←</button><span id="image-viewer-count"></span><button class="icon-button" type="button" id="next-image" data-i18n-aria="nextImage" aria-label="下一张图片">→</button></div></dialog>
+<script src="assets/site.js?v=20261006-2" defer></script>
+</body></html>
