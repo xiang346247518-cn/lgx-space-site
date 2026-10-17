@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:50:27Z",
+  "updatedAt": "2026-10-17T06:52:05Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -82,39 +82,35 @@
       "majorCategory": "public"
     },
     {
-      "id": "residence-3",
-      "name": "ANG MO KIO HDB project in Singapore",
-      "englishName": "Ang Mo Kio HDB",
-      "year": "2024",
-      "date": "2024年5月 – 2024年8月",
-      "location": "Ang Mo Kio, Singapore",
+      "id": "hotel-apartment-1",
+      "name": "绍兴苏宁希尔顿酒店",
+      "englishName": "Shaoxing Suning Hilton Hotel",
+      "year": "",
+      "date": "",
+      "location": "绍兴",
       "category": "居住与酒店",
-      "role": "BIM Consulting Services",
-      "originalDescription": "The project is located in the Ang Mo Kio area of Singapore, with a total construction area of approximately 60,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase.",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "A 38,000-square-meter hotel under Hilton Group, located in Shaoxing, Zhejiang Province, is positioned as a landmark building integrating high-end hotel services, business conferences and office functions. The project has been completed.",
       "keywords": [
         "居住与酒店",
-        "新加坡",
-        "BIM Consulting Services",
-        "BIM Modelling",
-        "建筑制图",
-        "PreDC"
+        "绍兴"
       ],
-      "image": "assets/projects/Residence-3.jpg",
-      "sourceFile": "Residence-3.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/ang-mo-kio-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-jbdqe/",
+      "image": "assets/projects/Hotel-Apartment-1.jpg",
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "linkedinUrl": "",
       "translations": {
         "zh": {
-          "name": "新加坡 Ang Mo Kio HDB 住宅项目",
-          "location": "新加坡 · Ang Mo Kio",
-          "description": "项目位于新加坡 Ang Mo Kio 地区，总建筑面积约 60,000 平方米，整合公共住房、多层停车楼与配套服务。原始资料记载：项目处于设计阶段。"
+          "name": "绍兴苏宁希尔顿酒店",
+          "location": "绍兴",
+          "description": "项目位于浙江省绍兴市，是希尔顿集团旗下建筑面积约 38,000 平方米的酒店，定位为整合高端酒店服务、商务会议与办公功能的地标建筑。原始资料记载：项目已经完成。"
         },
         "en": {
-          "location": "Ang Mo Kio, Singapore"
+          "location": "Shaoxing"
         }
       },
-      "imageCount": 7,
-      "galleryBundle": "data/gallery/residence-3.json",
-      "album": "assets/albums/residence-3.json",
+      "imageCount": 8,
+      "galleryBundle": "data/gallery/hotel-apartment-1.json",
+      "album": "assets/albums/hotel-apartment-1.json",
       "featured": false,
       "order": 2,
       "published": true,
@@ -160,43 +156,6 @@
       "majorCategory": "public"
     },
     {
-      "id": "hotel-apartment-1",
-      "name": "绍兴苏宁希尔顿酒店",
-      "englishName": "Shaoxing Suning Hilton Hotel",
-      "year": "",
-      "date": "",
-      "location": "绍兴",
-      "category": "居住与酒店",
-      "role": "Core Lead Architect Team Members",
-      "originalDescription": "A 38,000-square-meter hotel under Hilton Group, located in Shaoxing, Zhejiang Province, is positioned as a landmark building integrating high-end hotel services, business conferences and office functions. The project has been completed.",
-      "keywords": [
-        "居住与酒店",
-        "绍兴"
-      ],
-      "image": "assets/projects/Hotel-Apartment-1.jpg",
-      "sourceFile": "Hotel&Apartment-1.pdf",
-      "linkedinUrl": "",
-      "translations": {
-        "zh": {
-          "name": "绍兴苏宁希尔顿酒店",
-          "location": "绍兴",
-          "description": "项目位于浙江省绍兴市，是希尔顿集团旗下建筑面积约 38,000 平方米的酒店，定位为整合高端酒店服务、商务会议与办公功能的地标建筑。原始资料记载：项目已经完成。"
-        },
-        "en": {
-          "location": "Shaoxing"
-        }
-      },
-      "imageCount": 8,
-      "galleryBundle": "data/gallery/hotel-apartment-1.json",
-      "album": "assets/albums/hotel-apartment-1.json",
-      "featured": false,
-      "order": 4,
-      "published": true,
-      "revision": "20261017",
-      "categoryId": "living-hospitality",
-      "majorCategory": "living"
-    },
-    {
       "id": "exhibition-building-3",
       "name": "The Eco Leaves Project at Singapore’s Gardens by the Bay",
       "englishName": "Eco Leaves · Gardens by the Bay",
@@ -231,11 +190,52 @@
       "galleryBundle": "data/gallery/exhibition-building-3.json",
       "album": "assets/albums/exhibition-building-3.json",
       "featured": true,
-      "order": 5,
+      "order": 4,
       "published": true,
       "revision": "20261017",
       "categoryId": "exhibition",
       "majorCategory": "public"
+    },
+    {
+      "id": "residence-3",
+      "name": "ANG MO KIO HDB project in Singapore",
+      "englishName": "Ang Mo Kio HDB",
+      "year": "2024",
+      "date": "2024年5月 – 2024年8月",
+      "location": "Ang Mo Kio, Singapore",
+      "category": "居住与酒店",
+      "role": "BIM Consulting Services",
+      "originalDescription": "The project is located in the Ang Mo Kio area of Singapore, with a total construction area of approximately 60,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase.",
+      "keywords": [
+        "居住与酒店",
+        "新加坡",
+        "BIM Consulting Services",
+        "BIM Modelling",
+        "建筑制图",
+        "PreDC"
+      ],
+      "image": "assets/projects/Residence-3.jpg",
+      "sourceFile": "Residence-3.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/ang-mo-kio-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-jbdqe/",
+      "translations": {
+        "zh": {
+          "name": "新加坡 Ang Mo Kio HDB 住宅项目",
+          "location": "新加坡 · Ang Mo Kio",
+          "description": "项目位于新加坡 Ang Mo Kio 地区，总建筑面积约 60,000 平方米，整合公共住房、多层停车楼与配套服务。原始资料记载：项目处于设计阶段。"
+        },
+        "en": {
+          "location": "Ang Mo Kio, Singapore"
+        }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/residence-3.json",
+      "album": "assets/albums/residence-3.json",
+      "featured": false,
+      "order": 5,
+      "published": true,
+      "revision": "20261017",
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
     },
     {
       "id": "residence-1",
@@ -1940,5 +1940,5 @@
     }
   },
   "schemaVersion": 2,
-  "orderRevision": "1792219825236684200"
+  "orderRevision": "1792219922309005400"
 }
