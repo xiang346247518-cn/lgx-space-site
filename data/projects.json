@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:52:05Z",
+  "updatedAt": "2026-10-17T07:00:25Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -1454,9 +1454,9 @@
       "id": "school-6",
       "name": "重庆长寿幼儿园",
       "englishName": "Changshou Kindergarten in Chongqing",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "重庆",
+      "location": "Chongqing",
       "category": "教育建筑",
       "role": "Lead Architect",
       "originalDescription": "The Chongqing Changshou Kindergarten is located in Changshou District, Chongqing. Designed for 18 classes, it covers a land area of 12,027 square meters, with a total construction area of 9,298 square meters (8,548 square meters above ground and 750 square meters underground). Equipped with outdoor activity areas and public buildings, It aims to provide a high-quality preschool education environment for local children.",
@@ -1474,7 +1474,8 @@
           "description": "重庆长寿幼儿园位于重庆市长寿区，设计为 18 个班，用地面积 12,027 平方米，总建筑面积 9,298 平方米（地上 8,548 平方米，地下 750 平方米）。项目配备室外活动场地与公共建筑，旨在为当地儿童提供高品质学前教育环境。"
         },
         "en": {
-          "location": "Chongqing"
+          "location": "Chongqing",
+          "description": "The Chongqing Changshou Kindergarten is located in Changshou District, Chongqing. Designed for 18 classes, it covers a land area of 12,027 square meters, with a total construction area of 9,298 square meters (8,548 square meters above ground and 750 square meters underground). Equipped with outdoor activity areas and public buildings, It aims to provide a high-quality preschool education environment for local children."
         }
       },
       "imageCount": 24,
@@ -1483,7 +1484,7 @@
       "featured": false,
       "order": 38,
       "published": true,
-      "revision": "20261017",
+      "revision": "1792220421019376200",
       "categoryId": "education",
       "majorCategory": "public"
     }
