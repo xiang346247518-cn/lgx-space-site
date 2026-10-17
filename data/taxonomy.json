@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "id": "living",
+      "name": "居住类",
+      "englishName": "Residential"
+    },
+    {
+      "id": "public",
+      "name": "公共建筑类",
+      "englishName": "Public architecture"
+    }
+  ],
+  "categories": [
+    {
+      "id": "exhibition",
+      "parentId": "public",
+      "name": "展陈与汽车",
+      "englishName": "Exhibition & automotive"
+    },
+    {
+      "id": "industrial",
+      "parentId": "public",
+      "name": "产业园区",
+      "englishName": "Industrial"
+    },
+    {
+      "id": "education",
+      "parentId": "public",
+      "name": "教育建筑",
+      "englishName": "Education"
+    },
+    {
+      "id": "living-hospitality",
+      "parentId": "living",
+      "name": "居住与酒店",
+      "englishName": "Living & hospitality"
+    },
+    {
+      "id": "office",
+      "parentId": "public",
+      "name": "办公建筑",
+      "englishName": "Office"
+    },
+    {
+      "id": "commercial",
+      "parentId": "public",
+      "name": "商业与综合体",
+      "englishName": "Commercial"
+    },
+    {
+      "id": "planning",
+      "parentId": "public",
+      "name": "城市规划",
+      "englishName": "Master planning"
+    }
+  ]
+}

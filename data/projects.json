@@ -40,7 +40,9 @@
       "featured": true,
       "order": 0,
       "published": true,
-      "revision": "1792207114450011100"
+      "revision": "1792207114450011100",
+      "categoryId": "exhibition",
+      "majorCategory": "public"
     },
     {
       "id": "office-8",
@@ -75,7 +77,9 @@
       "featured": true,
       "order": 1,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "office",
+      "majorCategory": "public"
     },
     {
       "id": "school-1",
@@ -114,7 +118,9 @@
       "featured": true,
       "order": 2,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "education",
+      "majorCategory": "public"
     },
     {
       "id": "exhibition-building-3",
@@ -153,7 +159,9 @@
       "featured": true,
       "order": 3,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "exhibition",
+      "majorCategory": "public"
     },
     {
       "id": "industrial-park-1",
@@ -192,7 +200,9 @@
       "featured": true,
       "order": 4,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "industrial",
+      "majorCategory": "public"
     },
     {
       "id": "residence-4",
@@ -227,7 +237,9 @@
       "featured": true,
       "order": 5,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
     },
     {
       "id": "residence-3",
@@ -266,7 +278,9 @@
       "featured": false,
       "order": 10,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
     },
     {
       "id": "residence-2",
@@ -305,7 +319,9 @@
       "featured": false,
       "order": 11,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
     },
     {
       "id": "industrial-park-2",
@@ -344,7 +360,9 @@
       "featured": false,
       "order": 12,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "industrial",
+      "majorCategory": "public"
     },
     {
       "id": "office-4",
@@ -379,7 +397,9 @@
       "featured": false,
       "order": 13,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "office",
+      "majorCategory": "public"
     },
     {
       "id": "office-6",
@@ -414,7 +434,9 @@
       "featured": false,
       "order": 14,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "office",
+      "majorCategory": "public"
     },
     {
       "id": "office-3",
@@ -449,7 +471,9 @@
       "featured": false,
       "order": 15,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "office",
+      "majorCategory": "public"
     },
     {
       "id": "office-2",
@@ -484,7 +508,9 @@
       "featured": false,
       "order": 16,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "office",
+      "majorCategory": "public"
     },
     {
       "id": "office-5",
@@ -519,7 +545,9 @@
       "featured": false,
       "order": 17,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "office",
+      "majorCategory": "public"
     },
     {
       "id": "office-7",
@@ -554,7 +582,9 @@
       "featured": false,
       "order": 18,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "office",
+      "majorCategory": "public"
     },
     {
       "id": "office-1",
@@ -589,7 +619,9 @@
       "featured": false,
       "order": 19,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "office",
+      "majorCategory": "public"
     },
     {
       "id": "shopping-mall-1",
@@ -624,7 +656,9 @@
       "featured": false,
       "order": 21,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "commercial",
+      "majorCategory": "public"
     },
     {
       "id": "shopping-mall-3",
@@ -659,7 +693,9 @@
       "featured": false,
       "order": 22,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "commercial",
+      "majorCategory": "public"
     },
     {
       "id": "shopping-mall-2",
@@ -694,7 +730,9 @@
       "featured": false,
       "order": 23,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "commercial",
+      "majorCategory": "public"
     },
     {
       "id": "shopping-mall-4",
@@ -729,7 +767,9 @@
       "featured": false,
       "order": 24,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "commercial",
+      "majorCategory": "public"
     },
     {
       "id": "shopping-mall-6",
@@ -764,7 +804,9 @@
       "featured": false,
       "order": 25,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "commercial",
+      "majorCategory": "public"
     },
     {
       "id": "l-6",
@@ -799,7 +841,9 @@
       "featured": false,
       "order": 26,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "commercial",
+      "majorCategory": "public"
     },
     {
       "id": "shopping-mall-5",
@@ -834,7 +878,9 @@
       "featured": false,
       "order": 27,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "commercial",
+      "majorCategory": "public"
     },
     {
       "id": "shopping-mall-7",
@@ -869,7 +915,9 @@
       "featured": false,
       "order": 28,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "commercial",
+      "majorCategory": "public"
     },
     {
       "id": "shopping-mall-8",
@@ -908,7 +956,9 @@
       "featured": false,
       "order": 29,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "commercial",
+      "majorCategory": "public"
     },
     {
       "id": "master-plan-2",
@@ -943,7 +993,9 @@
       "featured": false,
       "order": 30,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "planning",
+      "majorCategory": "public"
     },
     {
       "id": "master-plan-4",
@@ -978,7 +1030,9 @@
       "featured": false,
       "order": 31,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "planning",
+      "majorCategory": "public"
     },
     {
       "id": "master-plan-5",
@@ -1017,7 +1071,9 @@
       "featured": false,
       "order": 32,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "planning",
+      "majorCategory": "public"
     },
     {
       "id": "master-plan-1",
@@ -1052,7 +1108,9 @@
       "featured": false,
       "order": 33,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "planning",
+      "majorCategory": "public"
     },
     {
       "id": "master-plan-3",
@@ -1087,7 +1145,9 @@
       "featured": false,
       "order": 34,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "planning",
+      "majorCategory": "public"
     },
     {
       "id": "residence-1",
@@ -1122,7 +1182,9 @@
       "featured": false,
       "order": 35,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
     },
     {
       "id": "hotel-apartment-1",
@@ -1157,7 +1219,9 @@
       "featured": false,
       "order": 36,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
     },
     {
       "id": "hotel-apartment-2",
@@ -1192,7 +1256,9 @@
       "featured": false,
       "order": 37,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
     },
     {
       "id": "exhibition-building-2",
@@ -1231,7 +1297,9 @@
       "featured": false,
       "order": 39,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "exhibition",
+      "majorCategory": "public"
     },
     {
       "id": "school-2",
@@ -1266,7 +1334,9 @@
       "featured": false,
       "order": 40,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "education",
+      "majorCategory": "public"
     },
     {
       "id": "school-5",
@@ -1301,7 +1371,9 @@
       "featured": false,
       "order": 41,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "education",
+      "majorCategory": "public"
     },
     {
       "id": "school-3",
@@ -1336,7 +1408,9 @@
       "featured": false,
       "order": 42,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "education",
+      "majorCategory": "public"
     },
     {
       "id": "school-4",
@@ -1371,7 +1445,9 @@
       "featured": false,
       "order": 43,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "education",
+      "majorCategory": "public"
     },
     {
       "id": "school-6",
@@ -1406,7 +1482,9 @@
       "featured": false,
       "order": 44,
       "published": true,
-      "revision": "20261017"
+      "revision": "20261017",
+      "categoryId": "education",
+      "majorCategory": "public"
     }
   ],
   "presentationUpdatedAt": "2026-10-17",
