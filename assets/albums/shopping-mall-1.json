@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "projectId": "shopping-mall-1",
+  "images": [
+    {
+      "src": "assets/projects/Shopping-mall-1.jpg",
+      "caption": {
+        "zh": "上海1788广场立面改造",
+        "en": "Facade Renovation of Shanghai 1788 Plaza"
+      }
+    },
+    {
+      "src": "assets/images/shopping-mall-1/b8900c2ed14b2c52a1248f87.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Shopping mall-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-1/1194a7aafa3b03d5f4bf8af7.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Shopping mall-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-1/de8eebae497cb42144971832.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Shopping mall-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-1/6bcc855ed5dce4941370addc.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Shopping mall-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-1/3b3480c12b0138b4315d317f.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Shopping mall-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-1/c08be5c2eed452f25f12c1e5.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Shopping mall-1.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

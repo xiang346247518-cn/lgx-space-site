@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "projectId": "office-8",
+  "images": [
+    {
+      "src": "assets/projects/Office-8.jpg",
+      "caption": {
+        "zh": "青岛海尔公交TOD项目",
+        "en": "Qingdao Haier Public Transport TOD Project"
+      }
+    },
+    {
+      "src": "assets/images/office-8/8c38d9a9782cea81477a5e88.webp",
+      "width": 1600,
+      "height": 813,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Office-8.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-8/27a52384ba13e8f3a936648e.webp",
+      "width": 1191,
+      "height": 842,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Office-8.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-8/c8b60f1eb82e52a49a292bc7.webp",
+      "width": 1525,
+      "height": 1071,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Office-8.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-8/72c9c9049a149feefa3ed1ee.webp",
+      "width": 1600,
+      "height": 890,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Office-8.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-8/3bf3e9cd023eaac90d4a32db.webp",
+      "width": 1600,
+      "height": 940,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Office-8.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

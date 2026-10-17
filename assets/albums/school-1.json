@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "projectId": "school-1",
+  "images": [
+    {
+      "src": "assets/projects/School-1.jpg",
+      "caption": {
+        "zh": "重庆彭水县实验小学项目",
+        "en": "Chongqing Pengshui County Experimental Primary School Project"
+      }
+    },
+    {
+      "src": "assets/images/school-1/26c59243e709ee999b32d59c.webp",
+      "width": 1600,
+      "height": 960,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/65705393af6bc3a04eefd359.webp",
+      "width": 1600,
+      "height": 960,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/7985e4a195160b60e4cd5aef.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/de15ce5e60f923cf822660bb.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/6708e4b3adf2db4e4ca00764.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/66ac0311f130c96da787aee3.webp",
+      "width": 1519,
+      "height": 1029,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/7d91169d6f649427df489888.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/3f12b269e0c321324e4d7359.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 09",
+        "en": "Project image 09"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/1952bda3ca7e6ee25feb4775.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 10",
+        "en": "Project image 10"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/204f815e10e0d62128078a54.webp",
+      "width": 1600,
+      "height": 960,
+      "caption": {
+        "zh": "项目影像 11",
+        "en": "Project image 11"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/ac79ae42499d205b616d6e3e.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 12",
+        "en": "Project image 12"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/79ffec00b863b1d234d71435.webp",
+      "width": 1600,
+      "height": 1038,
+      "caption": {
+        "zh": "项目影像 13",
+        "en": "Project image 13"
+      },
+      "sourceFile": "School-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-1/29502426076054a761ab45ba.webp",
+      "width": 125,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 14",
+        "en": "Project image 14"
+      },
+      "sourceFile": "School-1.jpg",
+      "sourcePage": 0
+    }
+  ]
+}

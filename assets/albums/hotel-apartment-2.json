@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "projectId": "hotel-apartment-2",
+  "images": [
+    {
+      "src": "assets/projects/Hotel-Apartment-2.jpg",
+      "caption": {
+        "zh": "西安莱安领域项目",
+        "en": "Xi'an Lai'an Lingyu Project"
+      }
+    },
+    {
+      "src": "assets/images/hotel-apartment-2/9e32af322e8670b24ddc50eb.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Hotel&Apartment-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/hotel-apartment-2/69ac08475cc41cc22d26c03a.webp",
+      "width": 909,
+      "height": 825,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Hotel&Apartment-2.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

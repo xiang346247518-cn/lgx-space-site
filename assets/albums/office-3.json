@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "projectId": "office-3",
+  "images": [
+    {
+      "src": "assets/projects/Office-3.jpg",
+      "caption": {
+        "zh": "南昌绿地朝阳中心",
+        "en": "Nanchang Greenland Chaoyang Center"
+      }
+    },
+    {
+      "src": "assets/images/office-3/c6d85ad62f67e01fd3049778.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Office-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-3/c9c5a16c26ff45b284cf7f6f.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Office-3.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

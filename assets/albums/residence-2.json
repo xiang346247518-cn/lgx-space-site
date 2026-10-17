@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "projectId": "residence-2",
+  "images": [
+    {
+      "src": "assets/projects/Residence-2.jpg",
+      "caption": {
+        "zh": "新加坡 Yishun HDB 住宅项目",
+        "en": "Yishun HDB"
+      }
+    },
+    {
+      "src": "assets/images/residence-2/b9a01d7aa69e10960519ca1c.webp",
+      "width": 1525,
+      "height": 1075,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Residence-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-2/1951b9ba17a233e5029682bc.webp",
+      "width": 1430,
+      "height": 1005,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Residence-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-2/10f92c13a8d9ad02b06d073a.webp",
+      "width": 1315,
+      "height": 1051,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Residence-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-2/8bb5b92bc570286a67bfeabf.webp",
+      "width": 1600,
+      "height": 687,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Residence-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-2/f9676af1c91ef0195788e62c.webp",
+      "width": 1600,
+      "height": 1029,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Residence-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-2/4bd03759b13defe00cdce8c1.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Residence-2.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "projectId": "master-plan-5",
+  "images": [
+    {
+      "src": "assets/projects/Master-Plan-5.jpg",
+      "caption": {
+        "zh": "淮安大运河概念设计",
+        "en": "Conceptual Design of Huai'an Grand Canal"
+      }
+    },
+    {
+      "src": "assets/images/master-plan-5/7e2de5ec64cbb3abbeae57f7.webp",
+      "width": 1600,
+      "height": 806,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Master Plan-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-5/ccb95487142deae6dbeeb613.webp",
+      "width": 1600,
+      "height": 660,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Master Plan-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-5/fc0b527c816f4ccbc042a0f9.webp",
+      "width": 1600,
+      "height": 708,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Master Plan-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-5/0b8794f49222b40782f83d9d.webp",
+      "width": 1600,
+      "height": 700,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Master Plan-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-5/4b09af1c0e56539c5e990276.webp",
+      "width": 1519,
+      "height": 1073,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Master Plan-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-5/2307662d5cf638241acc9fc1.webp",
+      "width": 1515,
+      "height": 1063,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Master Plan-5.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

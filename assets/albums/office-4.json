@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "office-4",
+  "images": [
+    {
+      "src": "assets/projects/Office-4.jpg",
+      "caption": {
+        "zh": "上海江桥综合体项目",
+        "en": "Shanghai Jiangqiao Complex Project"
+      }
+    },
+    {
+      "src": "assets/images/office-4/ca93e1632f642c9a6a9ba62f.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Office-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-4/279bd7811b8cf91b3ce00efe.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Office-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-4/cef334b995b42998d07b26b4.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Office-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-4/22ee7530f752857f7641ab53.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Office-4.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

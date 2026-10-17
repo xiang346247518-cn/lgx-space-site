@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "projectId": "shopping-mall-5",
+  "images": [
+    {
+      "src": "assets/projects/Shopping-mall-5.jpg",
+      "caption": {
+        "zh": "郑州豫发锦荣悦汇城",
+        "en": "Zhengzhou Yufa Jinrong Yuehui Mall"
+      }
+    },
+    {
+      "src": "assets/images/shopping-mall-5/394ad0ad16ce329b67d1b233.webp",
+      "width": 1600,
+      "height": 1000,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Shopping mall-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-5/c09b7ed7adac6cc5b6a42e20.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Shopping mall-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-5/b89e7f685c00524b15292ab9.webp",
+      "width": 1280,
+      "height": 853,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Shopping mall-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-5/d587c4a4a03b3b1bcc46ff05.webp",
+      "width": 1500,
+      "height": 761,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Shopping mall-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-5/c41af6f0c92d3622be81d3d1.webp",
+      "width": 1600,
+      "height": 1001,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Shopping mall-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-5/8c793b5ba5a5090d4d1d19a8.webp",
+      "width": 1600,
+      "height": 700,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Shopping mall-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-5/fefcec1103366c0201e5e32f.webp",
+      "width": 230,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "Shopping mall-5.jpg",
+      "sourcePage": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "shopping-mall-3",
+  "images": [
+    {
+      "src": "assets/projects/Shopping-mall-3.jpg",
+      "caption": {
+        "zh": "石家庄保利广场",
+        "en": "Shijiazhuang Poly Plaza"
+      }
+    },
+    {
+      "src": "assets/images/shopping-mall-3/bbfeaec1ea9f98f828379ba3.webp",
+      "width": 1600,
+      "height": 807,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Shopping mall-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-3/b0aa355e35516465d8479f06.webp",
+      "width": 1536,
+      "height": 742,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Shopping mall-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-3/bf5785128a829b3a494f474e.webp",
+      "width": 1536,
+      "height": 742,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Shopping mall-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-3/6e3b2463db582c8f29272e1b.webp",
+      "width": 1600,
+      "height": 1066,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Shopping mall-3.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

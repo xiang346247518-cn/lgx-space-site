@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "projectId": "hotel-apartment-1",
+  "images": [
+    {
+      "src": "assets/projects/Hotel-Apartment-1.jpg",
+      "caption": {
+        "zh": "绍兴苏宁希尔顿酒店",
+        "en": "Shaoxing Suning Hilton Hotel"
+      }
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/2b5da51840896e89cb17cf30.webp",
+      "width": 1600,
+      "height": 890,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/f917f82405ee7f9de53e9958.webp",
+      "width": 1600,
+      "height": 889,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/83dbd679fb452707d0cc8136.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/df3d218912c146f5fe885171.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/8bcf3ff2a17ee5cd27ab723f.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/08ba287fe4fb93e1217b6b7d.webp",
+      "width": 1600,
+      "height": 890,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/2833b1d1a1ae930823dd2339.webp",
+      "width": 252,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "Hotel&Apartment-1.jpg",
+      "sourcePage": 0
+    }
+  ]
+}

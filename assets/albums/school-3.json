@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "projectId": "school-3",
+  "images": [
+    {
+      "src": "assets/projects/School-3.jpg",
+      "caption": {
+        "zh": "秦皇岛远洋未来海岸国际学校",
+        "en": "Qinhuangdao Ocean Future Coast International School"
+      }
+    },
+    {
+      "src": "assets/images/school-3/3a570feda2d170d46daa3b7d.webp",
+      "width": 1600,
+      "height": 1065,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "School-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-3/fd5083d9e911787d7ddf5223.webp",
+      "width": 1600,
+      "height": 1065,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "School-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-3/bc10bca0f1c5d6fe52b8ff52.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "School-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-3/98c9906740c06427fdff54b5.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "School-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-3/032b1375ffd7f98a726058e4.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "School-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-3/d61296726fe82115fa5c8d0f.webp",
+      "width": 1600,
+      "height": 1065,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "School-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-3/3ad797f1ab544959aad87fd3.webp",
+      "width": 1600,
+      "height": 1065,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "School-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-3/ffaa6c557b982902caae7137.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 09",
+        "en": "Project image 09"
+      },
+      "sourceFile": "School-3.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

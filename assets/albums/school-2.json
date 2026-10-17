@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "projectId": "school-2",
+  "images": [
+    {
+      "src": "assets/projects/School-2.jpg",
+      "caption": {
+        "zh": "合肥骆岗花园学校",
+        "en": "Hefei Luogang Garden School"
+      }
+    },
+    {
+      "src": "assets/images/school-2/ba322c78a99a7bdc781d95f5.webp",
+      "width": 1600,
+      "height": 881,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "School-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-2/ba8778749d55236416a3246d.webp",
+      "width": 1600,
+      "height": 1000,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "School-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-2/e5cc27392a7cb1da02a10db4.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "School-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-2/81802b630ca2f42c3403e6b9.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "School-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-2/b5c847bec37544455d81dcba.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "School-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-2/235b1070b6e189ff947026b5.webp",
+      "width": 1600,
+      "height": 1462,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "School-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-2/4d3b871c78f73d23d8cc08e7.webp",
+      "width": 1600,
+      "height": 681,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "School-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-2/06d3f3c05abf64c4c84ce216.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 09",
+        "en": "Project image 09"
+      },
+      "sourceFile": "School-2.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

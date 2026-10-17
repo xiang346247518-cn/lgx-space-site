@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "office-5",
+  "images": [
+    {
+      "src": "assets/projects/Office-5.jpg",
+      "caption": {
+        "zh": "国家技术转移郑州中心",
+        "en": "Zhengzhou National Technology Transfer Center"
+      }
+    },
+    {
+      "src": "assets/images/office-5/bd7ba8f15fa4ebd2971c05c6.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Office-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-5/eb113bf002f230b0d40a9dfe.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Office-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-5/d8fb7563b4d0e45920c8b3a1.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Office-5.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-5/008f7e3b06a67ea269ea8e3a.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Office-5.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-10-17T03:18:37Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -30,96 +30,52 @@
           "description": "项目位于江苏省常州市钟楼区，由比亚迪集团开发，总建筑面积约 27,000 平方米，计划投资 3 亿元。它将成为江苏省首个以最高标准整合比亚迪全部品牌的旗舰店，集汽车知识推广、品牌历史展示、企业文化展示、科技体验、汽车展示、销售与维修保养于一体。原始资料记载：项目正在建设中，预计于 2025 年底完成。"
         },
         "en": {
-          "location": "Zhonglou District, Changzhou City, Jiangsu Province, China"
+          "location": "Zhonglou District, Changzhou City, Jiangsu Province, China",
+          "description": "The project is located in Zhonglou District, Changzhou City, Jiangsu Province. Developed by BYD Group, it has a total construction area of approximately 27,000 square meters with a planned investment of 300 million yuan. It will be the first flagship store in Jiangsu Province that integrates all BYD brands with the highest standards, combining functions such as automobile knowledge promotion, brand history exhibition, corporate culture display, technology experience, car exhibition, sales, and maintenance. The project is currently under construction and is expected to be completed by the end of 2025."
         }
       },
-      "gallery": [
-        {
-          "image": "assets/projects/changzhou-byd-detail-03.jpg",
-          "caption": {
-            "zh": "常州比亚迪 / 建筑效果图",
-            "en": "Changzhou BYD / Architectural rendering"
-          }
-        },
-        {
-          "image": "assets/projects/changzhou-byd-detail-02.jpg",
-          "caption": {
-            "zh": "常州比亚迪 / 总平面图",
-            "en": "Changzhou BYD / Site plan"
-          }
-        },
-        {
-          "image": "assets/projects/changzhou-byd-detail-01.jpg",
-          "caption": {
-            "zh": "常州比亚迪 / 原始项目资料图",
-            "en": "Changzhou BYD / Original project image"
-          }
-        }
-      ]
+      "imageCount": 5,
+      "galleryBundle": "data/gallery/exhibition-building-1.json",
+      "album": "assets/albums/exhibition-building-1.json",
+      "featured": true,
+      "order": 0,
+      "published": true,
+      "revision": "1792207114450011100"
     },
     {
-      "id": "industrial-park-1",
-      "name": "济南智慧瓴智造科技城",
-      "englishName": "Jinan Zhihuiling Intelligent Manufacturing Technology City",
-      "year": "2019–2021",
-      "date": "2019年3月 – 2021年4月",
-      "location": "Licheng District, Jinan, Shandong Province, China",
-      "category": "产业园区",
+      "id": "office-8",
+      "name": "青岛海尔公交TOD项目",
+      "englishName": "Qingdao Haier Public Transport TOD Project",
+      "year": "",
+      "date": "",
+      "location": "青岛",
+      "category": "办公建筑",
       "role": "Lead Architect",
-      "originalDescription": "Zhihuilíng Intelligent Manufacturing Technology City is located in Licheng District, Jinan, and developed by Shandong Zhihui Industrial Technology Co., Ltd. The project includes multi-storey factories (500-12,000㎡) and high-rise factories (300-1,200㎡). As an industrial park integrating production, R&D and office functions, it takes intelligent manufacturing, biomedicine and other industries as its leading sectors. The first phase, with a construction area of 190,000㎡, has been completed; the second phase, covering 210,000㎡ in construction area, has part of its structure capped.",
+      "originalDescription": "The project is located on Shenyang Road, Shibei District, Qingdao. It is jointly developed by Haier Group and Qingdao Public Transport Group, with a total construction area of approximately 120,000 square meters. It features a comprehensive planning and design integrating high-end offices, business centers and boutique residences.",
       "keywords": [
-        "产业园区",
-        "济南",
-        "建筑师",
-        "建筑制图",
-        "建筑信息模型",
-        "AutoCAD"
+        "办公建筑",
+        "青岛"
       ],
-      "image": "assets/projects/Industrial-Park-1.jpg",
-      "sourceFile": "Industrial Park-1.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E6%B5%8E%E5%8D%97%E6%99%BA%E6%85%A7%E7%93%B4%E6%99%BA%E9%80%A0%E7%A7%91%E6%8A%80%E5%9F%8E-jinan-zhihuiling-intelligent-manufacturing-%E5%9B%BD%E7%A5%A5-%E5%90%95-wuhre/",
+      "image": "assets/projects/Office-8.jpg",
+      "sourceFile": "Office-8.pdf",
+      "linkedinUrl": "",
       "translations": {
         "zh": {
-          "name": "济南智慧瓴智造科技城",
-          "location": "中国 · 山东省济南市历城区",
-          "description": "智慧瓴智造科技城位于济南市历城区，由山东智慧产业科技有限公司开发。项目包括多层厂房（500–12,000 ㎡）及高层厂房（300–1,200 ㎡），是集生产、研发与办公功能于一体的产业园区，以智能制造、生物医药等产业为主导。原始资料记载：一期建筑面积 190,000 ㎡，已经完成；二期建筑面积 210,000 ㎡，部分结构已封顶。"
+          "name": "青岛海尔公交TOD项目",
+          "location": "青岛",
+          "description": "项目位于青岛市市北区沈阳路，由海尔集团与青岛公交集团联合开发，总建筑面积约 120,000 平方米。综合规划与设计整合了高端办公、商务中心与精品住宅。"
         },
         "en": {
-          "location": "Licheng District, Jinan, Shandong Province, China"
+          "location": "Qingdao"
         }
-      }
-    },
-    {
-      "id": "exhibition-building-3",
-      "name": "The Eco Leaves Project at Singapore’s Gardens by the Bay",
-      "englishName": "Eco Leaves · Gardens by the Bay",
-      "year": "2025–present",
-      "date": "2025年6月 – 现在",
-      "location": "Gardens by the Bay, Singapore",
-      "category": "展陈与汽车",
-      "role": "BIM Modeling and Rendering Services",
-      "originalDescription": "The project is situated in Gardens by the Bay, Singapore, covering a construction area of around 4,000 square meters. It is an exhibition building that combines exhibition functions with water purification and environmental protection services.​",
-      "keywords": [
-        "展陈与汽车",
-        "新加坡",
-        "Concept Design",
-        "Architectural Scheme Design",
-        "BIM Modelling",
-        "Rendering"
-      ],
-      "image": "assets/projects/Exhibition-Building-3.jpg",
-      "sourceFile": "Exhibition Building-3.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/eco-leaves-project-singapores-gardens-bay-%E5%9B%BD%E7%A5%A5-%E5%90%95-zbsme/",
-      "translations": {
-        "zh": {
-          "name": "新加坡滨海湾花园 Eco Leaves 展馆",
-          "location": "新加坡 · 滨海湾花园",
-          "description": "项目位于新加坡滨海湾花园，建筑面积约 4,000 平方米。它是一座将展览功能与水净化、环境保护服务相结合的展览建筑。"
-        },
-        "en": {
-          "location": "Gardens by the Bay, Singapore"
-        }
-      }
+      },
+      "imageCount": 6,
+      "galleryBundle": "data/gallery/office-8.json",
+      "album": "assets/albums/office-8.json",
+      "featured": true,
+      "order": 1,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "school-1",
@@ -151,7 +107,127 @@
         "en": {
           "location": "Pengshui County, Chongqing, China"
         }
-      }
+      },
+      "imageCount": 14,
+      "galleryBundle": "data/gallery/school-1.json",
+      "album": "assets/albums/school-1.json",
+      "featured": true,
+      "order": 2,
+      "published": true,
+      "revision": "20261017"
+    },
+    {
+      "id": "exhibition-building-3",
+      "name": "The Eco Leaves Project at Singapore’s Gardens by the Bay",
+      "englishName": "Eco Leaves · Gardens by the Bay",
+      "year": "2025–present",
+      "date": "2025年6月 – 现在",
+      "location": "Gardens by the Bay, Singapore",
+      "category": "展陈与汽车",
+      "role": "BIM Modeling and Rendering Services",
+      "originalDescription": "The project is situated in Gardens by the Bay, Singapore, covering a construction area of around 4,000 square meters. It is an exhibition building that combines exhibition functions with water purification and environmental protection services.​",
+      "keywords": [
+        "展陈与汽车",
+        "新加坡",
+        "Concept Design",
+        "Architectural Scheme Design",
+        "BIM Modelling",
+        "Rendering"
+      ],
+      "image": "assets/projects/Exhibition-Building-3.jpg",
+      "sourceFile": "Exhibition Building-3.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/eco-leaves-project-singapores-gardens-bay-%E5%9B%BD%E7%A5%A5-%E5%90%95-zbsme/",
+      "translations": {
+        "zh": {
+          "name": "新加坡滨海湾花园 Eco Leaves 展馆",
+          "location": "新加坡 · 滨海湾花园",
+          "description": "项目位于新加坡滨海湾花园，建筑面积约 4,000 平方米。它是一座将展览功能与水净化、环境保护服务相结合的展览建筑。"
+        },
+        "en": {
+          "location": "Gardens by the Bay, Singapore"
+        }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/exhibition-building-3.json",
+      "album": "assets/albums/exhibition-building-3.json",
+      "featured": true,
+      "order": 3,
+      "published": true,
+      "revision": "20261017"
+    },
+    {
+      "id": "industrial-park-1",
+      "name": "济南智慧瓴智造科技城",
+      "englishName": "Jinan Zhihuiling Intelligent Manufacturing Technology City",
+      "year": "2019–2021",
+      "date": "2019年3月 – 2021年4月",
+      "location": "Licheng District, Jinan, Shandong Province, China",
+      "category": "产业园区",
+      "role": "Lead Architect",
+      "originalDescription": "Zhihuilíng Intelligent Manufacturing Technology City is located in Licheng District, Jinan, and developed by Shandong Zhihui Industrial Technology Co., Ltd. The project includes multi-storey factories (500-12,000㎡) and high-rise factories (300-1,200㎡). As an industrial park integrating production, R&D and office functions, it takes intelligent manufacturing, biomedicine and other industries as its leading sectors. The first phase, with a construction area of 190,000㎡, has been completed; the second phase, covering 210,000㎡ in construction area, has part of its structure capped.",
+      "keywords": [
+        "产业园区",
+        "济南",
+        "建筑师",
+        "建筑制图",
+        "建筑信息模型",
+        "AutoCAD"
+      ],
+      "image": "assets/projects/Industrial-Park-1.jpg",
+      "sourceFile": "Industrial Park-1.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E6%B5%8E%E5%8D%97%E6%99%BA%E6%85%A7%E7%93%B4%E6%99%BA%E9%80%A0%E7%A7%91%E6%8A%80%E5%9F%8E-jinan-zhihuiling-intelligent-manufacturing-%E5%9B%BD%E7%A5%A5-%E5%90%95-wuhre/",
+      "translations": {
+        "zh": {
+          "name": "济南智慧瓴智造科技城",
+          "location": "中国 · 山东省济南市历城区",
+          "description": "智慧瓴智造科技城位于济南市历城区，由山东智慧产业科技有限公司开发。项目包括多层厂房（500–12,000 ㎡）及高层厂房（300–1,200 ㎡），是集生产、研发与办公功能于一体的产业园区，以智能制造、生物医药等产业为主导。原始资料记载：一期建筑面积 190,000 ㎡，已经完成；二期建筑面积 210,000 ㎡，部分结构已封顶。"
+        },
+        "en": {
+          "location": "Licheng District, Jinan, Shandong Province, China"
+        }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/industrial-park-1.json",
+      "album": "assets/albums/industrial-park-1.json",
+      "featured": true,
+      "order": 4,
+      "published": true,
+      "revision": "20261017"
+    },
+    {
+      "id": "residence-4",
+      "name": "重庆彭水县别墅设计",
+      "englishName": "Chongqing Pengshui Villa Design",
+      "year": "",
+      "date": "",
+      "location": "重庆",
+      "category": "居住与酒店",
+      "role": "Lead Architect",
+      "originalDescription": "The villa, spanning 550 square meters, is located in Pengshui County, Chongqing City. The ground floor primarily serves as public space, while the second floor is mainly dedicated to living quarters.",
+      "keywords": [
+        "居住与酒店",
+        "重庆"
+      ],
+      "image": "assets/projects/Residence-4.jpg",
+      "sourceFile": "Residence-4.pdf",
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "重庆彭水县别墅设计",
+          "location": "重庆",
+          "description": "别墅位于重庆市彭水县，面积 550 平方米。首层主要为公共空间，二层主要为居住空间。"
+        },
+        "en": {
+          "location": "Chongqing"
+        }
+      },
+      "imageCount": 8,
+      "galleryBundle": "data/gallery/residence-4.json",
+      "album": "assets/albums/residence-4.json",
+      "featured": true,
+      "order": 5,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "residence-3",
@@ -183,7 +259,14 @@
         "en": {
           "location": "Ang Mo Kio, Singapore"
         }
-      }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/residence-3.json",
+      "album": "assets/albums/residence-3.json",
+      "featured": false,
+      "order": 10,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "residence-2",
@@ -215,7 +298,14 @@
         "en": {
           "location": "Yishun, Singapore"
         }
-      }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/residence-2.json",
+      "album": "assets/albums/residence-2.json",
+      "featured": false,
+      "order": 11,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "industrial-park-2",
@@ -247,7 +337,14 @@
         "en": {
           "location": "Yubei District, Chongqing, China"
         }
-      }
+      },
+      "imageCount": 6,
+      "galleryBundle": "data/gallery/industrial-park-2.json",
+      "album": "assets/albums/industrial-park-2.json",
+      "featured": false,
+      "order": 12,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "office-4",
@@ -275,7 +372,14 @@
         "en": {
           "location": "Shanghai"
         }
-      }
+      },
+      "imageCount": 5,
+      "galleryBundle": "data/gallery/office-4.json",
+      "album": "assets/albums/office-4.json",
+      "featured": false,
+      "order": 13,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "office-6",
@@ -303,7 +407,14 @@
         "en": {
           "location": "Beijing"
         }
-      }
+      },
+      "imageCount": 6,
+      "galleryBundle": "data/gallery/office-6.json",
+      "album": "assets/albums/office-6.json",
+      "featured": false,
+      "order": 14,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "office-3",
@@ -331,7 +442,14 @@
         "en": {
           "location": "Nanchang"
         }
-      }
+      },
+      "imageCount": 3,
+      "galleryBundle": "data/gallery/office-3.json",
+      "album": "assets/albums/office-3.json",
+      "featured": false,
+      "order": 15,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "office-2",
@@ -359,7 +477,14 @@
         "en": {
           "location": "Hefei"
         }
-      }
+      },
+      "imageCount": 2,
+      "galleryBundle": "data/gallery/office-2.json",
+      "album": "assets/albums/office-2.json",
+      "featured": false,
+      "order": 16,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "office-5",
@@ -387,7 +512,14 @@
         "en": {
           "location": "Zhengzhou"
         }
-      }
+      },
+      "imageCount": 5,
+      "galleryBundle": "data/gallery/office-5.json",
+      "album": "assets/albums/office-5.json",
+      "featured": false,
+      "order": 17,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "office-7",
@@ -415,7 +547,14 @@
         "en": {
           "location": "Wuhan"
         }
-      }
+      },
+      "imageCount": 5,
+      "galleryBundle": "data/gallery/office-7.json",
+      "album": "assets/albums/office-7.json",
+      "featured": false,
+      "order": 18,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "office-1",
@@ -443,35 +582,14 @@
         "en": {
           "location": "Shanghai"
         }
-      }
-    },
-    {
-      "id": "office-8",
-      "name": "青岛海尔公交TOD项目",
-      "englishName": "Qingdao Haier Public Transport TOD Project",
-      "year": "",
-      "date": "",
-      "location": "青岛",
-      "category": "办公建筑",
-      "role": "Lead Architect",
-      "originalDescription": "The project is located on Shenyang Road, Shibei District, Qingdao. It is jointly developed by Haier Group and Qingdao Public Transport Group, with a total construction area of approximately 120,000 square meters. It features a comprehensive planning and design integrating high-end offices, business centers and boutique residences.",
-      "keywords": [
-        "办公建筑",
-        "青岛"
-      ],
-      "image": "assets/projects/Office-8.jpg",
-      "sourceFile": "Office-8.pdf",
-      "linkedinUrl": "",
-      "translations": {
-        "zh": {
-          "name": "青岛海尔公交TOD项目",
-          "location": "青岛",
-          "description": "项目位于青岛市市北区沈阳路，由海尔集团与青岛公交集团联合开发，总建筑面积约 120,000 平方米。综合规划与设计整合了高端办公、商务中心与精品住宅。"
-        },
-        "en": {
-          "location": "Qingdao"
-        }
-      }
+      },
+      "imageCount": 9,
+      "galleryBundle": "data/gallery/office-1.json",
+      "album": "assets/albums/office-1.json",
+      "featured": false,
+      "order": 19,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "shopping-mall-1",
@@ -499,7 +617,14 @@
         "en": {
           "location": "Shanghai"
         }
-      }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/shopping-mall-1.json",
+      "album": "assets/albums/shopping-mall-1.json",
+      "featured": false,
+      "order": 21,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "shopping-mall-3",
@@ -527,7 +652,14 @@
         "en": {
           "location": "Shijiazhuang"
         }
-      }
+      },
+      "imageCount": 5,
+      "galleryBundle": "data/gallery/shopping-mall-3.json",
+      "album": "assets/albums/shopping-mall-3.json",
+      "featured": false,
+      "order": 22,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "shopping-mall-2",
@@ -555,7 +687,14 @@
         "en": {
           "location": "Jingmen"
         }
-      }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/shopping-mall-2.json",
+      "album": "assets/albums/shopping-mall-2.json",
+      "featured": false,
+      "order": 23,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "shopping-mall-4",
@@ -583,7 +722,14 @@
         "en": {
           "location": "Xining"
         }
-      }
+      },
+      "imageCount": 5,
+      "galleryBundle": "data/gallery/shopping-mall-4.json",
+      "album": "assets/albums/shopping-mall-4.json",
+      "featured": false,
+      "order": 24,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "shopping-mall-6",
@@ -611,7 +757,14 @@
         "en": {
           "location": "Zhengzhou"
         }
-      }
+      },
+      "imageCount": 5,
+      "galleryBundle": "data/gallery/shopping-mall-6.json",
+      "album": "assets/albums/shopping-mall-6.json",
+      "featured": false,
+      "order": 25,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "l-6",
@@ -639,7 +792,14 @@
         "en": {
           "location": "Zhengzhou"
         }
-      }
+      },
+      "imageCount": 5,
+      "galleryBundle": "data/gallery/l-6.json",
+      "album": "assets/albums/l-6.json",
+      "featured": false,
+      "order": 26,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "shopping-mall-5",
@@ -667,7 +827,14 @@
         "en": {
           "location": "Zhengzhou"
         }
-      }
+      },
+      "imageCount": 8,
+      "galleryBundle": "data/gallery/shopping-mall-5.json",
+      "album": "assets/albums/shopping-mall-5.json",
+      "featured": false,
+      "order": 27,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "shopping-mall-7",
@@ -695,7 +862,14 @@
         "en": {
           "location": "Chongqing"
         }
-      }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/shopping-mall-7.json",
+      "album": "assets/albums/shopping-mall-7.json",
+      "featured": false,
+      "order": 28,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "shopping-mall-8",
@@ -727,7 +901,14 @@
         "en": {
           "location": "Wulong, Chongqing, China"
         }
-      }
+      },
+      "imageCount": 6,
+      "galleryBundle": "data/gallery/shopping-mall-8.json",
+      "album": "assets/albums/shopping-mall-8.json",
+      "featured": false,
+      "order": 29,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "master-plan-2",
@@ -755,7 +936,14 @@
         "en": {
           "location": "Hefei"
         }
-      }
+      },
+      "imageCount": 6,
+      "galleryBundle": "data/gallery/master-plan-2.json",
+      "album": "assets/albums/master-plan-2.json",
+      "featured": false,
+      "order": 30,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "master-plan-4",
@@ -783,7 +971,14 @@
         "en": {
           "location": "Kunming"
         }
-      }
+      },
+      "imageCount": 6,
+      "galleryBundle": "data/gallery/master-plan-4.json",
+      "album": "assets/albums/master-plan-4.json",
+      "featured": false,
+      "order": 31,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "master-plan-5",
@@ -815,7 +1010,14 @@
         "en": {
           "location": "Huai'an City, Jiangsu Province, China"
         }
-      }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/master-plan-5.json",
+      "album": "assets/albums/master-plan-5.json",
+      "featured": false,
+      "order": 32,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "master-plan-1",
@@ -843,7 +1045,14 @@
         "en": {
           "location": "Zhengzhou"
         }
-      }
+      },
+      "imageCount": 6,
+      "galleryBundle": "data/gallery/master-plan-1.json",
+      "album": "assets/albums/master-plan-1.json",
+      "featured": false,
+      "order": 33,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "master-plan-3",
@@ -871,7 +1080,14 @@
         "en": {
           "location": "Chongqing"
         }
-      }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/master-plan-3.json",
+      "album": "assets/albums/master-plan-3.json",
+      "featured": false,
+      "order": 34,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "residence-1",
@@ -899,7 +1115,14 @@
         "en": {
           "location": "Shanghai"
         }
-      }
+      },
+      "imageCount": 8,
+      "galleryBundle": "data/gallery/residence-1.json",
+      "album": "assets/albums/residence-1.json",
+      "featured": false,
+      "order": 35,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "hotel-apartment-1",
@@ -927,7 +1150,14 @@
         "en": {
           "location": "Shaoxing"
         }
-      }
+      },
+      "imageCount": 8,
+      "galleryBundle": "data/gallery/hotel-apartment-1.json",
+      "album": "assets/albums/hotel-apartment-1.json",
+      "featured": false,
+      "order": 36,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "hotel-apartment-2",
@@ -955,35 +1185,14 @@
         "en": {
           "location": "Xi’an"
         }
-      }
-    },
-    {
-      "id": "residence-4",
-      "name": "重庆彭水县别墅设计",
-      "englishName": "Chongqing Pengshui Villa Design",
-      "year": "",
-      "date": "",
-      "location": "重庆",
-      "category": "居住与酒店",
-      "role": "Lead Architect",
-      "originalDescription": "The villa, spanning 550 square meters, is located in Pengshui County, Chongqing City. The ground floor primarily serves as public space, while the second floor is mainly dedicated to living quarters.",
-      "keywords": [
-        "居住与酒店",
-        "重庆"
-      ],
-      "image": "assets/projects/Residence-4.jpg",
-      "sourceFile": "Residence-4.pdf",
-      "linkedinUrl": "",
-      "translations": {
-        "zh": {
-          "name": "重庆彭水县别墅设计",
-          "location": "重庆",
-          "description": "别墅位于重庆市彭水县，面积 550 平方米。首层主要为公共空间，二层主要为居住空间。"
-        },
-        "en": {
-          "location": "Chongqing"
-        }
-      }
+      },
+      "imageCount": 3,
+      "galleryBundle": "data/gallery/hotel-apartment-2.json",
+      "album": "assets/albums/hotel-apartment-2.json",
+      "featured": false,
+      "order": 37,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "exhibition-building-2",
@@ -1015,7 +1224,14 @@
         "en": {
           "location": "Shushan District, Hefei, Anhui Province, China"
         }
-      }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/exhibition-building-2.json",
+      "album": "assets/albums/exhibition-building-2.json",
+      "featured": false,
+      "order": 39,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "school-2",
@@ -1043,7 +1259,14 @@
         "en": {
           "location": "Hefei"
         }
-      }
+      },
+      "imageCount": 9,
+      "galleryBundle": "data/gallery/school-2.json",
+      "album": "assets/albums/school-2.json",
+      "featured": false,
+      "order": 40,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "school-5",
@@ -1071,7 +1294,14 @@
         "en": {
           "location": "Huizhou"
         }
-      }
+      },
+      "imageCount": 9,
+      "galleryBundle": "data/gallery/school-5.json",
+      "album": "assets/albums/school-5.json",
+      "featured": false,
+      "order": 41,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "school-3",
@@ -1099,7 +1329,14 @@
         "en": {
           "location": "Qinhuangdao"
         }
-      }
+      },
+      "imageCount": 9,
+      "galleryBundle": "data/gallery/school-3.json",
+      "album": "assets/albums/school-3.json",
+      "featured": false,
+      "order": 42,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "school-4",
@@ -1127,7 +1364,14 @@
         "en": {
           "location": "Zhengzhou"
         }
-      }
+      },
+      "imageCount": 11,
+      "galleryBundle": "data/gallery/school-4.json",
+      "album": "assets/albums/school-4.json",
+      "featured": false,
+      "order": 43,
+      "published": true,
+      "revision": "20261017"
     },
     {
       "id": "school-6",
@@ -1155,10 +1399,17 @@
         "en": {
           "location": "Chongqing"
         }
-      }
+      },
+      "imageCount": 24,
+      "galleryBundle": "data/gallery/school-6.json",
+      "album": "assets/albums/school-6.json",
+      "featured": false,
+      "order": 44,
+      "published": true,
+      "revision": "20261017"
     }
   ],
-  "presentationUpdatedAt": "2026-10-06",
+  "presentationUpdatedAt": "2026-10-17",
   "thumbnailAtlas": {
     "image": "assets/archive-atlas.webp",
     "columns": 5,
@@ -1324,5 +1575,290 @@
   },
   "optimizedImages": {
     "assets/projects/Exhibition-Building-1.jpg": "assets/media/Exhibition-Building-1.webp"
-  }
+  },
+  "galleryThumbnailAtlas": {
+    "image": "assets/gallery-thumbnails.webp",
+    "columns": 20,
+    "rows": 14,
+    "images": {
+      "assets/projects/Exhibition-Building-1.jpg": 0,
+      "assets/gallery/exhibition-building-1-02.webp": 1,
+      "assets/gallery/exhibition-building-1-03.webp": 2,
+      "assets/gallery/exhibition-building-1-04.webp": 3,
+      "assets/gallery/exhibition-building-1-05.webp": 4,
+      "assets/projects/Industrial-Park-1.jpg": 5,
+      "assets/gallery/industrial-park-1-02.webp": 6,
+      "assets/gallery/industrial-park-1-03.webp": 7,
+      "assets/gallery/industrial-park-1-04.webp": 8,
+      "assets/gallery/industrial-park-1-05.webp": 9,
+      "assets/gallery/industrial-park-1-06.webp": 10,
+      "assets/gallery/industrial-park-1-07.webp": 11,
+      "assets/projects/Exhibition-Building-3.jpg": 12,
+      "assets/gallery/exhibition-building-3-02.webp": 13,
+      "assets/gallery/exhibition-building-3-03.webp": 14,
+      "assets/gallery/exhibition-building-3-04.webp": 15,
+      "assets/gallery/exhibition-building-3-05.webp": 16,
+      "assets/gallery/exhibition-building-3-06.webp": 17,
+      "assets/gallery/exhibition-building-3-07.webp": 18,
+      "assets/projects/School-1.jpg": 19,
+      "assets/gallery/school-1-02.webp": 20,
+      "assets/gallery/school-1-03.webp": 21,
+      "assets/gallery/school-1-04.webp": 22,
+      "assets/gallery/school-1-05.webp": 23,
+      "assets/gallery/school-1-06.webp": 24,
+      "assets/gallery/school-1-07.webp": 25,
+      "assets/gallery/school-1-08.webp": 26,
+      "assets/gallery/school-1-09.webp": 27,
+      "assets/gallery/school-1-10.webp": 28,
+      "assets/gallery/school-1-11.webp": 29,
+      "assets/gallery/school-1-12.webp": 30,
+      "assets/gallery/school-1-13.webp": 31,
+      "assets/gallery/school-1-14.webp": 32,
+      "assets/projects/Residence-3.jpg": 33,
+      "assets/gallery/residence-3-02.webp": 34,
+      "assets/gallery/residence-3-03.webp": 35,
+      "assets/gallery/residence-3-04.webp": 36,
+      "assets/gallery/residence-3-05.webp": 37,
+      "assets/gallery/residence-3-06.webp": 38,
+      "assets/gallery/residence-3-07.webp": 39,
+      "assets/projects/Residence-2.jpg": 40,
+      "assets/gallery/residence-2-02.webp": 41,
+      "assets/gallery/residence-2-03.webp": 42,
+      "assets/gallery/residence-2-04.webp": 43,
+      "assets/gallery/residence-2-05.webp": 44,
+      "assets/gallery/residence-2-06.webp": 45,
+      "assets/gallery/residence-2-07.webp": 46,
+      "assets/projects/Industrial-Park-2.jpg": 47,
+      "assets/gallery/industrial-park-2-02.webp": 48,
+      "assets/gallery/industrial-park-2-03.webp": 49,
+      "assets/gallery/industrial-park-2-04.webp": 50,
+      "assets/gallery/industrial-park-2-05.webp": 51,
+      "assets/gallery/industrial-park-2-06.webp": 52,
+      "assets/projects/Office-4.jpg": 53,
+      "assets/gallery/office-4-02.webp": 54,
+      "assets/gallery/office-4-03.webp": 55,
+      "assets/gallery/office-4-04.webp": 56,
+      "assets/gallery/office-4-05.webp": 57,
+      "assets/projects/Office-6.jpg": 58,
+      "assets/gallery/office-6-02.webp": 59,
+      "assets/gallery/office-6-03.webp": 60,
+      "assets/gallery/office-6-04.webp": 61,
+      "assets/gallery/office-6-05.webp": 62,
+      "assets/gallery/office-6-06.webp": 63,
+      "assets/projects/Office-3.jpg": 64,
+      "assets/gallery/office-3-02.webp": 65,
+      "assets/gallery/office-3-03.webp": 66,
+      "assets/projects/Office-2.jpg": 67,
+      "assets/gallery/office-2-02.webp": 68,
+      "assets/projects/Office-5.jpg": 69,
+      "assets/gallery/office-5-02.webp": 70,
+      "assets/gallery/office-5-03.webp": 71,
+      "assets/gallery/office-5-04.webp": 72,
+      "assets/gallery/office-5-05.webp": 73,
+      "assets/projects/Office-7.jpg": 74,
+      "assets/gallery/office-7-02.webp": 75,
+      "assets/gallery/office-7-03.webp": 76,
+      "assets/gallery/office-7-04.webp": 77,
+      "assets/gallery/office-7-05.webp": 78,
+      "assets/projects/Office-1.jpg": 79,
+      "assets/gallery/office-1-02.webp": 80,
+      "assets/gallery/office-1-03.webp": 81,
+      "assets/gallery/office-1-04.webp": 82,
+      "assets/gallery/office-1-05.webp": 83,
+      "assets/gallery/office-1-06.webp": 84,
+      "assets/gallery/office-1-07.webp": 85,
+      "assets/gallery/office-1-08.webp": 86,
+      "assets/gallery/office-1-09.webp": 87,
+      "assets/projects/Office-8.jpg": 88,
+      "assets/gallery/office-8-02.webp": 89,
+      "assets/gallery/office-8-03.webp": 90,
+      "assets/gallery/office-8-04.webp": 91,
+      "assets/gallery/office-8-05.webp": 92,
+      "assets/gallery/office-8-06.webp": 93,
+      "assets/projects/Shopping-mall-1.jpg": 94,
+      "assets/gallery/shopping-mall-1-02.webp": 95,
+      "assets/gallery/shopping-mall-1-03.webp": 96,
+      "assets/gallery/shopping-mall-1-04.webp": 97,
+      "assets/gallery/shopping-mall-1-05.webp": 98,
+      "assets/gallery/shopping-mall-1-06.webp": 99,
+      "assets/gallery/shopping-mall-1-07.webp": 100,
+      "assets/projects/Shopping-mall-3.jpg": 101,
+      "assets/gallery/shopping-mall-3-02.webp": 102,
+      "assets/gallery/shopping-mall-3-03.webp": 103,
+      "assets/gallery/shopping-mall-3-04.webp": 104,
+      "assets/gallery/shopping-mall-3-05.webp": 105,
+      "assets/projects/Shopping-mall-2.jpg": 106,
+      "assets/gallery/shopping-mall-2-02.webp": 107,
+      "assets/gallery/shopping-mall-2-03.webp": 108,
+      "assets/gallery/shopping-mall-2-04.webp": 109,
+      "assets/gallery/shopping-mall-2-05.webp": 110,
+      "assets/gallery/shopping-mall-2-06.webp": 111,
+      "assets/gallery/shopping-mall-2-07.webp": 112,
+      "assets/projects/Shopping-mall-4.jpg": 113,
+      "assets/gallery/shopping-mall-4-02.webp": 114,
+      "assets/gallery/shopping-mall-4-03.webp": 115,
+      "assets/gallery/shopping-mall-4-04.webp": 116,
+      "assets/gallery/shopping-mall-4-05.webp": 117,
+      "assets/projects/Shopping-mall-6.jpg": 118,
+      "assets/gallery/shopping-mall-6-02.webp": 119,
+      "assets/gallery/shopping-mall-6-03.webp": 120,
+      "assets/gallery/shopping-mall-6-04.webp": 121,
+      "assets/gallery/shopping-mall-6-05.webp": 122,
+      "assets/projects/L-6.jpg": 123,
+      "assets/gallery/l-6-02.webp": 124,
+      "assets/gallery/l-6-03.webp": 125,
+      "assets/gallery/l-6-04.webp": 126,
+      "assets/gallery/l-6-05.webp": 127,
+      "assets/projects/Shopping-mall-5.jpg": 128,
+      "assets/gallery/shopping-mall-5-02.webp": 129,
+      "assets/gallery/shopping-mall-5-03.webp": 130,
+      "assets/gallery/shopping-mall-5-04.webp": 131,
+      "assets/gallery/shopping-mall-5-05.webp": 132,
+      "assets/gallery/shopping-mall-5-06.webp": 133,
+      "assets/gallery/shopping-mall-5-07.webp": 134,
+      "assets/gallery/shopping-mall-5-08.webp": 135,
+      "assets/projects/Shopping-mall-7.jpg": 136,
+      "assets/gallery/shopping-mall-7-02.webp": 137,
+      "assets/gallery/shopping-mall-7-03.webp": 138,
+      "assets/gallery/shopping-mall-7-04.webp": 139,
+      "assets/gallery/shopping-mall-7-05.webp": 140,
+      "assets/gallery/shopping-mall-7-06.webp": 141,
+      "assets/gallery/shopping-mall-7-07.webp": 142,
+      "assets/projects/Shopping-mall-8.jpg": 143,
+      "assets/gallery/shopping-mall-8-02.webp": 144,
+      "assets/gallery/shopping-mall-8-03.webp": 145,
+      "assets/gallery/shopping-mall-8-04.webp": 146,
+      "assets/gallery/shopping-mall-8-05.webp": 147,
+      "assets/gallery/shopping-mall-8-06.webp": 148,
+      "assets/projects/Master-Plan-2.jpg": 149,
+      "assets/gallery/master-plan-2-02.webp": 150,
+      "assets/gallery/master-plan-2-03.webp": 151,
+      "assets/gallery/master-plan-2-04.webp": 152,
+      "assets/gallery/master-plan-2-05.webp": 153,
+      "assets/gallery/master-plan-2-06.webp": 154,
+      "assets/projects/Master-Plan-4.jpg": 155,
+      "assets/gallery/master-plan-4-02.webp": 156,
+      "assets/gallery/master-plan-4-03.webp": 157,
+      "assets/gallery/master-plan-4-04.webp": 158,
+      "assets/gallery/master-plan-4-05.webp": 159,
+      "assets/gallery/master-plan-4-06.webp": 160,
+      "assets/projects/Master-Plan-5.jpg": 161,
+      "assets/gallery/master-plan-5-02.webp": 162,
+      "assets/gallery/master-plan-5-03.webp": 163,
+      "assets/gallery/master-plan-5-04.webp": 164,
+      "assets/gallery/master-plan-5-05.webp": 165,
+      "assets/gallery/master-plan-5-06.webp": 166,
+      "assets/gallery/master-plan-5-07.webp": 167,
+      "assets/projects/Master-Plan-1.jpg": 168,
+      "assets/gallery/master-plan-1-02.webp": 169,
+      "assets/gallery/master-plan-1-03.webp": 170,
+      "assets/gallery/master-plan-1-04.webp": 171,
+      "assets/gallery/master-plan-1-05.webp": 172,
+      "assets/gallery/master-plan-1-06.webp": 173,
+      "assets/projects/Master-Plan-3.jpg": 174,
+      "assets/gallery/master-plan-3-02.webp": 175,
+      "assets/gallery/master-plan-3-03.webp": 176,
+      "assets/gallery/master-plan-3-04.webp": 177,
+      "assets/gallery/master-plan-3-05.webp": 178,
+      "assets/gallery/master-plan-3-06.webp": 179,
+      "assets/gallery/master-plan-3-07.webp": 180,
+      "assets/projects/Residence-1.jpg": 181,
+      "assets/gallery/residence-1-02.webp": 182,
+      "assets/gallery/residence-1-03.webp": 183,
+      "assets/gallery/residence-1-04.webp": 184,
+      "assets/gallery/residence-1-05.webp": 185,
+      "assets/gallery/residence-1-06.webp": 186,
+      "assets/gallery/residence-1-07.webp": 187,
+      "assets/gallery/residence-1-08.webp": 188,
+      "assets/projects/Hotel-Apartment-1.jpg": 189,
+      "assets/gallery/hotel-apartment-1-02.webp": 190,
+      "assets/gallery/hotel-apartment-1-03.webp": 191,
+      "assets/gallery/hotel-apartment-1-04.webp": 192,
+      "assets/gallery/hotel-apartment-1-05.webp": 193,
+      "assets/gallery/hotel-apartment-1-06.webp": 194,
+      "assets/gallery/hotel-apartment-1-07.webp": 195,
+      "assets/gallery/hotel-apartment-1-08.webp": 196,
+      "assets/projects/Hotel-Apartment-2.jpg": 197,
+      "assets/gallery/hotel-apartment-2-02.webp": 198,
+      "assets/gallery/hotel-apartment-2-03.webp": 199,
+      "assets/projects/Residence-4.jpg": 200,
+      "assets/gallery/residence-4-02.webp": 201,
+      "assets/gallery/residence-4-03.webp": 202,
+      "assets/gallery/residence-4-04.webp": 203,
+      "assets/gallery/residence-4-05.webp": 204,
+      "assets/gallery/residence-4-06.webp": 205,
+      "assets/gallery/residence-4-07.webp": 206,
+      "assets/gallery/residence-4-08.webp": 207,
+      "assets/projects/Exhibition-Building-2.jpg": 208,
+      "assets/gallery/exhibition-building-2-02.webp": 209,
+      "assets/gallery/exhibition-building-2-03.webp": 210,
+      "assets/gallery/exhibition-building-2-04.webp": 211,
+      "assets/gallery/exhibition-building-2-05.webp": 212,
+      "assets/gallery/exhibition-building-2-06.webp": 213,
+      "assets/gallery/exhibition-building-2-07.webp": 214,
+      "assets/projects/School-2.jpg": 215,
+      "assets/gallery/school-2-02.webp": 216,
+      "assets/gallery/school-2-03.webp": 217,
+      "assets/gallery/school-2-04.webp": 218,
+      "assets/gallery/school-2-05.webp": 219,
+      "assets/gallery/school-2-06.webp": 220,
+      "assets/gallery/school-2-07.webp": 221,
+      "assets/gallery/school-2-08.webp": 222,
+      "assets/gallery/school-2-09.webp": 223,
+      "assets/projects/School-5.jpg": 224,
+      "assets/gallery/school-5-02.webp": 225,
+      "assets/gallery/school-5-03.webp": 226,
+      "assets/gallery/school-5-04.webp": 227,
+      "assets/gallery/school-5-05.webp": 228,
+      "assets/gallery/school-5-06.webp": 229,
+      "assets/gallery/school-5-07.webp": 230,
+      "assets/gallery/school-5-08.webp": 231,
+      "assets/gallery/school-5-09.webp": 232,
+      "assets/projects/School-3.jpg": 233,
+      "assets/gallery/school-3-02.webp": 234,
+      "assets/gallery/school-3-03.webp": 235,
+      "assets/gallery/school-3-04.webp": 236,
+      "assets/gallery/school-3-05.webp": 237,
+      "assets/gallery/school-3-06.webp": 238,
+      "assets/gallery/school-3-07.webp": 239,
+      "assets/gallery/school-3-08.webp": 240,
+      "assets/gallery/school-3-09.webp": 241,
+      "assets/projects/School-4.jpg": 242,
+      "assets/gallery/school-4-02.webp": 243,
+      "assets/gallery/school-4-03.webp": 244,
+      "assets/gallery/school-4-04.webp": 245,
+      "assets/gallery/school-4-05.webp": 246,
+      "assets/gallery/school-4-06.webp": 247,
+      "assets/gallery/school-4-07.webp": 248,
+      "assets/gallery/school-4-08.webp": 249,
+      "assets/gallery/school-4-09.webp": 250,
+      "assets/gallery/school-4-10.webp": 251,
+      "assets/gallery/school-4-11.webp": 252,
+      "assets/projects/School-6.jpg": 253,
+      "assets/gallery/school-6-02.webp": 254,
+      "assets/gallery/school-6-03.webp": 255,
+      "assets/gallery/school-6-04.webp": 256,
+      "assets/gallery/school-6-05.webp": 257,
+      "assets/gallery/school-6-06.webp": 258,
+      "assets/gallery/school-6-07.webp": 259,
+      "assets/gallery/school-6-08.webp": 260,
+      "assets/gallery/school-6-09.webp": 261,
+      "assets/gallery/school-6-10.webp": 262,
+      "assets/gallery/school-6-11.webp": 263,
+      "assets/gallery/school-6-12.webp": 264,
+      "assets/gallery/school-6-13.webp": 265,
+      "assets/gallery/school-6-14.webp": 266,
+      "assets/gallery/school-6-15.webp": 267,
+      "assets/gallery/school-6-16.webp": 268,
+      "assets/gallery/school-6-17.webp": 269,
+      "assets/gallery/school-6-18.webp": 270,
+      "assets/gallery/school-6-19.webp": 271,
+      "assets/gallery/school-6-20.webp": 272,
+      "assets/gallery/school-6-21.webp": 273,
+      "assets/gallery/school-6-22.webp": 274,
+      "assets/gallery/school-6-23.webp": 275,
+      "assets/gallery/school-6-24.webp": 276
+    }
+  },
+  "schemaVersion": 2
 }

@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "projectId": "office-1",
+  "images": [
+    {
+      "src": "assets/projects/Office-1.jpg",
+      "caption": {
+        "zh": "虹桥世界中心",
+        "en": "LM Hongqiao World Center"
+      }
+    },
+    {
+      "src": "assets/images/office-1/ff6f79a7eb7bb7efd20cd39f.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Office-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-1/bd6a4e0d2fd524e1234cb173.webp",
+      "width": 1600,
+      "height": 844,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Office-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-1/f0c7ba36037c2aea882b5918.webp",
+      "width": 1600,
+      "height": 919,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Office-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-1/aff2f1e4219fa626139594be.webp",
+      "width": 1600,
+      "height": 974,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Office-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-1/20c954022a0014679a82cb9b.webp",
+      "width": 1600,
+      "height": 1126,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Office-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-1/a96354f1f1066be945c529a4.webp",
+      "width": 1600,
+      "height": 1067,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Office-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-1/03c30447d2ecc036ef743b51.webp",
+      "width": 1600,
+      "height": 1131,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "Office-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-1/d4d34b2016f1d71869e510a6.webp",
+      "width": 217,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 09",
+        "en": "Project image 09"
+      },
+      "sourceFile": "Office-1.jpg",
+      "sourcePage": 0
+    }
+  ]
+}

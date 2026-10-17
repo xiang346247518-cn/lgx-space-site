@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "shopping-mall-4",
+  "images": [
+    {
+      "src": "assets/projects/Shopping-mall-4.jpg",
+      "caption": {
+        "zh": "西宁香格里拉商业中心",
+        "en": "Xining Shangri-La Commercial Center"
+      }
+    },
+    {
+      "src": "assets/images/shopping-mall-4/76abc800ed0fa2be9379a822.webp",
+      "width": 1280,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Shopping mall-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-4/80d5bb704a7cae3c9da1f781.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Shopping mall-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-4/50d74fea908e31f42f2c9568.webp",
+      "width": 1600,
+      "height": 1200,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Shopping mall-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-4/50ea53c40a32ac549cd4ebe6.webp",
+      "width": 1600,
+      "height": 1100,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Shopping mall-4.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

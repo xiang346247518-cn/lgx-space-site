@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "projectId": "master-plan-1",
+  "images": [
+    {
+      "src": "assets/projects/Master-Plan-1.jpg",
+      "caption": {
+        "zh": "郑州永威双鹤湖概念设计",
+        "en": "Zhengzhou Yongwei Shuanghe Lake"
+      }
+    },
+    {
+      "src": "assets/images/master-plan-1/755253dbdc4ead7adad32c4f.webp",
+      "width": 1600,
+      "height": 806,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Master Plan-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-1/39082847910a07b6fb12e74b.webp",
+      "width": 1600,
+      "height": 872,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Master Plan-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-1/60f1f1739bd0c15f670579a3.webp",
+      "width": 1355,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Master Plan-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-1/2ce54f29f9cba28d69116c12.webp",
+      "width": 1600,
+      "height": 844,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Master Plan-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-1/a1ca27418e46b2a7c943404e.webp",
+      "width": 1600,
+      "height": 940,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Master Plan-1.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

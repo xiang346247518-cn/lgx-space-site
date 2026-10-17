@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "projectId": "shopping-mall-7",
+  "images": [
+    {
+      "src": "assets/projects/Shopping-mall-7.jpg",
+      "caption": {
+        "zh": "重庆三洞桥park",
+        "en": "Chongqing Sandongqiao Park"
+      }
+    },
+    {
+      "src": "assets/images/shopping-mall-7/4ad9a5ec1829551b790c87da.webp",
+      "width": 1279,
+      "height": 1488,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Shopping mall-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-7/7c4d9efc970e071410168e88.webp",
+      "width": 1600,
+      "height": 1020,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Shopping mall-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-7/cfba4225598d81d9fdfbb9dd.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Shopping mall-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-7/b19cd28eb6d1e366afe4fc15.webp",
+      "width": 1600,
+      "height": 800,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Shopping mall-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-7/b232227c3acdb05615565ab1.webp",
+      "width": 1260,
+      "height": 980,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Shopping mall-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-7/db887a0384d1363981650c2c.webp",
+      "width": 226,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Shopping mall-7.jpg",
+      "sourcePage": 0
+    }
+  ]
+}

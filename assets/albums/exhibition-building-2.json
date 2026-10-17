@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "projectId": "exhibition-building-2",
+  "images": [
+    {
+      "src": "assets/projects/Exhibition-Building-2.jpg",
+      "caption": {
+        "zh": "合肥比亚迪全品牌旗舰店概念设计",
+        "en": "Hefei BYD Full-Brand Flagship Store"
+      }
+    },
+    {
+      "src": "assets/images/exhibition-building-2/fe5fad8d339f20173efcdd70.webp",
+      "width": 1600,
+      "height": 923,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Exhibition Building-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-2/06319409391d18f00103e3c6.webp",
+      "width": 1600,
+      "height": 1016,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Exhibition Building-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-2/c55152d33a426883e8bb0a0f.webp",
+      "width": 1600,
+      "height": 1014,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Exhibition Building-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-2/a9d51a565ffe40b95c18582f.webp",
+      "width": 1438,
+      "height": 1053,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Exhibition Building-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-2/aa9d0680d28122e0a8e8ecfd.webp",
+      "width": 1395,
+      "height": 924,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Exhibition Building-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-2/20b31a1c3fb9ae34c55a443a.webp",
+      "width": 1421,
+      "height": 1055,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Exhibition Building-2.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

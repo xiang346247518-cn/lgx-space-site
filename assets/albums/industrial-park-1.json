@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "projectId": "industrial-park-1",
+  "images": [
+    {
+      "src": "assets/projects/Industrial-Park-1.jpg",
+      "caption": {
+        "zh": "济南智慧瓴智造科技城",
+        "en": "Jinan Zhihuiling Intelligent Manufacturing Technology City"
+      }
+    },
+    {
+      "src": "assets/images/industrial-park-1/b554853b34f2225edf9ee80f.webp",
+      "width": 1080,
+      "height": 718,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Industrial Park-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/industrial-park-1/aa2b8fc9149110041f892f67.webp",
+      "width": 1600,
+      "height": 716,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Industrial Park-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/industrial-park-1/5004e87374fe5b5e25253172.webp",
+      "width": 1600,
+      "height": 1024,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Industrial Park-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/industrial-park-1/2a46e4a396516477b8af41b5.webp",
+      "width": 1280,
+      "height": 853,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Industrial Park-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/industrial-park-1/f6ed2f62f318d4cbd4ee5268.webp",
+      "width": 1600,
+      "height": 1024,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Industrial Park-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/industrial-park-1/706e4863514248ae96070505.webp",
+      "width": 1600,
+      "height": 688,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Industrial Park-1.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

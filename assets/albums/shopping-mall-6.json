@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "shopping-mall-6",
+  "images": [
+    {
+      "src": "assets/projects/Shopping-mall-6.jpg",
+      "caption": {
+        "zh": "郑州国际酒店用品博览中心项目",
+        "en": "Zhengzhou International Hotel Supplies Expo Center Project"
+      }
+    },
+    {
+      "src": "assets/images/shopping-mall-6/64e691b74017243b25859984.webp",
+      "width": 1600,
+      "height": 800,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Shopping mall-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-6/f73d81635b7313e7268d7a77.webp",
+      "width": 1600,
+      "height": 800,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Shopping mall-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-6/dcc7a417b1c1c657e9799864.webp",
+      "width": 1600,
+      "height": 1000,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Shopping mall-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-6/f0d0840562313af1e4750e71.webp",
+      "width": 1600,
+      "height": 1000,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Shopping mall-6.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

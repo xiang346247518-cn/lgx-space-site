@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "projectId": "shopping-mall-2",
+  "images": [
+    {
+      "src": "assets/projects/Shopping-mall-2.jpg",
+      "caption": {
+        "zh": "荆门万达广场",
+        "en": "Jingmen Wanda Plaza"
+      }
+    },
+    {
+      "src": "assets/images/shopping-mall-2/9406c771c2e5a38a077ff320.webp",
+      "width": 1600,
+      "height": 480,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Shopping mall-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-2/94fd4d9a385d221edf75f482.webp",
+      "width": 1600,
+      "height": 800,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Shopping mall-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-2/863111a754c9c7433a09cf95.webp",
+      "width": 1600,
+      "height": 1056,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Shopping mall-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-2/8f1d5c75d1c75acd81e9e049.webp",
+      "width": 1600,
+      "height": 1095,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Shopping mall-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-2/75e5570b126d6d30f6397cf5.webp",
+      "width": 1600,
+      "height": 952,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Shopping mall-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-2/dea099a2541e768673bc0ec7.webp",
+      "width": 1600,
+      "height": 1036,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Shopping mall-2.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

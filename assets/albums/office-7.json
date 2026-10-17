@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "office-7",
+  "images": [
+    {
+      "src": "assets/projects/Office-7.jpg",
+      "caption": {
+        "zh": "武汉奥山余家头概念设计",
+        "en": "Concept Design of Wuhan Aoshan Yujiatou"
+      }
+    },
+    {
+      "src": "assets/images/office-7/c41f2874dbf9af9b50fac013.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Office-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-7/88f7ddf31b94b9123a0931cd.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Office-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-7/b8ec942ad7af6379f61c5c1b.webp",
+      "width": 1600,
+      "height": 1002,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Office-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-7/ed59cd35ea3e558409fbf994.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Office-7.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

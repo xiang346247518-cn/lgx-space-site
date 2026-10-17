@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "projectId": "master-plan-4",
+  "images": [
+    {
+      "src": "assets/projects/Master-Plan-4.jpg",
+      "caption": {
+        "zh": "昆明国际花都概念设计",
+        "en": "Kunming International Flower Metropolis"
+      }
+    },
+    {
+      "src": "assets/images/master-plan-4/e93d276014a49fed078aedce.webp",
+      "width": 1600,
+      "height": 960,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Master Plan-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-4/aa9865bed5eb2184869f52ee.webp",
+      "width": 1600,
+      "height": 692,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Master Plan-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-4/2e11db99b9ddecbf72aca957.webp",
+      "width": 1405,
+      "height": 966,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Master Plan-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-4/5347b9f8bd32da0df611dfb5.webp",
+      "width": 1600,
+      "height": 960,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Master Plan-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-4/d9952e1a60cc2ab3e88aafda.webp",
+      "width": 1600,
+      "height": 896,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Master Plan-4.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

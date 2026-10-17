@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "projectId": "master-plan-3",
+  "images": [
+    {
+      "src": "assets/projects/Master-Plan-3.jpg",
+      "caption": {
+        "zh": "重庆璧山爱琴海TOD项目",
+        "en": "Chongqing Bishan Aegean Sea TOD Project"
+      }
+    },
+    {
+      "src": "assets/images/master-plan-3/dc0faf36ebfac95c8467792b.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Master Plan-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-3/627d6ea256b962b27900871b.webp",
+      "width": 1600,
+      "height": 1271,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Master Plan-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-3/8249000eab95e3466746c1b2.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Master Plan-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-3/2ecb31b6663999ebb4be7a89.webp",
+      "width": 1515,
+      "height": 516,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Master Plan-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-3/8a48bcf4a32bcf4548f80fe9.webp",
+      "width": 1600,
+      "height": 640,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Master Plan-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-3/13e93a0355996a417d267a23.webp",
+      "width": 1600,
+      "height": 893,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Master Plan-3.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

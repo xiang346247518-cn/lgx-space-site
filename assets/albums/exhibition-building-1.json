@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "exhibition-building-1",
+  "images": [
+    {
+      "src": "assets/projects/Exhibition-Building-1.jpg",
+      "caption": {
+        "zh": "常州比亚迪全品牌旗舰店",
+        "en": "Changzhou BYD Full-Brand Flagship Store"
+      }
+    },
+    {
+      "src": "assets/images/exhibition-building-1/5012757d42c99b13dd2e38ba.webp",
+      "width": 1600,
+      "height": 1015,
+      "caption": {
+        "zh": "常州比亚迪全品牌旗舰店 · 项目影像 02",
+        "en": "Changzhou BYD Full-Brand Flagship Store · Project image 02"
+      },
+      "sourceFile": "Exhibition Building-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-1/6bbe0b09f479462186e3b2db.webp",
+      "width": 1600,
+      "height": 1015,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Exhibition Building-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-1/6610152c8c51e9cdb9d0395d.webp",
+      "width": 1600,
+      "height": 1026,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Exhibition Building-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-1/1176bb7b85b7e1dd0217d112.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Exhibition Building-1.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

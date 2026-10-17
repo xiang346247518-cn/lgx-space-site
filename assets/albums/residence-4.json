@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "projectId": "residence-4",
+  "images": [
+    {
+      "src": "assets/projects/Residence-4.jpg",
+      "caption": {
+        "zh": "重庆彭水县别墅设计",
+        "en": "Chongqing Pengshui Villa Design"
+      }
+    },
+    {
+      "src": "assets/images/residence-4/5629aedfb3f389e7d8aa2ca1.webp",
+      "width": 1600,
+      "height": 1067,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Residence-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-4/c7094e95b9d599b4536939b2.webp",
+      "width": 1280,
+      "height": 852,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Residence-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-4/377d952935d35b2e288688a4.webp",
+      "width": 1280,
+      "height": 853,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Residence-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-4/3c4826da922b3a4d76c1bda8.webp",
+      "width": 1210,
+      "height": 970,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Residence-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-4/ac4ea220525d698d93739ce7.webp",
+      "width": 1280,
+      "height": 852,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Residence-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-4/f0184fb207be7f0dcfc9c04e.webp",
+      "width": 1280,
+      "height": 852,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Residence-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-4/e7751610a2d78595cd6cd8ef.webp",
+      "width": 1600,
+      "height": 1131,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "Residence-4.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

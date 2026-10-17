@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "projectId": "exhibition-building-3",
+  "images": [
+    {
+      "src": "assets/projects/Exhibition-Building-3.jpg",
+      "caption": {
+        "zh": "新加坡滨海湾花园 Eco Leaves 展馆",
+        "en": "Eco Leaves · Gardens by the Bay"
+      }
+    },
+    {
+      "src": "assets/images/exhibition-building-3/68fa56da63a703858bf91a2c.webp",
+      "width": 1600,
+      "height": 1076,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Exhibition Building-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-3/9f9627fe79843eb53e277d06.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Exhibition Building-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-3/4b56a1ab544ec61e881b9d53.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Exhibition Building-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-3/a72e0a409364672d52c0ebf0.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Exhibition Building-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-3/dda1a613616f154194267518.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Exhibition Building-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-3/072ba91322f7c627874d7e76.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Exhibition Building-3.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

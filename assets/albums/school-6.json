@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "projectId": "school-6",
+  "images": [
+    {
+      "src": "assets/projects/School-6.jpg",
+      "caption": {
+        "zh": "重庆长寿幼儿园",
+        "en": "Changshou Kindergarten in Chongqing"
+      }
+    },
+    {
+      "src": "assets/images/school-6/88172d3fc3f206e6fd034bdd.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/de0405e332f6eec80a682890.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/6748f6dbaed1d2b83609a2ff.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/72f8708c85e1da65f84df611.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/681403623d6971694727b2a0.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/ce9749b258fada65f576b0df.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/7079b9b9c8bb57c053dd91ef.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/f1a56569b63c604bf978fcb6.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 09",
+        "en": "Project image 09"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/d819438bc5972efa91c39a8a.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 10",
+        "en": "Project image 10"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/8c82df65a6067f17b02e8b6c.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 11",
+        "en": "Project image 11"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/f0994bb79f047f9d62acf78b.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 12",
+        "en": "Project image 12"
+      },
+      "sourceFile": "School-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/e2bd91aa6e4bdac477ab362f.webp",
+      "width": 1600,
+      "height": 960,
+      "caption": {
+        "zh": "项目影像 13",
+        "en": "Project image 13"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/b6b7773122fb70d46e76e764.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 14",
+        "en": "Project image 14"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/6dbffdb7be0ce593a8622e22.webp",
+      "width": 1600,
+      "height": 1200,
+      "caption": {
+        "zh": "项目影像 15",
+        "en": "Project image 15"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/fe660504c8843ab5f0370932.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 16",
+        "en": "Project image 16"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/2c0d23816be913fea2ca4dfa.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 17",
+        "en": "Project image 17"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/60d0fef872c4ffde31cff7e7.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 18",
+        "en": "Project image 18"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/95c34cd344453b59354ed91c.webp",
+      "width": 1600,
+      "height": 800,
+      "caption": {
+        "zh": "项目影像 19",
+        "en": "Project image 19"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/30d9dd5cdeed7d2d55567569.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 20",
+        "en": "Project image 20"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/bfaae63d1f516c464bfa919d.webp",
+      "width": 1600,
+      "height": 960,
+      "caption": {
+        "zh": "项目影像 21",
+        "en": "Project image 21"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/bbea31d38cabfd9a208823fc.webp",
+      "width": 1600,
+      "height": 960,
+      "caption": {
+        "zh": "项目影像 22",
+        "en": "Project image 22"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/4bc34895195af80e62469288.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 23",
+        "en": "Project image 23"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-6/a5283b7d2e9814a72045d591.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 24",
+        "en": "Project image 24"
+      },
+      "sourceFile": "School-7.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

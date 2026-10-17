@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "projectId": "shopping-mall-8",
+  "images": [
+    {
+      "src": "assets/projects/Shopping-mall-8.jpg",
+      "caption": {
+        "zh": "重庆武隆新欧鹏教育城",
+        "en": "Chongqing Wulong Xinoupeng Education City"
+      }
+    },
+    {
+      "src": "assets/images/shopping-mall-8/ebb9f2e76713d4d38fcbe935.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Shopping mall-8.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-8/e51b8af5b4c9a57dee84d6ad.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Shopping mall-8.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-8/53358b8c5c6b32210b077c43.webp",
+      "width": 1600,
+      "height": 863,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Shopping mall-8.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-8/5fd4a6c6d1dc8be3a98f00a7.webp",
+      "width": 1600,
+      "height": 865,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Shopping mall-8.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/shopping-mall-8/a4283a61f587c8684277e774.webp",
+      "width": 1600,
+      "height": 891,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Shopping mall-8.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

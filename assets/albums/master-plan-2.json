@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "projectId": "master-plan-2",
+  "images": [
+    {
+      "src": "assets/projects/Master-Plan-2.jpg",
+      "caption": {
+        "zh": "保利合肥老火车站地块概念规划",
+        "en": "Poly Real Estate's Conceptual Planning for Hefei Old Railway Station Plot"
+      }
+    },
+    {
+      "src": "assets/images/master-plan-2/482af93be630c25fb4bfd734.webp",
+      "width": 1280,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Master Plan-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-2/7f07b7c7a0de91d64643359e.webp",
+      "width": 1600,
+      "height": 900,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Master Plan-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-2/c176bb9f27bd7fb40416b09e.webp",
+      "width": 1600,
+      "height": 832,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Master Plan-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-2/6b8416d352907e597b6531bf.webp",
+      "width": 1600,
+      "height": 907,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Master Plan-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/master-plan-2/6d968ed086db8afea2c8b683.webp",
+      "width": 1600,
+      "height": 800,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Master Plan-2.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

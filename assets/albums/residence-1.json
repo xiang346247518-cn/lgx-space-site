@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "projectId": "residence-1",
+  "images": [
+    {
+      "src": "assets/projects/Residence-1.jpg",
+      "caption": {
+        "zh": "上海保利云上住宅项目",
+        "en": "Shanghai Poly Cloud Residence Project"
+      }
+    },
+    {
+      "src": "assets/images/residence-1/5deb6888654d47c0f1c26607.webp",
+      "width": 1080,
+      "height": 607,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Residence-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-1/643a2dc33e14290c0714ed8f.webp",
+      "width": 1600,
+      "height": 822,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Residence-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-1/25fcf2c5ff42fe530305470a.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Residence-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-1/3070a581bc2a383c98d0354f.webp",
+      "width": 1080,
+      "height": 607,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Residence-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-1/8a3c531fb6da6e5fa090885b.webp",
+      "width": 1080,
+      "height": 607,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Residence-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-1/26a9c8bcb585ecfd11f050fe.webp",
+      "width": 1600,
+      "height": 800,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "Residence-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-1/ad400ad5ac244712f43d5f10.webp",
+      "width": 232,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "Residence-1.jpg",
+      "sourcePage": 0
+    }
+  ]
+}

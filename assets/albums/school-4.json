@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "projectId": "school-4",
+  "images": [
+    {
+      "src": "assets/projects/School-4.jpg",
+      "caption": {
+        "zh": "郑州伊河路小学",
+        "en": "Zhengzhou Yihe Road Primary School"
+      }
+    },
+    {
+      "src": "assets/images/school-4/9469d91eca1b2fc6bf7d8836.webp",
+      "width": 1600,
+      "height": 1066,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-4/bbe5f05d884eb607e6c67f42.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-4/41021dd1ea2005f63f473134.webp",
+      "width": 1600,
+      "height": 1065,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-4/34bafe727a0d7eb1762909fc.webp",
+      "width": 1600,
+      "height": 927,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-4/379bc3f25ac99089ccba3d36.webp",
+      "width": 1600,
+      "height": 1067,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-4/0af730cc4be889c352662cba.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-4/702e6806948feac50ce2e056.webp",
+      "width": 1600,
+      "height": 1065,
+      "caption": {
+        "zh": "项目影像 08",
+        "en": "Project image 08"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-4/de5bad13fe1bdb118849b0b1.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 09",
+        "en": "Project image 09"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-4/b2b72281654061f7ab0b88a9.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 10",
+        "en": "Project image 10"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/school-4/d7f5e5f90337e6da8d5cdebb.webp",
+      "width": 1600,
+      "height": 1132,
+      "caption": {
+        "zh": "项目影像 11",
+        "en": "Project image 11"
+      },
+      "sourceFile": "School-4.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "projectId": "industrial-park-2",
+  "images": [
+    {
+      "src": "assets/projects/Industrial-Park-2.jpg",
+      "caption": {
+        "zh": "盟固利动力电池制造项目",
+        "en": "Mengguli Power Battery Manufacturing Project"
+      }
+    },
+    {
+      "src": "assets/images/industrial-park-2/7156ab4e2c1e428c393a4e87.webp",
+      "width": 1520,
+      "height": 959,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Industrial Park-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/industrial-park-2/de1e2f531b28a0265513a0c3.webp",
+      "width": 1518,
+      "height": 1069,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Industrial Park-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/industrial-park-2/4f014e05acf25d96e3b307f2.webp",
+      "width": 1518,
+      "height": 1065,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Industrial Park-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/industrial-park-2/47acb201d1146ae3343b6001.webp",
+      "width": 1600,
+      "height": 800,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Industrial Park-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/industrial-park-2/220784265042bc154c4538ef.webp",
+      "width": 1519,
+      "height": 1070,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Industrial Park-2.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

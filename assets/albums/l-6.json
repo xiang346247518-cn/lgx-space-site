@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "l-6",
+  "images": [
+    {
+      "src": "assets/projects/L-6.jpg",
+      "caption": {
+        "zh": "郑州豫发锦荣商贸城立面改造",
+        "en": "Facade Renovation of Zhengzhou Yufa Jinrong Trade City"
+      }
+    },
+    {
+      "src": "assets/images/l-6/b15e66addbea80d3ab7f7c60.webp",
+      "width": 1472,
+      "height": 924,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "L-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/l-6/a4a3243e999d894a2739c5e2.webp",
+      "width": 1600,
+      "height": 888,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "L-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/l-6/50be45aba0a46db81b36e78a.webp",
+      "width": 1600,
+      "height": 889,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "L-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/l-6/a5ac6704cee612084289ca14.webp",
+      "width": 1600,
+      "height": 879,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "L-6.pdf",
+      "sourcePage": 1
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "projectId": "office-6",
+  "images": [
+    {
+      "src": "assets/projects/Office-6.jpg",
+      "caption": {
+        "zh": "北京绿地中心ABC座",
+        "en": "Blocks A/B/C of Beijing Greenland Center"
+      }
+    },
+    {
+      "src": "assets/images/office-6/3482fedbaff58e59c9ffafbf.webp",
+      "width": 1130,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
+      },
+      "sourceFile": "Office-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-6/f81735c550af342f0ffaf5f5.webp",
+      "width": 1600,
+      "height": 1136,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Office-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-6/9472f0316b548fd57c35b751.webp",
+      "width": 1600,
+      "height": 892,
+      "caption": {
+        "zh": "项目影像 04",
+        "en": "Project image 04"
+      },
+      "sourceFile": "Office-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-6/76af04779dc48553a2abcd6a.webp",
+      "width": 1600,
+      "height": 1130,
+      "caption": {
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Office-6.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/office-6/1863bc49a9d83b5a122c87a4.webp",
+      "width": 1130,
+      "height": 1600,
+      "caption": {
+        "zh": "项目影像 06",
+        "en": "Project image 06"
+      },
+      "sourceFile": "Office-6.pdf",
+      "sourcePage": 1
+    }
+  ]
+}
