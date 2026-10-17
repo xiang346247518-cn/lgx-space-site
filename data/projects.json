@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T03:18:37Z",
+  "updatedAt": "2026-10-17T03:59:51Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -238,6 +238,44 @@
       "order": 5,
       "published": true,
       "revision": "20261017",
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
+    },
+    {
+      "id": "residence-1",
+      "name": "上海保利云上住宅项目",
+      "englishName": "Shanghai Poly Cloud Residence Project",
+      "year": null,
+      "date": "",
+      "location": "Shanghai",
+      "category": "居住与酒店",
+      "role": "Lead Architect",
+      "originalDescription": "A 100,000-square-meter residential development under Poly Group, located in the core area of Jiangqiao Town, Jiading District, Shanghai, is positioned as a high-end residential building. It has been completed and put up for sale.",
+      "keywords": [
+        "居住与酒店",
+        "上海"
+      ],
+      "image": "assets/projects/Residence-1.jpg",
+      "sourceFile": "Residence-1.pdf",
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "上海保利云上住宅项目",
+          "location": "上海",
+          "description": "项目位于上海市嘉定区江桥镇核心地带，由保利集团开发，建筑面积约 100,000 平方米，定位为高端住宅。原始资料记载：项目已完成并投入销售。"
+        },
+        "en": {
+          "location": "Shanghai",
+          "description": "A 100,000-square-meter residential development under Poly Group, located in the core area of Jiangqiao Town, Jiading District, Shanghai, is positioned as a high-end residential building. It has been completed and put up for sale."
+        }
+      },
+      "imageCount": 8,
+      "galleryBundle": "data/gallery/residence-1.json",
+      "album": "assets/albums/residence-1.json",
+      "featured": false,
+      "order": 8,
+      "published": true,
+      "revision": "1792209589377224400",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
     },
@@ -1148,43 +1186,6 @@
       "revision": "20261017",
       "categoryId": "planning",
       "majorCategory": "public"
-    },
-    {
-      "id": "residence-1",
-      "name": "上海保利云上住宅项目",
-      "englishName": "Shanghai Poly Cloud Residence Project",
-      "year": "",
-      "date": "",
-      "location": "上海",
-      "category": "居住与酒店",
-      "role": "Lead Architect",
-      "originalDescription": "A 100,000-square-meter residential development under Poly Group, located in the core area of Jiangqiao Town, Jiading District, Shanghai, is positioned as a high-end residential building. It has been completed and put up for sale.",
-      "keywords": [
-        "居住与酒店",
-        "上海"
-      ],
-      "image": "assets/projects/Residence-1.jpg",
-      "sourceFile": "Residence-1.pdf",
-      "linkedinUrl": "",
-      "translations": {
-        "zh": {
-          "name": "上海保利云上住宅项目",
-          "location": "上海",
-          "description": "项目位于上海市嘉定区江桥镇核心地带，由保利集团开发，建筑面积约 100,000 平方米，定位为高端住宅。原始资料记载：项目已完成并投入销售。"
-        },
-        "en": {
-          "location": "Shanghai"
-        }
-      },
-      "imageCount": 8,
-      "galleryBundle": "data/gallery/residence-1.json",
-      "album": "assets/albums/residence-1.json",
-      "featured": false,
-      "order": 35,
-      "published": true,
-      "revision": "20261017",
-      "categoryId": "living-hospitality",
-      "majorCategory": "living"
     },
     {
       "id": "hotel-apartment-1",
