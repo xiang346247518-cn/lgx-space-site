@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:47:11Z",
+  "updatedAt": "2026-10-17T10:39:25Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -48,9 +48,9 @@
       "id": "office-1",
       "name": "虹桥世界中心",
       "englishName": "LM Hongqiao World Center",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "上海",
+      "location": "Shanghai",
       "category": "办公建筑",
       "role": "Core Lead Architect Team Members",
       "originalDescription": "Hongqiao World Centre lies in the Hongqiao Business District that is the pivot of Shanghai, In response to the clover leaf concept of NECC, the buildings are organized coherently to direct circulations, presenting an analogy of sunflower. The center of flower is aligned with its counterpart of NECC, attaining the most identifiable building clusters.",
@@ -68,16 +68,17 @@
           "description": "虹桥世界中心位于上海枢纽地带的虹桥商务区。设计回应国家会展中心（NECC）的四叶草理念，以连贯的建筑组织引导流线，形成向日葵般的布局。花心与国家会展中心的中心相对应，形成具有高度辨识度的建筑群。"
         },
         "en": {
-          "location": "Shanghai"
+          "location": "Shanghai",
+          "description": "Hongqiao World Centre lies in the Hongqiao Business District that is the pivot of Shanghai, In response to the clover leaf concept of NECC, the buildings are organized coherently to direct circulations, presenting an analogy of sunflower. The center of flower is aligned with its counterpart of NECC, attaining the most identifiable building clusters."
         }
       },
-      "imageCount": 9,
+      "imageCount": 8,
       "galleryBundle": "data/gallery/office-1.json",
       "album": "assets/albums/office-1.json",
       "featured": true,
       "order": 1,
       "published": true,
-      "revision": "20261017",
+      "revision": "1792233562473103300",
       "categoryId": "office",
       "majorCategory": "public"
     },
