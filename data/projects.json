@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:48:28Z",
+  "updatedAt": "2026-10-17T06:50:27Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -160,86 +160,41 @@
       "majorCategory": "public"
     },
     {
-      "id": "residence-2",
-      "name": "YiShun HDB project in Singapore",
-      "englishName": "Yishun HDB",
-      "year": "2024",
-      "date": "2024年5月 – 2024年8月",
-      "location": "Yishun, Singapore",
+      "id": "hotel-apartment-1",
+      "name": "绍兴苏宁希尔顿酒店",
+      "englishName": "Shaoxing Suning Hilton Hotel",
+      "year": "",
+      "date": "",
+      "location": "绍兴",
       "category": "居住与酒店",
-      "role": "BIM Consulting Services",
-      "originalDescription": "The project is located in the Yishun area of Singapore, with a total construction area of approximately 90,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase.",
+      "role": "Core Lead Architect Team Members",
+      "originalDescription": "A 38,000-square-meter hotel under Hilton Group, located in Shaoxing, Zhejiang Province, is positioned as a landmark building integrating high-end hotel services, business conferences and office functions. The project has been completed.",
       "keywords": [
         "居住与酒店",
-        "新加坡",
-        "BIM Consulting Services",
-        "BIM Modelling",
-        "建筑制图",
-        "PreDC"
+        "绍兴"
       ],
-      "image": "assets/projects/Residence-2.jpg",
-      "sourceFile": "Residence-2.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/yishun-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-xbvbe/",
+      "image": "assets/projects/Hotel-Apartment-1.jpg",
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "linkedinUrl": "",
       "translations": {
         "zh": {
-          "name": "新加坡 Yishun HDB 住宅项目",
-          "location": "新加坡 · Yishun",
-          "description": "项目位于新加坡 Yishun 地区，总建筑面积约 90,000 平方米，整合公共住房、多层停车楼与配套服务。原始资料记载：项目处于设计阶段。"
+          "name": "绍兴苏宁希尔顿酒店",
+          "location": "绍兴",
+          "description": "项目位于浙江省绍兴市，是希尔顿集团旗下建筑面积约 38,000 平方米的酒店，定位为整合高端酒店服务、商务会议与办公功能的地标建筑。原始资料记载：项目已经完成。"
         },
         "en": {
-          "location": "Yishun, Singapore"
+          "location": "Shaoxing"
         }
       },
-      "imageCount": 7,
-      "galleryBundle": "data/gallery/residence-2.json",
-      "album": "assets/albums/residence-2.json",
+      "imageCount": 8,
+      "galleryBundle": "data/gallery/hotel-apartment-1.json",
+      "album": "assets/albums/hotel-apartment-1.json",
       "featured": false,
       "order": 4,
       "published": true,
       "revision": "20261017",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
-    },
-    {
-      "id": "school-1",
-      "name": "重庆彭水县实验小学项目",
-      "englishName": "Chongqing Pengshui County Experimental Primary School Project",
-      "year": "2023–present",
-      "date": "2023年6月 – 现在",
-      "location": "Pengshui County, Chongqing, China",
-      "category": "教育建筑",
-      "role": "Lead Architect",
-      "originalDescription": "This project is located in Pengshui County, Chongqing. It is developed and approved by the Education Commission of Pengshui County, with a total construction area of approximately 60,000 square meters. It is a primary school architectural design integrating various functions such as classrooms, offices, canteens, sports centers, swimming pools, and parking lots. The site has been leveled and is currently under construction.",
-      "keywords": [
-        "教育建筑",
-        "重庆",
-        "Architectural Scheme Design",
-        "Lead Architect",
-        "Primary School",
-        "Education Campus"
-      ],
-      "image": "assets/projects/School-1.jpg",
-      "sourceFile": "School-1.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8E%BF%E5%AE%9E%E9%AA%8C%E5%B0%8F%E5%AD%A6%E9%A1%B9%E7%9B%AE-chongqing-pengshui-county-experimental-primary-%E5%9B%BD%E7%A5%A5-%E5%90%95-4uexe/",
-      "translations": {
-        "zh": {
-          "name": "重庆彭水县实验小学项目",
-          "location": "中国 · 重庆市彭水县",
-          "description": "项目位于中国重庆市彭水县，由彭水县教育委员会开发并审批，总建筑面积约 60,000 平方米。小学建筑设计集教室、办公、食堂、体育中心、游泳池及停车场等功能于一体。原始资料记载：场地已平整，项目正在建设中。"
-        },
-        "en": {
-          "location": "Pengshui County, Chongqing, China"
-        }
-      },
-      "imageCount": 14,
-      "galleryBundle": "data/gallery/school-1.json",
-      "album": "assets/albums/school-1.json",
-      "featured": true,
-      "order": 5,
-      "published": true,
-      "revision": "20261017",
-      "categoryId": "education",
-      "majorCategory": "public"
     },
     {
       "id": "exhibition-building-3",
@@ -276,7 +231,7 @@
       "galleryBundle": "data/gallery/exhibition-building-3.json",
       "album": "assets/albums/exhibition-building-3.json",
       "featured": true,
-      "order": 6,
+      "order": 5,
       "published": true,
       "revision": "20261017",
       "categoryId": "exhibition",
@@ -314,7 +269,7 @@
       "galleryBundle": "data/gallery/residence-1.json",
       "album": "assets/albums/residence-1.json",
       "featured": false,
-      "order": 7,
+      "order": 6,
       "published": true,
       "revision": "1792209589377224400",
       "categoryId": "living-hospitality",
@@ -355,44 +310,48 @@
       "galleryBundle": "data/gallery/industrial-park-1.json",
       "album": "assets/albums/industrial-park-1.json",
       "featured": true,
-      "order": 8,
+      "order": 7,
       "published": true,
       "revision": "20261017",
       "categoryId": "industrial",
       "majorCategory": "public"
     },
     {
-      "id": "hotel-apartment-1",
-      "name": "绍兴苏宁希尔顿酒店",
-      "englishName": "Shaoxing Suning Hilton Hotel",
-      "year": "",
-      "date": "",
-      "location": "绍兴",
+      "id": "residence-2",
+      "name": "YiShun HDB project in Singapore",
+      "englishName": "Yishun HDB",
+      "year": "2024",
+      "date": "2024年5月 – 2024年8月",
+      "location": "Yishun, Singapore",
       "category": "居住与酒店",
-      "role": "Core Lead Architect Team Members",
-      "originalDescription": "A 38,000-square-meter hotel under Hilton Group, located in Shaoxing, Zhejiang Province, is positioned as a landmark building integrating high-end hotel services, business conferences and office functions. The project has been completed.",
+      "role": "BIM Consulting Services",
+      "originalDescription": "The project is located in the Yishun area of Singapore, with a total construction area of approximately 90,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase.",
       "keywords": [
         "居住与酒店",
-        "绍兴"
+        "新加坡",
+        "BIM Consulting Services",
+        "BIM Modelling",
+        "建筑制图",
+        "PreDC"
       ],
-      "image": "assets/projects/Hotel-Apartment-1.jpg",
-      "sourceFile": "Hotel&Apartment-1.pdf",
-      "linkedinUrl": "",
+      "image": "assets/projects/Residence-2.jpg",
+      "sourceFile": "Residence-2.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/yishun-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-xbvbe/",
       "translations": {
         "zh": {
-          "name": "绍兴苏宁希尔顿酒店",
-          "location": "绍兴",
-          "description": "项目位于浙江省绍兴市，是希尔顿集团旗下建筑面积约 38,000 平方米的酒店，定位为整合高端酒店服务、商务会议与办公功能的地标建筑。原始资料记载：项目已经完成。"
+          "name": "新加坡 Yishun HDB 住宅项目",
+          "location": "新加坡 · Yishun",
+          "description": "项目位于新加坡 Yishun 地区，总建筑面积约 90,000 平方米，整合公共住房、多层停车楼与配套服务。原始资料记载：项目处于设计阶段。"
         },
         "en": {
-          "location": "Shaoxing"
+          "location": "Yishun, Singapore"
         }
       },
-      "imageCount": 8,
-      "galleryBundle": "data/gallery/hotel-apartment-1.json",
-      "album": "assets/albums/hotel-apartment-1.json",
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/residence-2.json",
+      "album": "assets/albums/residence-2.json",
       "featured": false,
-      "order": 9,
+      "order": 8,
       "published": true,
       "revision": "20261017",
       "categoryId": "living-hospitality",
@@ -429,7 +388,7 @@
       "galleryBundle": "data/gallery/shopping-mall-3.json",
       "album": "assets/albums/shopping-mall-3.json",
       "featured": false,
-      "order": 10,
+      "order": 9,
       "published": true,
       "revision": "20261017",
       "categoryId": "commercial",
@@ -466,7 +425,7 @@
       "galleryBundle": "data/gallery/shopping-mall-2.json",
       "album": "assets/albums/shopping-mall-2.json",
       "featured": false,
-      "order": 11,
+      "order": 10,
       "published": true,
       "revision": "20261017",
       "categoryId": "commercial",
@@ -503,7 +462,7 @@
       "galleryBundle": "data/gallery/master-plan-3.json",
       "album": "assets/albums/master-plan-3.json",
       "featured": false,
-      "order": 12,
+      "order": 11,
       "published": true,
       "revision": "20261017",
       "categoryId": "planning",
@@ -540,7 +499,7 @@
       "galleryBundle": "data/gallery/office-6.json",
       "album": "assets/albums/office-6.json",
       "featured": false,
-      "order": 13,
+      "order": 12,
       "published": true,
       "revision": "20261017",
       "categoryId": "office",
@@ -577,7 +536,7 @@
       "galleryBundle": "data/gallery/office-3.json",
       "album": "assets/albums/office-3.json",
       "featured": false,
-      "order": 14,
+      "order": 13,
       "published": true,
       "revision": "20261017",
       "categoryId": "office",
@@ -614,7 +573,7 @@
       "galleryBundle": "data/gallery/office-2.json",
       "album": "assets/albums/office-2.json",
       "featured": false,
-      "order": 15,
+      "order": 14,
       "published": true,
       "revision": "20261017",
       "categoryId": "office",
@@ -651,48 +610,48 @@
       "galleryBundle": "data/gallery/shopping-mall-4.json",
       "album": "assets/albums/shopping-mall-4.json",
       "featured": false,
-      "order": 16,
+      "order": 15,
       "published": true,
       "revision": "20261017",
       "categoryId": "commercial",
       "majorCategory": "public"
     },
     {
-      "id": "office-5",
-      "name": "国家技术转移郑州中心",
-      "englishName": "Zhengzhou National Technology Transfer Center",
+      "id": "hotel-apartment-2",
+      "name": "西安莱安领域项目",
+      "englishName": "Xi'an Lai'an Lingyu Project",
       "year": "",
       "date": "",
-      "location": "郑州",
-      "category": "办公建筑",
+      "location": "西安",
+      "category": "居住与酒店",
       "role": "Lead Architect",
-      "originalDescription": "The total construction area of the project is approximately 200,000 square meters. It is a comprehensive building integrating multiple functions such as office, conference, exhibition and leisure",
+      "originalDescription": "A 90,000-square-meter comprehensive commercial apartment project developed by Lai'an Group, located in Chang'an District, Xi'an. It is a comprehensive commercial building integrating apartments and commerce. The project is under phased construction, with the first phase completed.",
       "keywords": [
-        "办公建筑",
-        "郑州"
+        "居住与酒店",
+        "西安"
       ],
-      "image": "assets/projects/Office-5.jpg",
-      "sourceFile": "Office-5.pdf",
+      "image": "assets/projects/Hotel-Apartment-2.jpg",
+      "sourceFile": "Hotel&Apartment-2.pdf",
       "linkedinUrl": "",
       "translations": {
         "zh": {
-          "name": "国家技术转移郑州中心",
-          "location": "郑州",
-          "description": "项目总建筑面积约 200,000 平方米，是集办公、会议、展览与休闲等多种功能于一体的综合建筑。"
+          "name": "西安莱安领域项目",
+          "location": "西安",
+          "description": "项目位于西安市长安区，由莱安集团开发，建筑面积约 90,000 平方米，是集公寓与商业于一体的综合商业建筑。原始资料记载：项目分期建设，一期已经完成。"
         },
         "en": {
-          "location": "Zhengzhou"
+          "location": "Xi’an"
         }
       },
-      "imageCount": 5,
-      "galleryBundle": "data/gallery/office-5.json",
-      "album": "assets/albums/office-5.json",
+      "imageCount": 3,
+      "galleryBundle": "data/gallery/hotel-apartment-2.json",
+      "album": "assets/albums/hotel-apartment-2.json",
       "featured": false,
-      "order": 17,
+      "order": 16,
       "published": true,
       "revision": "20261017",
-      "categoryId": "office",
-      "majorCategory": "public"
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
     },
     {
       "id": "office-7",
@@ -725,7 +684,7 @@
       "galleryBundle": "data/gallery/office-7.json",
       "album": "assets/albums/office-7.json",
       "featured": false,
-      "order": 18,
+      "order": 17,
       "published": true,
       "revision": "20261017",
       "categoryId": "office",
@@ -762,7 +721,7 @@
       "galleryBundle": "data/gallery/shopping-mall-1.json",
       "album": "assets/albums/shopping-mall-1.json",
       "featured": false,
-      "order": 19,
+      "order": 18,
       "published": true,
       "revision": "20261017",
       "categoryId": "commercial",
@@ -799,7 +758,7 @@
       "galleryBundle": "data/gallery/shopping-mall-5.json",
       "album": "assets/albums/shopping-mall-5.json",
       "featured": false,
-      "order": 20,
+      "order": 19,
       "published": true,
       "revision": "20261017",
       "categoryId": "commercial",
@@ -836,7 +795,7 @@
       "galleryBundle": "data/gallery/shopping-mall-6.json",
       "album": "assets/albums/shopping-mall-6.json",
       "featured": false,
-      "order": 21,
+      "order": 20,
       "published": true,
       "revision": "20261017",
       "categoryId": "commercial",
@@ -873,7 +832,7 @@
       "galleryBundle": "data/gallery/l-6.json",
       "album": "assets/albums/l-6.json",
       "featured": false,
-      "order": 22,
+      "order": 21,
       "published": true,
       "revision": "20261017",
       "categoryId": "commercial",
@@ -914,7 +873,7 @@
       "galleryBundle": "data/gallery/shopping-mall-8.json",
       "album": "assets/albums/shopping-mall-8.json",
       "featured": false,
-      "order": 23,
+      "order": 22,
       "published": true,
       "revision": "20261017",
       "categoryId": "commercial",
@@ -951,7 +910,7 @@
       "galleryBundle": "data/gallery/master-plan-2.json",
       "album": "assets/albums/master-plan-2.json",
       "featured": false,
-      "order": 24,
+      "order": 23,
       "published": true,
       "revision": "20261017",
       "categoryId": "planning",
@@ -988,7 +947,7 @@
       "galleryBundle": "data/gallery/master-plan-4.json",
       "album": "assets/albums/master-plan-4.json",
       "featured": false,
-      "order": 25,
+      "order": 24,
       "published": true,
       "revision": "20261017",
       "categoryId": "planning",
@@ -1029,10 +988,47 @@
       "galleryBundle": "data/gallery/industrial-park-2.json",
       "album": "assets/albums/industrial-park-2.json",
       "featured": false,
-      "order": 26,
+      "order": 25,
       "published": true,
       "revision": "20261017",
       "categoryId": "industrial",
+      "majorCategory": "public"
+    },
+    {
+      "id": "office-5",
+      "name": "国家技术转移郑州中心",
+      "englishName": "Zhengzhou National Technology Transfer Center",
+      "year": "",
+      "date": "",
+      "location": "郑州",
+      "category": "办公建筑",
+      "role": "Lead Architect",
+      "originalDescription": "The total construction area of the project is approximately 200,000 square meters. It is a comprehensive building integrating multiple functions such as office, conference, exhibition and leisure",
+      "keywords": [
+        "办公建筑",
+        "郑州"
+      ],
+      "image": "assets/projects/Office-5.jpg",
+      "sourceFile": "Office-5.pdf",
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "国家技术转移郑州中心",
+          "location": "郑州",
+          "description": "项目总建筑面积约 200,000 平方米，是集办公、会议、展览与休闲等多种功能于一体的综合建筑。"
+        },
+        "en": {
+          "location": "Zhengzhou"
+        }
+      },
+      "imageCount": 5,
+      "galleryBundle": "data/gallery/office-5.json",
+      "album": "assets/albums/office-5.json",
+      "featured": false,
+      "order": 26,
+      "published": true,
+      "revision": "20261017",
+      "categoryId": "office",
       "majorCategory": "public"
     },
     {
@@ -1188,43 +1184,6 @@
       "majorCategory": "public"
     },
     {
-      "id": "hotel-apartment-2",
-      "name": "西安莱安领域项目",
-      "englishName": "Xi'an Lai'an Lingyu Project",
-      "year": "",
-      "date": "",
-      "location": "西安",
-      "category": "居住与酒店",
-      "role": "Lead Architect",
-      "originalDescription": "A 90,000-square-meter comprehensive commercial apartment project developed by Lai'an Group, located in Chang'an District, Xi'an. It is a comprehensive commercial building integrating apartments and commerce. The project is under phased construction, with the first phase completed.",
-      "keywords": [
-        "居住与酒店",
-        "西安"
-      ],
-      "image": "assets/projects/Hotel-Apartment-2.jpg",
-      "sourceFile": "Hotel&Apartment-2.pdf",
-      "linkedinUrl": "",
-      "translations": {
-        "zh": {
-          "name": "西安莱安领域项目",
-          "location": "西安",
-          "description": "项目位于西安市长安区，由莱安集团开发，建筑面积约 90,000 平方米，是集公寓与商业于一体的综合商业建筑。原始资料记载：项目分期建设，一期已经完成。"
-        },
-        "en": {
-          "location": "Xi’an"
-        }
-      },
-      "imageCount": 3,
-      "galleryBundle": "data/gallery/hotel-apartment-2.json",
-      "album": "assets/albums/hotel-apartment-2.json",
-      "featured": false,
-      "order": 31,
-      "published": true,
-      "revision": "20261017",
-      "categoryId": "living-hospitality",
-      "majorCategory": "living"
-    },
-    {
       "id": "exhibition-building-2",
       "name": "合肥比亚迪全品牌旗舰店概念设计",
       "englishName": "Hefei BYD Full-Brand Flagship Store",
@@ -1259,7 +1218,7 @@
       "galleryBundle": "data/gallery/exhibition-building-2.json",
       "album": "assets/albums/exhibition-building-2.json",
       "featured": false,
-      "order": 32,
+      "order": 31,
       "published": true,
       "revision": "20261017",
       "categoryId": "exhibition",
@@ -1296,7 +1255,7 @@
       "galleryBundle": "data/gallery/office-8.json",
       "album": "assets/albums/office-8.json",
       "featured": true,
-      "order": 33,
+      "order": 32,
       "published": true,
       "revision": "20261017",
       "categoryId": "office",
@@ -1333,6 +1292,47 @@
       "galleryBundle": "data/gallery/school-2.json",
       "album": "assets/albums/school-2.json",
       "featured": false,
+      "order": 33,
+      "published": true,
+      "revision": "20261017",
+      "categoryId": "education",
+      "majorCategory": "public"
+    },
+    {
+      "id": "school-1",
+      "name": "重庆彭水县实验小学项目",
+      "englishName": "Chongqing Pengshui County Experimental Primary School Project",
+      "year": "2023–present",
+      "date": "2023年6月 – 现在",
+      "location": "Pengshui County, Chongqing, China",
+      "category": "教育建筑",
+      "role": "Lead Architect",
+      "originalDescription": "This project is located in Pengshui County, Chongqing. It is developed and approved by the Education Commission of Pengshui County, with a total construction area of approximately 60,000 square meters. It is a primary school architectural design integrating various functions such as classrooms, offices, canteens, sports centers, swimming pools, and parking lots. The site has been leveled and is currently under construction.",
+      "keywords": [
+        "教育建筑",
+        "重庆",
+        "Architectural Scheme Design",
+        "Lead Architect",
+        "Primary School",
+        "Education Campus"
+      ],
+      "image": "assets/projects/School-1.jpg",
+      "sourceFile": "School-1.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8E%BF%E5%AE%9E%E9%AA%8C%E5%B0%8F%E5%AD%A6%E9%A1%B9%E7%9B%AE-chongqing-pengshui-county-experimental-primary-%E5%9B%BD%E7%A5%A5-%E5%90%95-4uexe/",
+      "translations": {
+        "zh": {
+          "name": "重庆彭水县实验小学项目",
+          "location": "中国 · 重庆市彭水县",
+          "description": "项目位于中国重庆市彭水县，由彭水县教育委员会开发并审批，总建筑面积约 60,000 平方米。小学建筑设计集教室、办公、食堂、体育中心、游泳池及停车场等功能于一体。原始资料记载：场地已平整，项目正在建设中。"
+        },
+        "en": {
+          "location": "Pengshui County, Chongqing, China"
+        }
+      },
+      "imageCount": 14,
+      "galleryBundle": "data/gallery/school-1.json",
+      "album": "assets/albums/school-1.json",
+      "featured": true,
       "order": 34,
       "published": true,
       "revision": "20261017",
@@ -1940,5 +1940,5 @@
     }
   },
   "schemaVersion": 2,
-  "orderRevision": "1792219704596009500"
+  "orderRevision": "1792219825236684200"
 }
