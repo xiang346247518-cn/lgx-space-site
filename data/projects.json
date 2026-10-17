@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:36:49Z",
+  "updatedAt": "2026-10-17T07:39:57Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -74,7 +74,7 @@
       "imageCount": 9,
       "galleryBundle": "data/gallery/office-1.json",
       "album": "assets/albums/office-1.json",
-      "featured": false,
+      "featured": true,
       "order": 1,
       "published": true,
       "revision": "20261017",
@@ -111,7 +111,7 @@
       "imageCount": 8,
       "galleryBundle": "data/gallery/hotel-apartment-1.json",
       "album": "assets/albums/hotel-apartment-1.json",
-      "featured": false,
+      "featured": true,
       "order": 2,
       "published": true,
       "revision": "20261017",
@@ -148,7 +148,7 @@
       "imageCount": 7,
       "galleryBundle": "data/gallery/shopping-mall-7.json",
       "album": "assets/albums/shopping-mall-7.json",
-      "featured": false,
+      "featured": true,
       "order": 3,
       "published": true,
       "revision": "20261017",
@@ -230,7 +230,7 @@
       "imageCount": 7,
       "galleryBundle": "data/gallery/residence-3.json",
       "album": "assets/albums/residence-3.json",
-      "featured": false,
+      "featured": true,
       "order": 5,
       "published": true,
       "revision": "20261017",
@@ -268,7 +268,7 @@
       "imageCount": 8,
       "galleryBundle": "data/gallery/residence-1.json",
       "album": "assets/albums/residence-1.json",
-      "featured": false,
+      "featured": true,
       "order": 6,
       "published": true,
       "revision": "1792209589377224400",
@@ -387,7 +387,7 @@
       "imageCount": 5,
       "galleryBundle": "data/gallery/shopping-mall-3.json",
       "album": "assets/albums/shopping-mall-3.json",
-      "featured": false,
+      "featured": true,
       "order": 9,
       "published": true,
       "revision": "20261017",
@@ -424,7 +424,7 @@
       "imageCount": 7,
       "galleryBundle": "data/gallery/shopping-mall-2.json",
       "album": "assets/albums/shopping-mall-2.json",
-      "featured": false,
+      "featured": true,
       "order": 10,
       "published": true,
       "revision": "20261017",
@@ -1139,7 +1139,7 @@
       "imageCount": 8,
       "galleryBundle": "data/gallery/residence-4.json",
       "album": "assets/albums/residence-4.json",
-      "featured": true,
+      "featured": false,
       "order": 29,
       "published": true,
       "revision": "20261017",
@@ -1225,40 +1225,44 @@
       "majorCategory": "public"
     },
     {
-      "id": "office-8",
-      "name": "青岛海尔公交TOD项目",
-      "englishName": "Qingdao Haier Public Transport TOD Project",
-      "year": "",
-      "date": "",
-      "location": "青岛",
-      "category": "办公建筑",
+      "id": "school-1",
+      "name": "重庆彭水县实验小学项目",
+      "englishName": "Chongqing Pengshui County Experimental Primary School Project",
+      "year": "2023–present",
+      "date": "2023年6月 – 现在",
+      "location": "Pengshui County, Chongqing, China",
+      "category": "教育建筑",
       "role": "Lead Architect",
-      "originalDescription": "The project is located on Shenyang Road, Shibei District, Qingdao. It is jointly developed by Haier Group and Qingdao Public Transport Group, with a total construction area of approximately 120,000 square meters. It features a comprehensive planning and design integrating high-end offices, business centers and boutique residences.",
+      "originalDescription": "This project is located in Pengshui County, Chongqing. It is developed and approved by the Education Commission of Pengshui County, with a total construction area of approximately 60,000 square meters. It is a primary school architectural design integrating various functions such as classrooms, offices, canteens, sports centers, swimming pools, and parking lots. The site has been leveled and is currently under construction.",
       "keywords": [
-        "办公建筑",
-        "青岛"
+        "教育建筑",
+        "重庆",
+        "Architectural Scheme Design",
+        "Lead Architect",
+        "Primary School",
+        "Education Campus"
       ],
-      "image": "assets/projects/Office-8.jpg",
-      "sourceFile": "Office-8.pdf",
-      "linkedinUrl": "",
+      "image": "assets/projects/School-1.jpg",
+      "sourceFile": "School-1.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8E%BF%E5%AE%9E%E9%AA%8C%E5%B0%8F%E5%AD%A6%E9%A1%B9%E7%9B%AE-chongqing-pengshui-county-experimental-primary-%E5%9B%BD%E7%A5%A5-%E5%90%95-4uexe/",
       "translations": {
         "zh": {
-          "name": "青岛海尔公交TOD项目",
-          "location": "青岛",
-          "description": "项目位于青岛市市北区沈阳路，由海尔集团与青岛公交集团联合开发，总建筑面积约 120,000 平方米。综合规划与设计整合了高端办公、商务中心与精品住宅。"
+          "name": "重庆彭水县实验小学项目",
+          "location": "中国 · 重庆市彭水县",
+          "description": "项目位于中国重庆市彭水县，由彭水县教育委员会开发并审批，总建筑面积约 60,000 平方米。小学建筑设计集教室、办公、食堂、体育中心、游泳池及停车场等功能于一体。原始资料记载：场地已平整，项目正在建设中。"
         },
         "en": {
-          "location": "Qingdao"
+          "location": "Pengshui County, Chongqing, China"
         }
       },
-      "imageCount": 6,
-      "galleryBundle": "data/gallery/office-8.json",
-      "album": "assets/albums/office-8.json",
-      "featured": true,
+      "imageCount": 14,
+      "galleryBundle": "data/gallery/school-1.json",
+      "album": "assets/albums/school-1.json",
+      "featured": false,
       "order": 32,
       "published": true,
       "revision": "20261017",
-      "categoryId": "office",
+      "categoryId": "education",
       "majorCategory": "public"
     },
     {
@@ -1299,44 +1303,40 @@
       "majorCategory": "public"
     },
     {
-      "id": "school-1",
-      "name": "重庆彭水县实验小学项目",
-      "englishName": "Chongqing Pengshui County Experimental Primary School Project",
-      "year": "2023–present",
-      "date": "2023年6月 – 现在",
-      "location": "Pengshui County, Chongqing, China",
-      "category": "教育建筑",
+      "id": "office-8",
+      "name": "青岛海尔公交TOD项目",
+      "englishName": "Qingdao Haier Public Transport TOD Project",
+      "year": "",
+      "date": "",
+      "location": "青岛",
+      "category": "办公建筑",
       "role": "Lead Architect",
-      "originalDescription": "This project is located in Pengshui County, Chongqing. It is developed and approved by the Education Commission of Pengshui County, with a total construction area of approximately 60,000 square meters. It is a primary school architectural design integrating various functions such as classrooms, offices, canteens, sports centers, swimming pools, and parking lots. The site has been leveled and is currently under construction.",
+      "originalDescription": "The project is located on Shenyang Road, Shibei District, Qingdao. It is jointly developed by Haier Group and Qingdao Public Transport Group, with a total construction area of approximately 120,000 square meters. It features a comprehensive planning and design integrating high-end offices, business centers and boutique residences.",
       "keywords": [
-        "教育建筑",
-        "重庆",
-        "Architectural Scheme Design",
-        "Lead Architect",
-        "Primary School",
-        "Education Campus"
+        "办公建筑",
+        "青岛"
       ],
-      "image": "assets/projects/School-1.jpg",
-      "sourceFile": "School-1.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8E%BF%E5%AE%9E%E9%AA%8C%E5%B0%8F%E5%AD%A6%E9%A1%B9%E7%9B%AE-chongqing-pengshui-county-experimental-primary-%E5%9B%BD%E7%A5%A5-%E5%90%95-4uexe/",
+      "image": "assets/projects/Office-8.jpg",
+      "sourceFile": "Office-8.pdf",
+      "linkedinUrl": "",
       "translations": {
         "zh": {
-          "name": "重庆彭水县实验小学项目",
-          "location": "中国 · 重庆市彭水县",
-          "description": "项目位于中国重庆市彭水县，由彭水县教育委员会开发并审批，总建筑面积约 60,000 平方米。小学建筑设计集教室、办公、食堂、体育中心、游泳池及停车场等功能于一体。原始资料记载：场地已平整，项目正在建设中。"
+          "name": "青岛海尔公交TOD项目",
+          "location": "青岛",
+          "description": "项目位于青岛市市北区沈阳路，由海尔集团与青岛公交集团联合开发，总建筑面积约 120,000 平方米。综合规划与设计整合了高端办公、商务中心与精品住宅。"
         },
         "en": {
-          "location": "Pengshui County, Chongqing, China"
+          "location": "Qingdao"
         }
       },
-      "imageCount": 14,
-      "galleryBundle": "data/gallery/school-1.json",
-      "album": "assets/albums/school-1.json",
-      "featured": true,
+      "imageCount": 6,
+      "galleryBundle": "data/gallery/office-8.json",
+      "album": "assets/albums/office-8.json",
+      "featured": false,
       "order": 34,
       "published": true,
       "revision": "20261017",
-      "categoryId": "education",
+      "categoryId": "office",
       "majorCategory": "public"
     },
     {
@@ -1941,5 +1941,5 @@
     }
   },
   "schemaVersion": 2,
-  "orderRevision": "1792219922309005400"
+  "orderRevision": "1792222794971192200"
 }
