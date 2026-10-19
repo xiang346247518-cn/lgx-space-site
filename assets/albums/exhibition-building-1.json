@@ -3,20 +3,20 @@
   "projectId": "exhibition-building-1",
   "images": [
     {
+      "src": "assets/images/exhibition-building-1/eb7eb2b3e696dd6d1abc4517.webp",
+      "width": 1600,
+      "height": 893,
+      "caption": {
+        "zh": "05",
+        "en": ""
+      }
+    },
+    {
       "src": "assets/images/exhibition-building-1/46e9c8fc3628f6d2c9b174e0.webp",
       "width": 1600,
       "height": 912,
       "caption": {
         "zh": "01 鸟瞰图",
-        "en": ""
-      }
-    },
-    {
-      "src": "assets/images/exhibition-building-1/c60509031b642c0d603cd645.webp",
-      "width": 1600,
-      "height": 893,
-      "caption": {
-        "zh": "02",
         "en": ""
       }
     },
@@ -30,6 +30,15 @@
       },
       "sourceFile": "Exhibition Building-1.pdf",
       "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-1/c60509031b642c0d603cd645.webp",
+      "width": 1600,
+      "height": 893,
+      "caption": {
+        "zh": "02",
+        "en": ""
+      }
     },
     {
       "src": "assets/images/exhibition-building-1/6576b685d26c930f079ecb52.webp",
@@ -46,15 +55,6 @@
       "height": 893,
       "caption": {
         "zh": "04",
-        "en": ""
-      }
-    },
-    {
-      "src": "assets/images/exhibition-building-1/eb7eb2b3e696dd6d1abc4517.webp",
-      "width": 1600,
-      "height": 893,
-      "caption": {
-        "zh": "05",
         "en": ""
       }
     }
