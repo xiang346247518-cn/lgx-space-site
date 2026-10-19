@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T01:41:58Z",
+  "updatedAt": "2026-10-19T02:08:58Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -34,13 +34,13 @@
           "description": "The project is located in Zhonglou District, Changzhou City, Jiangsu Province. Developed by BYD Group, it has a total construction area of approximately 27,000 square meters with a planned investment of 300 million yuan. It will be the first flagship store in Jiangsu Province that integrates all BYD brands with the highest standards, combining functions such as automobile knowledge promotion, brand history exhibition, corporate culture display, technology experience, car exhibition, sales, and maintenance. The project is currently under construction and is expected to be completed by the end of 2025."
         }
       },
-      "imageCount": 5,
+      "imageCount": 6,
       "galleryBundle": "data/gallery/exhibition-building-1.json",
       "album": "assets/albums/exhibition-building-1.json",
       "featured": true,
       "order": 0,
       "published": true,
-      "revision": "1792374115929754000",
+      "revision": "1792375735578565900",
       "categoryId": "exhibition",
       "majorCategory": "public"
     },

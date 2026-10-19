@@ -52,6 +52,15 @@
       },
       "sourceFile": "Exhibition Building-1.pdf",
       "sourcePage": 1
+    },
+    {
+      "src": "assets/images/exhibition-building-1/ad32bbbb64c23e6ccb8919b0.webp",
+      "width": 1600,
+      "height": 862,
+      "caption": {
+        "zh": "006",
+        "en": ""
+      }
     }
   ]
 }
