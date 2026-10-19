@@ -3,10 +3,21 @@
   "projectId": "exhibition-building-1",
   "images": [
     {
-      "src": "assets/projects/Exhibition-Building-1.jpg",
+      "src": "assets/images/exhibition-building-1/46e9c8fc3628f6d2c9b174e0.webp",
+      "width": 1600,
+      "height": 912,
       "caption": {
-        "zh": "常州比亚迪全品牌旗舰店",
-        "en": "Changzhou BYD Full-Brand Flagship Store"
+        "zh": "01 鸟瞰图",
+        "en": ""
+      }
+    },
+    {
+      "src": "assets/images/exhibition-building-1/c60509031b642c0d603cd645.webp",
+      "width": 1600,
+      "height": 893,
+      "caption": {
+        "zh": "02",
+        "en": ""
       }
     },
     {
@@ -21,44 +32,29 @@
       "sourcePage": 1
     },
     {
-      "src": "assets/images/exhibition-building-1/6610152c8c51e9cdb9d0395d.webp",
+      "src": "assets/images/exhibition-building-1/6576b685d26c930f079ecb52.webp",
       "width": 1600,
-      "height": 1026,
+      "height": 893,
       "caption": {
-        "zh": "项目影像 04",
-        "en": "Project image 04"
-      },
-      "sourceFile": "Exhibition Building-1.pdf",
-      "sourcePage": 1
+        "zh": "03",
+        "en": ""
+      }
     },
     {
-      "src": "assets/images/exhibition-building-1/5012757d42c99b13dd2e38ba.webp",
+      "src": "assets/images/exhibition-building-1/1911d16707b7aebbb888e9c8.webp",
       "width": 1600,
-      "height": 1015,
+      "height": 893,
       "caption": {
-        "zh": "项目影像 02",
-        "en": "Project image 02"
-      },
-      "sourceFile": "Exhibition Building-1.pdf",
-      "sourcePage": 1
+        "zh": "04",
+        "en": ""
+      }
     },
     {
-      "src": "assets/images/exhibition-building-1/6bbe0b09f479462186e3b2db.webp",
+      "src": "assets/images/exhibition-building-1/eb7eb2b3e696dd6d1abc4517.webp",
       "width": 1600,
-      "height": 1015,
+      "height": 893,
       "caption": {
-        "zh": "项目影像 03",
-        "en": "Project image 03"
-      },
-      "sourceFile": "Exhibition Building-1.pdf",
-      "sourcePage": 1
-    },
-    {
-      "src": "assets/images/exhibition-building-1/ad32bbbb64c23e6ccb8919b0.webp",
-      "width": 1600,
-      "height": 862,
-      "caption": {
-        "zh": "006",
+        "zh": "05",
         "en": ""
       }
     }

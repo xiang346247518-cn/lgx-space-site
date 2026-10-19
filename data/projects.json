@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T02:08:58Z",
+  "updatedAt": "2026-10-19T02:33:01Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -20,7 +20,7 @@
         "BYD",
         "Automotive Flagship Store"
       ],
-      "image": "assets/projects/Exhibition-Building-1.jpg",
+      "image": "assets/images/exhibition-building-1/46e9c8fc3628f6d2c9b174e0.webp",
       "sourceFile": "Exhibition Building-1.pdf",
       "linkedinUrl": "https://www.linkedin.com/pulse/%E5%B8%B8%E5%B7%9E%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E5%93%81%E7%89%8C%E6%97%97%E8%88%B0%E5%BA%97-changzhou-byd-full-brand-flagship-store-%E5%9B%BD%E7%A5%A5-%E5%90%95-loi5e/",
       "translations": {
@@ -40,7 +40,7 @@
       "featured": true,
       "order": 0,
       "published": true,
-      "revision": "1792375735578565900",
+      "revision": "1792377179082266500",
       "categoryId": "exhibition",
       "majorCategory": "public"
     },
