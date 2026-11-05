@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:55:54Z",
+  "updatedAt": "2026-11-05T10:56:35Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -268,13 +268,13 @@
           "description": "A 100,000-square-meter residential development under Poly Group, located in the core area of Jiangqiao Town, Jiading District, Shanghai, is positioned as a high-end residential building. It has been completed and put up for sale."
         }
       },
-      "imageCount": 8,
+      "imageCount": 7,
       "galleryBundle": "data/gallery/residence-1.json",
       "album": "assets/albums/residence-1.json",
       "featured": true,
       "order": 6,
       "published": true,
-      "revision": "1792209589377224400",
+      "revision": "1793876188274579800",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
     },
