@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:13:19Z",
+  "updatedAt": "2026-11-05T10:30:20Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -96,7 +96,7 @@
         "居住与酒店",
         "绍兴"
       ],
-      "image": "assets/projects/Hotel-Apartment-1.jpg",
+      "image": "assets/images/hotel-apartment-1/0e40d85018a1df9876acb732.webp",
       "sourceFile": "Hotel&Apartment-1.pdf",
       "linkedinUrl": "",
       "translations": {
@@ -110,13 +110,13 @@
           "description": "A 38,000-square-meter hotel under Hilton Group, located in Shaoxing, Zhejiang Province, is positioned as a landmark building integrating high-end hotel services, business conferences and office functions. The project has been completed."
         }
       },
-      "imageCount": 27,
+      "imageCount": 25,
       "galleryBundle": "data/gallery/hotel-apartment-1.json",
       "album": "assets/albums/hotel-apartment-1.json",
       "featured": true,
       "order": 2,
       "published": true,
-      "revision": "1793873597295585800",
+      "revision": "1793874617393082800",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
     },

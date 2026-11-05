@@ -3,13 +3,6 @@
   "projectId": "hotel-apartment-1",
   "images": [
     {
-      "src": "assets/projects/Hotel-Apartment-1.jpg",
-      "caption": {
-        "zh": "绍兴苏宁希尔顿酒店",
-        "en": "Shaoxing Suning Hilton Hotel"
-      }
-    },
-    {
       "src": "assets/images/hotel-apartment-1/0e40d85018a1df9876acb732.webp",
       "width": 1246,
       "height": 934,
@@ -25,6 +18,13 @@
       "caption": {
         "zh": "034",
         "en": ""
+      }
+    },
+    {
+      "src": "assets/projects/Hotel-Apartment-1.jpg",
+      "caption": {
+        "zh": "绍兴苏宁希尔顿酒店",
+        "en": "Shaoxing Suning Hilton Hotel"
       }
     },
     {
@@ -157,29 +157,11 @@
       }
     },
     {
-      "src": "assets/images/hotel-apartment-1/a94544eba63e84f69e26f6a1.webp",
-      "width": 674,
-      "height": 448,
-      "caption": {
-        "zh": "023",
-        "en": ""
-      }
-    },
-    {
       "src": "assets/images/hotel-apartment-1/685b304bfb047dc826466f20.webp",
       "width": 673,
       "height": 448,
       "caption": {
         "zh": "024",
-        "en": ""
-      }
-    },
-    {
-      "src": "assets/images/hotel-apartment-1/b017d7d49f778889f8ff18c7.webp",
-      "width": 676,
-      "height": 451,
-      "caption": {
-        "zh": "025",
         "en": ""
       }
     },
@@ -229,15 +211,6 @@
       }
     },
     {
-      "src": "assets/images/hotel-apartment-1/7d9cc74037472c8890e9a448.webp",
-      "width": 1244,
-      "height": 935,
-      "caption": {
-        "zh": "032",
-        "en": ""
-      }
-    },
-    {
       "src": "assets/images/hotel-apartment-1/e15fc42faa4c79a215f90350.webp",
       "width": 1090,
       "height": 933,
@@ -252,6 +225,15 @@
       "height": 935,
       "caption": {
         "zh": "035",
+        "en": ""
+      }
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/7d9cc74037472c8890e9a448.webp",
+      "width": 1244,
+      "height": 935,
+      "caption": {
+        "zh": "032",
         "en": ""
       }
     }
