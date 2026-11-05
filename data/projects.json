@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:39:10Z",
+  "updatedAt": "2026-11-05T11:39:46Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -512,9 +512,9 @@
       "id": "office-3",
       "name": "南昌绿地朝阳中心",
       "englishName": "Nanchang Greenland Chaoyang Center",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "南昌",
+      "location": "Nanchang",
       "category": "办公建筑",
       "role": "Core Lead Architect Team Members",
       "originalDescription": "A 160,000-square-meter comprehensive commercial project developed by Greenland Group, located in Chaoyang District, Nanchang. It is positioned as a landmark building integrating 216-meter super high\u0002rise offices, apartments and commerce, and the project has been completed.",
@@ -529,10 +529,11 @@
         "zh": {
           "name": "南昌绿地朝阳中心",
           "location": "南昌",
-          "description": "项目位于南昌市朝阳区，由绿地集团开发，建筑面积约 160,000 平方米。项目定位为集 216 米超高层办公、公寓与商业于一体的地标建筑。原始资料记载：项目已经完成。"
+          "description": "项目位于南昌市朝阳区，由绿地集团开发，建筑面积约 160,000 平方米。项目定位为集 216 米超高层办公、公寓与商业于一体的地标建筑。项目已经完成。"
         },
         "en": {
-          "location": "Nanchang"
+          "location": "Nanchang",
+          "description": "A 160,000-square-meter comprehensive commercial project developed by Greenland Group, located in Chaoyang District, Nanchang. It is positioned as a landmark building integrating 216-meter super high\u0002rise offices, apartments and commerce, and the project has been completed."
         }
       },
       "imageCount": 3,
@@ -541,7 +542,7 @@
       "featured": false,
       "order": 13,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793878780053754700",
       "categoryId": "office",
       "majorCategory": "public"
     },
