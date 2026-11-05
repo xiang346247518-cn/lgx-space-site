@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:52:44Z",
+  "updatedAt": "2026-11-05T12:06:59Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -337,7 +337,7 @@
         "建筑制图",
         "PreDC"
       ],
-      "image": "assets/projects/Residence-2.jpg",
+      "image": "assets/images/residence-2/be21f5f0a831c17c53fd3a00.webp",
       "sourceFile": "Residence-2.pdf",
       "linkedinUrl": "https://www.linkedin.com/pulse/yishun-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-xbvbe/",
       "translations": {
@@ -350,13 +350,13 @@
           "location": "Yishun, Singapore"
         }
       },
-      "imageCount": 7,
+      "imageCount": 6,
       "galleryBundle": "data/gallery/residence-2.json",
       "album": "assets/albums/residence-2.json",
       "featured": false,
       "order": 8,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793880417304092000",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
     },
