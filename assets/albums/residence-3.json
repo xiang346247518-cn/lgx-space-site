@@ -3,7 +3,9 @@
   "projectId": "residence-3",
   "images": [
     {
-      "src": "assets/projects/Residence-3.jpg",
+      "src": "assets/images/residence-3/bb62ee2bf3ca15de67f75bed.webp",
+      "width": 1600,
+      "height": 900,
       "caption": {
         "zh": "新加坡 Ang Mo Kio HDB 住宅项目",
         "en": "Ang Mo Kio HDB"

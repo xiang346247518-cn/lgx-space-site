@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:08:20Z",
+  "updatedAt": "2026-11-05T12:33:54Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -217,7 +217,7 @@
         "建筑制图",
         "PreDC"
       ],
-      "image": "assets/projects/Residence-3.jpg",
+      "image": "assets/images/residence-3/bb62ee2bf3ca15de67f75bed.webp",
       "sourceFile": "Residence-3.pdf",
       "linkedinUrl": "https://www.linkedin.com/pulse/ang-mo-kio-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-jbdqe/",
       "translations": {
@@ -236,7 +236,7 @@
       "featured": true,
       "order": 5,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793882030279685600",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
     },
