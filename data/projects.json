@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:31:40Z",
+  "updatedAt": "2026-11-05T11:38:29Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -734,9 +734,9 @@
       "id": "shopping-mall-5",
       "name": "郑州豫发锦荣悦汇城",
       "englishName": "Zhengzhou Yufa Jinrong Yuehui Mall",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "郑州",
+      "location": "Zhengzhou",
       "category": "商业与综合体",
       "role": "Lead Architect",
       "originalDescription": "Zhengzhou Yufa Jinrong Yuehui Mall is located in the Zhengzhou Airport Economy Zone. Developed by Yufa Group, it has a total construction area of approximately 300,000 square meters, with the shopping center itself covering 100,000 square meters. It is a commercial complex integrating multiple functions such as shopping, catering, entertainment, and leisure, and has already opened for operation.",
@@ -751,19 +751,20 @@
         "zh": {
           "name": "郑州豫发锦荣悦汇城",
           "location": "郑州",
-          "description": "郑州豫发锦荣悦汇城位于郑州航空港经济区，由豫发集团开发，总建筑面积约 300,000 平方米，其中购物中心面积 100,000 平方米。它是集购物、餐饮、娱乐与休闲等多种功能于一体的商业综合体。原始资料记载：项目已开业运营。"
+          "description": "郑州豫发锦荣悦汇城位于郑州航空港经济区，由豫发集团开发，总建筑面积约 300,000 平方米，其中购物中心面积 100,000 平方米。它是集购物、餐饮、娱乐与休闲等多种功能于一体的商业综合体。"
         },
         "en": {
-          "location": "Zhengzhou"
+          "location": "Zhengzhou",
+          "description": "Zhengzhou Yufa Jinrong Yuehui Mall is located in the Zhengzhou Airport Economy Zone. Developed by Yufa Group, it has a total construction area of approximately 300,000 square meters, with the shopping center itself covering 100,000 square meters. It is a commercial complex integrating multiple functions such as shopping, catering, entertainment, and leisure, and has already opened for operation."
         }
       },
-      "imageCount": 8,
+      "imageCount": 7,
       "galleryBundle": "data/gallery/shopping-mall-5.json",
       "album": "assets/albums/shopping-mall-5.json",
       "featured": false,
       "order": 19,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793878707212991800",
       "categoryId": "commercial",
       "majorCategory": "public"
     },
