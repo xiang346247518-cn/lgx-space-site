@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:37:29Z",
+  "updatedAt": "2026-11-05T12:41:13Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -158,46 +158,42 @@
       "majorCategory": "public"
     },
     {
-      "id": "exhibition-building-3",
-      "name": "新加坡滨海湾花园 Eco Leaves 展馆",
-      "englishName": "Eco Leaves · Gardens by the Bay",
-      "year": "2025–present",
-      "date": "2025年6月 – 现在",
-      "location": "Gardens by the Bay, Singapore",
-      "category": "展陈与汽车",
-      "role": "BIM Modeling and Rendering Services",
-      "originalDescription": "The project is situated in Gardens by the Bay, Singapore, covering a construction area of around 4,000 square meters. It is an exhibition building that combines exhibition functions with water purification and environmental protection services.​",
+      "id": "residence-1",
+      "name": "上海保利云上住宅项目",
+      "englishName": "Shanghai Poly Cloud Residence Project",
+      "year": null,
+      "date": "",
+      "location": "Shanghai",
+      "category": "居住与酒店",
+      "role": "Lead Architect",
+      "originalDescription": "A 100,000-square-meter residential development under Poly Group, located in the core area of Jiangqiao Town, Jiading District, Shanghai, is positioned as a high-end residential building. It has been completed and put up for sale.",
       "keywords": [
-        "展陈与汽车",
-        "新加坡",
-        "Concept Design",
-        "Architectural Scheme Design",
-        "BIM Modelling",
-        "Rendering"
+        "居住与酒店",
+        "上海"
       ],
-      "image": "assets/projects/Exhibition-Building-3.jpg",
-      "sourceFile": "Exhibition Building-3.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/eco-leaves-project-singapores-gardens-bay-%E5%9B%BD%E7%A5%A5-%E5%90%95-zbsme/",
+      "image": "assets/projects/Residence-1.jpg",
+      "sourceFile": "Residence-1.pdf",
+      "linkedinUrl": "",
       "translations": {
         "zh": {
-          "name": "新加坡滨海湾花园 Eco Leaves 展馆",
-          "location": "新加坡 · 滨海湾花园",
-          "description": "项目位于新加坡滨海湾花园，建筑面积约 4,000 平方米。它是一座将展览功能与水净化、环境保护服务相结合的展览建筑。"
+          "name": "上海保利云上住宅项目",
+          "location": "上海",
+          "description": "项目位于上海市嘉定区江桥镇核心地带，由保利集团开发，建筑面积约 100,000 平方米，定位为高端住宅。原始资料记载：项目已完成并投入销售。"
         },
         "en": {
-          "location": "Gardens by the Bay, Singapore",
-          "description": "The project is situated in Gardens by the Bay, Singapore, covering a construction area of around 4,000 square meters. It is an exhibition building that combines exhibition functions with water purification and environmental protection services.​"
+          "location": "Shanghai",
+          "description": "A 100,000-square-meter residential development under Poly Group, located in the core area of Jiangqiao Town, Jiading District, Shanghai, is positioned as a high-end residential building. It has been completed and put up for sale."
         }
       },
-      "imageCount": 7,
-      "galleryBundle": "data/gallery/exhibition-building-3.json",
-      "album": "assets/albums/exhibition-building-3.json",
+      "imageCount": 6,
+      "galleryBundle": "data/gallery/residence-1.json",
+      "album": "assets/albums/residence-1.json",
       "featured": true,
       "order": 4,
       "published": true,
-      "revision": "1792234559274038400",
-      "categoryId": "exhibition",
-      "majorCategory": "public"
+      "revision": "1793878286691351400",
+      "categoryId": "living-hospitality",
+      "majorCategory": "living"
     },
     {
       "id": "residence-3",
@@ -242,42 +238,88 @@
       "majorCategory": "living"
     },
     {
-      "id": "residence-1",
-      "name": "上海保利云上住宅项目",
-      "englishName": "Shanghai Poly Cloud Residence Project",
-      "year": null,
-      "date": "",
-      "location": "Shanghai",
+      "id": "residence-2",
+      "name": "新加坡 Yishun HDB 住宅项目",
+      "englishName": "Yishun HDB",
+      "year": "2024",
+      "date": "2024年5月 – 2024年8月",
+      "location": "Yishun, Singapore",
       "category": "居住与酒店",
-      "role": "Lead Architect",
-      "originalDescription": "A 100,000-square-meter residential development under Poly Group, located in the core area of Jiangqiao Town, Jiading District, Shanghai, is positioned as a high-end residential building. It has been completed and put up for sale.",
+      "role": "BIM Consulting Services",
+      "originalDescription": "The project is located in the Yishun area of Singapore, with a total construction area of approximately 90,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase.",
       "keywords": [
         "居住与酒店",
-        "上海"
+        "新加坡",
+        "BIM Consulting Services",
+        "BIM Modelling",
+        "建筑制图",
+        "PreDC"
       ],
-      "image": "assets/projects/Residence-1.jpg",
-      "sourceFile": "Residence-1.pdf",
-      "linkedinUrl": "",
+      "image": "assets/images/residence-2/be21f5f0a831c17c53fd3a00.webp",
+      "sourceFile": "Residence-2.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/yishun-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-xbvbe/",
       "translations": {
         "zh": {
-          "name": "上海保利云上住宅项目",
-          "location": "上海",
-          "description": "项目位于上海市嘉定区江桥镇核心地带，由保利集团开发，建筑面积约 100,000 平方米，定位为高端住宅。原始资料记载：项目已完成并投入销售。"
+          "name": "新加坡 Yishun HDB 住宅项目",
+          "location": "新加坡 · Yishun",
+          "description": "项目位于新加坡 Yishun 地区，总建筑面积约 90,000 平方米，整合公共住房、多层停车楼与配套服务。项目将于2028年完工"
         },
         "en": {
-          "location": "Shanghai",
-          "description": "A 100,000-square-meter residential development under Poly Group, located in the core area of Jiangqiao Town, Jiading District, Shanghai, is positioned as a high-end residential building. It has been completed and put up for sale."
+          "location": "Yishun, Singapore",
+          "description": "The project is located in the Yishun area of Singapore, with a total construction area of approximately 90,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase."
         }
       },
       "imageCount": 6,
-      "galleryBundle": "data/gallery/residence-1.json",
-      "album": "assets/albums/residence-1.json",
+      "galleryBundle": "data/gallery/residence-2.json",
+      "album": "assets/albums/residence-2.json",
       "featured": true,
       "order": 6,
       "published": true,
-      "revision": "1793878286691351400",
+      "revision": "1793880497950335300",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
+    },
+    {
+      "id": "exhibition-building-3",
+      "name": "新加坡滨海湾花园 Eco Leaves 展馆",
+      "englishName": "Eco Leaves · Gardens by the Bay",
+      "year": "2025–present",
+      "date": "2025年6月 – 现在",
+      "location": "Gardens by the Bay, Singapore",
+      "category": "展陈与汽车",
+      "role": "BIM Modeling and Rendering Services",
+      "originalDescription": "The project is situated in Gardens by the Bay, Singapore, covering a construction area of around 4,000 square meters. It is an exhibition building that combines exhibition functions with water purification and environmental protection services.​",
+      "keywords": [
+        "展陈与汽车",
+        "新加坡",
+        "Concept Design",
+        "Architectural Scheme Design",
+        "BIM Modelling",
+        "Rendering"
+      ],
+      "image": "assets/projects/Exhibition-Building-3.jpg",
+      "sourceFile": "Exhibition Building-3.pdf",
+      "linkedinUrl": "https://www.linkedin.com/pulse/eco-leaves-project-singapores-gardens-bay-%E5%9B%BD%E7%A5%A5-%E5%90%95-zbsme/",
+      "translations": {
+        "zh": {
+          "name": "新加坡滨海湾花园 Eco Leaves 展馆",
+          "location": "新加坡 · 滨海湾花园",
+          "description": "项目位于新加坡滨海湾花园，建筑面积约 4,000 平方米。它是一座将展览功能与水净化、环境保护服务相结合的展览建筑。"
+        },
+        "en": {
+          "location": "Gardens by the Bay, Singapore",
+          "description": "The project is situated in Gardens by the Bay, Singapore, covering a construction area of around 4,000 square meters. It is an exhibition building that combines exhibition functions with water purification and environmental protection services.​"
+        }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/exhibition-building-3.json",
+      "album": "assets/albums/exhibition-building-3.json",
+      "featured": true,
+      "order": 7,
+      "published": true,
+      "revision": "1792234559274038400",
+      "categoryId": "exhibition",
+      "majorCategory": "public"
     },
     {
       "id": "industrial-park-1",
@@ -314,53 +356,11 @@
       "galleryBundle": "data/gallery/industrial-park-1.json",
       "album": "assets/albums/industrial-park-1.json",
       "featured": true,
-      "order": 7,
+      "order": 8,
       "published": true,
       "revision": "20261017",
       "categoryId": "industrial",
       "majorCategory": "public"
-    },
-    {
-      "id": "residence-2",
-      "name": "新加坡 Yishun HDB 住宅项目",
-      "englishName": "Yishun HDB",
-      "year": "2024",
-      "date": "2024年5月 – 2024年8月",
-      "location": "Yishun, Singapore",
-      "category": "居住与酒店",
-      "role": "BIM Consulting Services",
-      "originalDescription": "The project is located in the Yishun area of Singapore, with a total construction area of approximately 90,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase.",
-      "keywords": [
-        "居住与酒店",
-        "新加坡",
-        "BIM Consulting Services",
-        "BIM Modelling",
-        "建筑制图",
-        "PreDC"
-      ],
-      "image": "assets/images/residence-2/be21f5f0a831c17c53fd3a00.webp",
-      "sourceFile": "Residence-2.pdf",
-      "linkedinUrl": "https://www.linkedin.com/pulse/yishun-hdb-project-singapore-%E5%9B%BD%E7%A5%A5-%E5%90%95-xbvbe/",
-      "translations": {
-        "zh": {
-          "name": "新加坡 Yishun HDB 住宅项目",
-          "location": "新加坡 · Yishun",
-          "description": "项目位于新加坡 Yishun 地区，总建筑面积约 90,000 平方米，整合公共住房、多层停车楼与配套服务。项目将于2028年完工"
-        },
-        "en": {
-          "location": "Yishun, Singapore",
-          "description": "The project is located in the Yishun area of Singapore, with a total construction area of approximately 90,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase."
-        }
-      },
-      "imageCount": 6,
-      "galleryBundle": "data/gallery/residence-2.json",
-      "album": "assets/albums/residence-2.json",
-      "featured": false,
-      "order": 8,
-      "published": true,
-      "revision": "1793880497950335300",
-      "categoryId": "living-hospitality",
-      "majorCategory": "living"
     },
     {
       "id": "shopping-mall-3",
@@ -505,7 +505,7 @@
       "imageCount": 6,
       "galleryBundle": "data/gallery/office-6.json",
       "album": "assets/albums/office-6.json",
-      "featured": false,
+      "featured": true,
       "order": 12,
       "published": true,
       "revision": "1793878799456854800",
@@ -543,11 +543,49 @@
       "imageCount": 3,
       "galleryBundle": "data/gallery/office-3.json",
       "album": "assets/albums/office-3.json",
-      "featured": false,
+      "featured": true,
       "order": 13,
       "published": true,
       "revision": "1793878780053754700",
       "categoryId": "office",
+      "majorCategory": "public"
+    },
+    {
+      "id": "shopping-mall-5",
+      "name": "郑州豫发锦荣悦汇城",
+      "englishName": "Zhengzhou Yufa Jinrong Yuehui Mall",
+      "year": null,
+      "date": "",
+      "location": "Zhengzhou",
+      "category": "商业与综合体",
+      "role": "Lead Architect",
+      "originalDescription": "Zhengzhou Yufa Jinrong Yuehui Mall is located in the Zhengzhou Airport Economy Zone. Developed by Yufa Group, it has a total construction area of approximately 300,000 square meters, with the shopping center itself covering 100,000 square meters. It is a commercial complex integrating multiple functions such as shopping, catering, entertainment, and leisure, and has already opened for operation.",
+      "keywords": [
+        "商业与综合体",
+        "郑州"
+      ],
+      "image": "assets/projects/Shopping-mall-5.jpg",
+      "sourceFile": "Shopping mall-5.pdf",
+      "linkedinUrl": "",
+      "translations": {
+        "zh": {
+          "name": "郑州豫发锦荣悦汇城",
+          "location": "郑州",
+          "description": "郑州豫发锦荣悦汇城位于郑州航空港经济区，由豫发集团开发，总建筑面积约 300,000 平方米，其中购物中心面积 100,000 平方米。它是集购物、餐饮、娱乐与休闲等多种功能于一体的商业综合体。"
+        },
+        "en": {
+          "location": "Zhengzhou",
+          "description": "Zhengzhou Yufa Jinrong Yuehui Mall is located in the Zhengzhou Airport Economy Zone. Developed by Yufa Group, it has a total construction area of approximately 300,000 square meters, with the shopping center itself covering 100,000 square meters. It is a commercial complex integrating multiple functions such as shopping, catering, entertainment, and leisure, and has already opened for operation."
+        }
+      },
+      "imageCount": 7,
+      "galleryBundle": "data/gallery/shopping-mall-5.json",
+      "album": "assets/albums/shopping-mall-5.json",
+      "featured": true,
+      "order": 14,
+      "published": true,
+      "revision": "1793878707212991800",
+      "categoryId": "commercial",
       "majorCategory": "public"
     },
     {
@@ -581,7 +619,7 @@
       "galleryBundle": "data/gallery/office-2.json",
       "album": "assets/albums/office-2.json",
       "featured": false,
-      "order": 14,
+      "order": 15,
       "published": true,
       "revision": "20261017",
       "categoryId": "office",
@@ -619,7 +657,7 @@
       "galleryBundle": "data/gallery/shopping-mall-4.json",
       "album": "assets/albums/shopping-mall-4.json",
       "featured": false,
-      "order": 15,
+      "order": 16,
       "published": true,
       "revision": "1793878743082315000",
       "categoryId": "commercial",
@@ -656,7 +694,7 @@
       "galleryBundle": "data/gallery/hotel-apartment-2.json",
       "album": "assets/albums/hotel-apartment-2.json",
       "featured": false,
-      "order": 16,
+      "order": 17,
       "published": true,
       "revision": "20261017",
       "categoryId": "living-hospitality",
@@ -693,7 +731,7 @@
       "galleryBundle": "data/gallery/office-7.json",
       "album": "assets/albums/office-7.json",
       "featured": false,
-      "order": 17,
+      "order": 18,
       "published": true,
       "revision": "20261017",
       "categoryId": "office",
@@ -730,47 +768,9 @@
       "galleryBundle": "data/gallery/shopping-mall-1.json",
       "album": "assets/albums/shopping-mall-1.json",
       "featured": false,
-      "order": 18,
-      "published": true,
-      "revision": "20261017",
-      "categoryId": "commercial",
-      "majorCategory": "public"
-    },
-    {
-      "id": "shopping-mall-5",
-      "name": "郑州豫发锦荣悦汇城",
-      "englishName": "Zhengzhou Yufa Jinrong Yuehui Mall",
-      "year": null,
-      "date": "",
-      "location": "Zhengzhou",
-      "category": "商业与综合体",
-      "role": "Lead Architect",
-      "originalDescription": "Zhengzhou Yufa Jinrong Yuehui Mall is located in the Zhengzhou Airport Economy Zone. Developed by Yufa Group, it has a total construction area of approximately 300,000 square meters, with the shopping center itself covering 100,000 square meters. It is a commercial complex integrating multiple functions such as shopping, catering, entertainment, and leisure, and has already opened for operation.",
-      "keywords": [
-        "商业与综合体",
-        "郑州"
-      ],
-      "image": "assets/projects/Shopping-mall-5.jpg",
-      "sourceFile": "Shopping mall-5.pdf",
-      "linkedinUrl": "",
-      "translations": {
-        "zh": {
-          "name": "郑州豫发锦荣悦汇城",
-          "location": "郑州",
-          "description": "郑州豫发锦荣悦汇城位于郑州航空港经济区，由豫发集团开发，总建筑面积约 300,000 平方米，其中购物中心面积 100,000 平方米。它是集购物、餐饮、娱乐与休闲等多种功能于一体的商业综合体。"
-        },
-        "en": {
-          "location": "Zhengzhou",
-          "description": "Zhengzhou Yufa Jinrong Yuehui Mall is located in the Zhengzhou Airport Economy Zone. Developed by Yufa Group, it has a total construction area of approximately 300,000 square meters, with the shopping center itself covering 100,000 square meters. It is a commercial complex integrating multiple functions such as shopping, catering, entertainment, and leisure, and has already opened for operation."
-        }
-      },
-      "imageCount": 7,
-      "galleryBundle": "data/gallery/shopping-mall-5.json",
-      "album": "assets/albums/shopping-mall-5.json",
-      "featured": false,
       "order": 19,
       "published": true,
-      "revision": "1793878707212991800",
+      "revision": "20261017",
       "categoryId": "commercial",
       "majorCategory": "public"
     },
@@ -1953,5 +1953,5 @@
     }
   },
   "schemaVersion": 2,
-  "orderRevision": "1792222794971192200"
+  "orderRevision": "1793882470711541600"
 }
