@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:01:26Z",
+  "updatedAt": "2026-11-05T11:03:20Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -1116,9 +1116,9 @@
       "id": "residence-4",
       "name": "重庆彭水县别墅设计",
       "englishName": "Chongqing Pengshui Villa Design",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "重庆",
+      "location": "Chongqing",
       "category": "居住与酒店",
       "role": "Lead Architect",
       "originalDescription": "The villa, spanning 550 square meters, is located in Pengshui County, Chongqing City. The ground floor primarily serves as public space, while the second floor is mainly dedicated to living quarters.",
@@ -1136,7 +1136,8 @@
           "description": "别墅位于重庆市彭水县，面积 550 平方米。首层主要为公共空间，二层主要为居住空间。"
         },
         "en": {
-          "location": "Chongqing"
+          "location": "Chongqing",
+          "description": "The villa, spanning 550 square meters, is located in Pengshui County, Chongqing City. The ground floor primarily serves as public space, while the second floor is mainly dedicated to living quarters."
         }
       },
       "imageCount": 8,
@@ -1145,7 +1146,7 @@
       "featured": false,
       "order": 29,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793876592304561900",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
     },
