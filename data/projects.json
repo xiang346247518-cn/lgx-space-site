@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:40:07Z",
+  "updatedAt": "2026-11-05T11:40:34Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -438,9 +438,9 @@
       "id": "master-plan-3",
       "name": "重庆璧山爱琴海TOD项目",
       "englishName": "Chongqing Bishan Aegean Sea TOD Project",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "重庆",
+      "location": "Chongqing",
       "category": "城市规划",
       "role": "Lead Architect",
       "originalDescription": "The Chongqing Bishan Aegean Sea TOD Project is located in the core area of the Bishan section of the Science City. Jointly developed by Red Star Macalline and Sunac, it has a total investment of over 8 billion yuan and a floor area ratio (FAR) construction area of approximately 1.08 million square meters, including a 248,000-square-meter urban complex. Integrating 3 rail transit lines, it combines multiple formats such as commerce, office and residential. As the first TOD complex in the Science City, its shopping park has been capped.",
@@ -455,19 +455,20 @@
         "zh": {
           "name": "重庆璧山爱琴海TOD项目",
           "location": "重庆",
-          "description": "重庆璧山爱琴海 TOD 项目位于科学城璧山片区核心区域，由红星美凯龙与融创联合开发，总投资超过 80 亿元，计容建筑面积约 1,080,000 平方米，其中包含 248,000 平方米的城市综合体。项目整合 3 条轨道交通线路，融合商业、办公与住宅等多种业态。作为科学城首个 TOD 综合体，原始资料记载其购物公园已封顶。"
+          "description": "重庆璧山爱琴海 TOD 项目位于科学城璧山片区核心区域，由红星美凯龙与融创联合开发，总投资超过 80 亿元，计容建筑面积约 1,080,000 平方米，其中包含 248,000 平方米的城市综合体。项目整合 3 条轨道交通线路，融合商业、办公与住宅等多种业态。作为科学城首个 TOD 综合体，购物公园已封顶。"
         },
         "en": {
-          "location": "Chongqing"
+          "location": "Chongqing",
+          "description": "The Chongqing Bishan Aegean Sea TOD Project is located in the core area of the Bishan section of the Science City. Jointly developed by Red Star Macalline and Sunac, it has a total investment of over 8 billion yuan and a floor area ratio (FAR) construction area of approximately 1.08 million square meters, including a 248,000-square-meter urban complex. Integrating 3 rail transit lines, it combines multiple formats such as commerce, office and residential. As the first TOD complex in the Science City, its shopping park has been capped."
         }
       },
       "imageCount": 7,
       "galleryBundle": "data/gallery/master-plan-3.json",
       "album": "assets/albums/master-plan-3.json",
-      "featured": false,
+      "featured": true,
       "order": 11,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793878823123480400",
       "categoryId": "planning",
       "majorCategory": "public"
     },
