@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:56:35Z",
+  "updatedAt": "2026-11-05T11:01:09Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -1420,9 +1420,9 @@
       "id": "school-4",
       "name": "郑州伊河路小学",
       "englishName": "Zhengzhou Yihe Road Primary School",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "郑州",
+      "location": "Zhengzhou",
       "category": "教育建筑",
       "role": "Lead Architect",
       "originalDescription": "The project is situated in the Yihe Road Street area of Zhengzhou. It involves a plot related to Zhengzhou Yihe Road Primary School, with a total land area of 25,902 ㎡. It incorporates a 30 - class primary school (with a construction area of 17,040 ㎡; the above - ground floor area is 31,945 ㎡ and the underground floor area is 14,099 ㎡) and supporting facilities such as a sports field. it is intended to provide a high - standard educational environment for the area and enhance the local educational support capacity.",
@@ -1437,10 +1437,11 @@
         "zh": {
           "name": "郑州伊河路小学",
           "location": "郑州",
-          "description": "项目位于郑州市伊河路街道片区，涉及郑州伊河路小学相关地块，总用地面积 25,902 ㎡。原始资料记载：包含一所 30 班小学，建筑面积 17,040 ㎡；地上建筑面积 31,945 ㎡，地下建筑面积 14,099 ㎡，以及运动场等配套设施。项目旨在提供高标准教育环境，提升当地教育配套能力。上述不同面积口径按原文保留。"
+          "description": "项目位于郑州市伊河路街道片区，涉及郑州伊河路小学相关地块，总用地面积 25,902 ㎡。原始资料记载：包含一所 30 班小学，建筑面积 17,040 ㎡；地上建筑面积 31,945 ㎡，地下建筑面积 14,099 ㎡，以及运动场等配套设施。项目旨在提供高标准教育环境，提升当地教育配套能力。"
         },
         "en": {
-          "location": "Zhengzhou"
+          "location": "Zhengzhou",
+          "description": "The project is situated in the Yihe Road Street area of Zhengzhou. It involves a plot related to Zhengzhou Yihe Road Primary School, with a total land area of 25,902 ㎡. It incorporates a 30 - class primary school (with a construction area of 17,040 ㎡; the above - ground floor area is 31,945 ㎡ and the underground floor area is 14,099 ㎡) and supporting facilities such as a sports field. it is intended to provide a high - standard educational environment for the area and enhance the local educational support capacity."
         }
       },
       "imageCount": 11,
@@ -1449,7 +1450,7 @@
       "featured": false,
       "order": 37,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793876467198802200",
       "categoryId": "education",
       "majorCategory": "public"
     },
