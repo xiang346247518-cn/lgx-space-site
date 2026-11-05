@@ -57,6 +57,24 @@
         "zh": "04",
         "en": ""
       }
+    },
+    {
+      "src": "assets/images/exhibition-building-1/05d8afe30e686de08683615a.webp",
+      "width": 1050,
+      "height": 787,
+      "caption": {
+        "zh": "007",
+        "en": ""
+      }
+    },
+    {
+      "src": "assets/images/exhibition-building-1/df61130a41e8d07c2e754239.webp",
+      "width": 1600,
+      "height": 1067,
+      "caption": {
+        "zh": "008",
+        "en": ""
+      }
     }
   ]
 }
