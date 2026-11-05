@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:38:29Z",
+  "updatedAt": "2026-11-05T11:39:10Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -586,9 +586,9 @@
       "id": "shopping-mall-4",
       "name": "西宁香格里拉商业中心",
       "englishName": "Xining Shangri-La Commercial Center",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "西宁",
+      "location": "Xining",
       "category": "商业与综合体",
       "role": "Core Lead Architect Team Members",
       "originalDescription": "Xining Shangri-La Commercial Center in Qinghai is located at No. 8 Shangri-La Avenue, Chengzhong District. It is developed by Xining Weiye Real Estate Development Co., Ltd. With a total construction area of approximately 200,000 square meters and a shopping center area of about 100,000 square meters, it is a large-scale urban complex integrating leisure, entertainment, catering and shopping, and has been opened for operation.",
@@ -603,10 +603,11 @@
         "zh": {
           "name": "西宁香格里拉商业中心",
           "location": "西宁",
-          "description": "青海西宁香格里拉商业中心位于城中区香格里拉大道 8 号，由西宁伟业房地产开发有限公司开发，总建筑面积约 200,000 平方米，购物中心面积约 100,000 平方米。它是集休闲、娱乐、餐饮与购物于一体的大型城市综合体。原始资料记载：项目已开业运营。"
+          "description": "青海西宁香格里拉商业中心位于城中区香格里拉大道 8 号，由西宁伟业房地产开发有限公司开发，总建筑面积约 200,000 平方米，购物中心面积约 100,000 平方米。它是集休闲、娱乐、餐饮与购物于一体的大型城市综合体。项目已开业运营。"
         },
         "en": {
-          "location": "Xining"
+          "location": "Xining",
+          "description": "Xining Shangri-La Commercial Center in Qinghai is located at No. 8 Shangri-La Avenue, Chengzhong District. It is developed by Xining Weiye Real Estate Development Co., Ltd. With a total construction area of approximately 200,000 square meters and a shopping center area of about 100,000 square meters, it is a large-scale urban complex integrating leisure, entertainment, catering and shopping, and has been opened for operation."
         }
       },
       "imageCount": 5,
@@ -615,7 +616,7 @@
       "featured": false,
       "order": 15,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793878743082315000",
       "categoryId": "commercial",
       "majorCategory": "public"
     },
