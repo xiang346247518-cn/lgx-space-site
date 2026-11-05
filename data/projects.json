@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:31:29Z",
+  "updatedAt": "2026-11-05T11:31:40Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -818,7 +818,7 @@
         "商业与综合体",
         "郑州"
       ],
-      "image": "assets/projects/L-6.jpg",
+      "image": "assets/images/l-6/5e2f5f219cf276e3ba206f0b.webp",
       "sourceFile": "L-6.pdf",
       "linkedinUrl": "",
       "translations": {
@@ -831,13 +831,13 @@
           "location": "Zhengzhou"
         }
       },
-      "imageCount": 5,
+      "imageCount": 2,
       "galleryBundle": "data/gallery/l-6.json",
       "album": "assets/albums/l-6.json",
       "featured": false,
       "order": 21,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793878286703951500",
       "categoryId": "commercial",
       "majorCategory": "public"
     },
