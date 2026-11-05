@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:33:54Z",
+  "updatedAt": "2026-11-05T12:35:23Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -201,7 +201,7 @@
     },
     {
       "id": "residence-3",
-      "name": "ANG MO KIO HDB project in Singapore",
+      "name": "新加坡 Ang Mo Kio HDB 住宅项目",
       "englishName": "Ang Mo Kio HDB",
       "year": "2024",
       "date": "2024年5月 – 2024年8月",
@@ -227,7 +227,8 @@
           "description": "项目位于新加坡 Ang Mo Kio 地区，总建筑面积约 60,000 平方米，整合公共住房、多层停车楼与配套服务。原始资料记载：项目处于设计阶段。"
         },
         "en": {
-          "location": "Ang Mo Kio, Singapore"
+          "location": "Ang Mo Kio, Singapore",
+          "description": "The project is located in the Ang Mo Kio area of Singapore, with a total construction area of approximately 60,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase."
         }
       },
       "imageCount": 7,
@@ -236,7 +237,7 @@
       "featured": true,
       "order": 5,
       "published": true,
-      "revision": "1793882030279685600",
+      "revision": "1793882121326496700",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
     },

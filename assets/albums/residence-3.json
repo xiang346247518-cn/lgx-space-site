@@ -12,23 +12,12 @@
       }
     },
     {
-      "src": "assets/images/residence-3/064fab55bfedaa223ad5c8a6.webp",
-      "width": 1513,
-      "height": 1063,
+      "src": "assets/images/residence-3/a1ee4591c666a3ce3967c095.webp",
+      "width": 1600,
+      "height": 900,
       "caption": {
-        "zh": "项目影像 02",
-        "en": "Project image 02"
-      },
-      "sourceFile": "Residence-3.pdf",
-      "sourcePage": 1
-    },
-    {
-      "src": "assets/images/residence-3/46cdbefcb9b90c8568f4ec6a.webp",
-      "width": 1523,
-      "height": 1070,
-      "caption": {
-        "zh": "项目影像 03",
-        "en": "Project image 03"
+        "zh": "项目影像 07",
+        "en": "Project image 07"
       },
       "sourceFile": "Residence-3.pdf",
       "sourcePage": 1
@@ -45,17 +34,6 @@
       "sourcePage": 1
     },
     {
-      "src": "assets/images/residence-3/fbe5900a8c7e889aeb3259fd.webp",
-      "width": 1600,
-      "height": 600,
-      "caption": {
-        "zh": "项目影像 05",
-        "en": "Project image 05"
-      },
-      "sourceFile": "Residence-3.pdf",
-      "sourcePage": 1
-    },
-    {
       "src": "assets/images/residence-3/07b3d4ecbc5d5f96e9c905cc.webp",
       "width": 1600,
       "height": 740,
@@ -67,12 +45,34 @@
       "sourcePage": 1
     },
     {
-      "src": "assets/images/residence-3/a1ee4591c666a3ce3967c095.webp",
+      "src": "assets/images/residence-3/fbe5900a8c7e889aeb3259fd.webp",
       "width": 1600,
-      "height": 900,
+      "height": 600,
       "caption": {
-        "zh": "项目影像 07",
-        "en": "Project image 07"
+        "zh": "项目影像 05",
+        "en": "Project image 05"
+      },
+      "sourceFile": "Residence-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-3/46cdbefcb9b90c8568f4ec6a.webp",
+      "width": 1523,
+      "height": 1070,
+      "caption": {
+        "zh": "项目影像 03",
+        "en": "Project image 03"
+      },
+      "sourceFile": "Residence-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/residence-3/064fab55bfedaa223ad5c8a6.webp",
+      "width": 1513,
+      "height": 1063,
+      "caption": {
+        "zh": "项目影像 02",
+        "en": "Project image 02"
       },
       "sourceFile": "Residence-3.pdf",
       "sourcePage": 1
