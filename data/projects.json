@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:09:21Z",
+  "updatedAt": "2026-11-05T10:13:19Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -86,9 +86,9 @@
       "id": "hotel-apartment-1",
       "name": "绍兴苏宁希尔顿酒店",
       "englishName": "Shaoxing Suning Hilton Hotel",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "绍兴",
+      "location": "Shaoxing",
       "category": "居住与酒店",
       "role": "Core Lead Architect Team Members",
       "originalDescription": "A 38,000-square-meter hotel under Hilton Group, located in Shaoxing, Zhejiang Province, is positioned as a landmark building integrating high-end hotel services, business conferences and office functions. The project has been completed.",
@@ -106,7 +106,8 @@
           "description": "项目位于浙江省绍兴市，是希尔顿集团旗下建筑面积约 38,000 平方米的酒店，定位为整合高端酒店服务、商务会议与办公功能的地标建筑。原始资料记载：项目已经完成。"
         },
         "en": {
-          "location": "Shaoxing"
+          "location": "Shaoxing",
+          "description": "A 38,000-square-meter hotel under Hilton Group, located in Shaoxing, Zhejiang Province, is positioned as a landmark building integrating high-end hotel services, business conferences and office functions. The project has been completed."
         }
       },
       "imageCount": 27,
@@ -115,7 +116,7 @@
       "featured": true,
       "order": 2,
       "published": true,
-      "revision": "1793873358607855900",
+      "revision": "1793873597295585800",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
     },

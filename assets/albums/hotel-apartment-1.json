@@ -10,6 +10,24 @@
       }
     },
     {
+      "src": "assets/images/hotel-apartment-1/0e40d85018a1df9876acb732.webp",
+      "width": 1246,
+      "height": 934,
+      "caption": {
+        "zh": "012",
+        "en": ""
+      }
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/a81854b96ebdfb6899ff813d.webp",
+      "width": 1259,
+      "height": 934,
+      "caption": {
+        "zh": "034",
+        "en": ""
+      }
+    },
+    {
       "src": "assets/images/hotel-apartment-1/2b5da51840896e89cb17cf30.webp",
       "width": 1600,
       "height": 890,
@@ -27,6 +45,17 @@
       "caption": {
         "zh": "项目影像 03",
         "en": "Project image 03"
+      },
+      "sourceFile": "Hotel&Apartment-1.pdf",
+      "sourcePage": 1
+    },
+    {
+      "src": "assets/images/hotel-apartment-1/08ba287fe4fb93e1217b6b7d.webp",
+      "width": 1600,
+      "height": 890,
+      "caption": {
+        "zh": "项目影像 07",
+        "en": "Project image 07"
       },
       "sourceFile": "Hotel&Apartment-1.pdf",
       "sourcePage": 1
@@ -65,17 +94,6 @@
       "sourcePage": 1
     },
     {
-      "src": "assets/images/hotel-apartment-1/08ba287fe4fb93e1217b6b7d.webp",
-      "width": 1600,
-      "height": 890,
-      "caption": {
-        "zh": "项目影像 07",
-        "en": "Project image 07"
-      },
-      "sourceFile": "Hotel&Apartment-1.pdf",
-      "sourcePage": 1
-    },
-    {
       "src": "assets/images/hotel-apartment-1/4398d1f7d71c431f188e657b.webp",
       "width": 1250,
       "height": 931,
@@ -99,15 +117,6 @@
       "height": 930,
       "caption": {
         "zh": "010",
-        "en": ""
-      }
-    },
-    {
-      "src": "assets/images/hotel-apartment-1/0e40d85018a1df9876acb732.webp",
-      "width": 1246,
-      "height": 934,
-      "caption": {
-        "zh": "012",
         "en": ""
       }
     },
@@ -234,15 +243,6 @@
       "height": 933,
       "caption": {
         "zh": "033",
-        "en": ""
-      }
-    },
-    {
-      "src": "assets/images/hotel-apartment-1/a81854b96ebdfb6899ff813d.webp",
-      "width": 1259,
-      "height": 934,
-      "caption": {
-        "zh": "034",
         "en": ""
       }
     },
