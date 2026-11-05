@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:01:09Z",
+  "updatedAt": "2026-11-05T11:01:26Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -1488,7 +1488,7 @@
       "featured": false,
       "order": 38,
       "published": true,
-      "revision": "1792220421019376200",
+      "revision": "1793876475845644400",
       "categoryId": "education",
       "majorCategory": "public"
     }
