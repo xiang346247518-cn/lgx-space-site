@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:39:46Z",
+  "updatedAt": "2026-11-05T11:40:07Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -475,9 +475,9 @@
       "id": "office-6",
       "name": "北京绿地中心ABC座",
       "englishName": "Blocks A/B/C of Beijing Greenland Center",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "北京",
+      "location": "Beijing",
       "category": "办公建筑",
       "role": "Core Lead Architect Team Members",
       "originalDescription": "Blocks A, B and C of Beijing Greenland Center (excluding the super high-rise part) are located in Chaoyang District. Developed by Greenland Group, they are comprehensive office buildings mainly focusing on Grade A office spaces and business services, with a total construction area of approximately 180,000 square meters. The buildings have been completed and put into operation.",
@@ -492,10 +492,11 @@
         "zh": {
           "name": "北京绿地中心ABC座",
           "location": "北京",
-          "description": "北京绿地中心 A、B、C 座（不含超高层部分）位于朝阳区，由绿地集团开发，是以甲级办公与商务服务为主的综合办公建筑，总建筑面积约 180,000 平方米。原始资料记载：建筑已完成并投入运营。"
+          "description": "北京绿地中心 A、B、C 座（不含超高层部分）位于朝阳区，由绿地集团开发，是以甲级办公与商务服务为主的综合办公建筑，总建筑面积约 180,000 平方米。建筑已完成并投入运营。"
         },
         "en": {
-          "location": "Beijing"
+          "location": "Beijing",
+          "description": "Blocks A, B and C of Beijing Greenland Center (excluding the super high-rise part) are located in Chaoyang District. Developed by Greenland Group, they are comprehensive office buildings mainly focusing on Grade A office spaces and business services, with a total construction area of approximately 180,000 square meters. The buildings have been completed and put into operation."
         }
       },
       "imageCount": 6,
@@ -504,7 +505,7 @@
       "featured": false,
       "order": 12,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793878799456854800",
       "categoryId": "office",
       "majorCategory": "public"
     },
