@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:06:59Z",
+  "updatedAt": "2026-11-05T12:08:20Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -321,7 +321,7 @@
     },
     {
       "id": "residence-2",
-      "name": "YiShun HDB project in Singapore",
+      "name": "新加坡 Yishun HDB 住宅项目",
       "englishName": "Yishun HDB",
       "year": "2024",
       "date": "2024年5月 – 2024年8月",
@@ -344,10 +344,11 @@
         "zh": {
           "name": "新加坡 Yishun HDB 住宅项目",
           "location": "新加坡 · Yishun",
-          "description": "项目位于新加坡 Yishun 地区，总建筑面积约 90,000 平方米，整合公共住房、多层停车楼与配套服务。原始资料记载：项目处于设计阶段。"
+          "description": "项目位于新加坡 Yishun 地区，总建筑面积约 90,000 平方米，整合公共住房、多层停车楼与配套服务。项目将于2028年完工"
         },
         "en": {
-          "location": "Yishun, Singapore"
+          "location": "Yishun, Singapore",
+          "description": "The project is located in the Yishun area of Singapore, with a total construction area of approximately 90,000 square meters. Integrating public housing, multi-storey parking garages and supporting services, the project is currently in the design phase."
         }
       },
       "imageCount": 6,
@@ -356,7 +357,7 @@
       "featured": false,
       "order": 8,
       "published": true,
-      "revision": "1793880417304092000",
+      "revision": "1793880497950335300",
       "categoryId": "living-hospitality",
       "majorCategory": "living"
     },
