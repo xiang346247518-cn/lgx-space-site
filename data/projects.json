@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:41:13Z",
+  "updatedAt": "2026-11-06T01:22:24Z",
   "note": "描述保留 PDF 原文（仅合并排版换行）。年份仅在 LinkedIn 同名项目有明确日期时填写；没有日期的项目保留空值。PDF 为用户资料，不作为网站公开下载链接。",
   "projects": [
     {
@@ -124,9 +124,9 @@
       "id": "shopping-mall-7",
       "name": "重庆三洞桥park",
       "englishName": "Chongqing Sandongqiao Park",
-      "year": "",
+      "year": null,
       "date": "",
-      "location": "重庆",
+      "location": "Chongqing",
       "category": "商业与综合体",
       "role": "Core Lead Architect Team Members",
       "originalDescription": "Chongqing Sandongqiao Park is located on North Binjiang First Road, Jiangbei District. Developed and constructed by Chongqing Jiangbeizui Central Business District Investment Group Co., Ltd., it has a total construction area of approximately 48,000 square meters. It is a cultural and tourism block integrating the protection of historical relics with commercial operations, incorporating cultural display, catering and leisure, as well as sightseeing and experience. At present, it has been completed and opened to the public.",
@@ -144,16 +144,17 @@
           "description": "重庆三洞桥 park 位于江北区北滨一路，由重庆江北嘴中央商务区投资集团有限公司开发建设，总建筑面积约 48,000 平方米。它是一处将历史遗迹保护与商业运营相结合的文旅街区，融合文化展示、餐饮休闲、观光与体验。原始资料记载：项目已完成并向公众开放。"
         },
         "en": {
-          "location": "Chongqing"
+          "location": "Chongqing",
+          "description": "Chongqing Sandongqiao Park is located on North Binjiang First Road, Jiangbei District. Developed and constructed by Chongqing Jiangbeizui Central Business District Investment Group Co., Ltd., it has a total construction area of approximately 48,000 square meters. It is a cultural and tourism block integrating the protection of historical relics with commercial operations, incorporating cultural display, catering and leisure, as well as sightseeing and experience. At present, it has been completed and opened to the public."
         }
       },
-      "imageCount": 7,
+      "imageCount": 6,
       "galleryBundle": "data/gallery/shopping-mall-7.json",
       "album": "assets/albums/shopping-mall-7.json",
       "featured": true,
       "order": 3,
       "published": true,
-      "revision": "20261017",
+      "revision": "1793928141791916200",
       "categoryId": "commercial",
       "majorCategory": "public"
     },
